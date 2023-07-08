@@ -120,6 +120,9 @@
   (junction (at 209.55 24.13) (diameter 0) (color 0 0 0 0)
     (uuid 00accd4e-a275-418e-be00-2344fe750539)
   )
+  (junction (at 185.42 76.2) (diameter 0) (color 0 0 0 0)
+    (uuid 0279792f-dacf-4cb1-9948-8dda98968a3b)
+  )
   (junction (at 77.47 40.64) (diameter 0) (color 0 0 0 0)
     (uuid 07fe8a9b-425e-46a5-b633-1d77190eaf4b)
   )
@@ -129,17 +132,11 @@
   (junction (at 201.93 92.71) (diameter 0) (color 0 0 0 0)
     (uuid 08a4cb5f-5968-4e38-a4dd-3ebbc3c8faa1)
   )
-  (junction (at 152.4 76.2) (diameter 0) (color 0 0 0 0)
-    (uuid 0991c8fa-6603-4dfe-be2a-547769095d0e)
-  )
   (junction (at 44.45 40.64) (diameter 0) (color 0 0 0 0)
     (uuid 0b3e9e67-0cb1-48cb-9d84-45ea282908bf)
   )
   (junction (at 209.55 90.17) (diameter 0) (color 0 0 0 0)
     (uuid 0f6dedd6-0c38-44b9-bd63-fd670a0c0323)
-  )
-  (junction (at 44.45 73.66) (diameter 0) (color 0 0 0 0)
-    (uuid 12c861ed-050f-4d18-8df8-16683345afeb)
   )
   (junction (at 102.87 26.67) (diameter 0) (color 0 0 0 0)
     (uuid 14474486-474f-474e-8112-df7336644c01)
@@ -147,8 +144,8 @@
   (junction (at 143.51 57.15) (diameter 0) (color 0 0 0 0)
     (uuid 17e379a8-b78b-4574-93c7-50ad7620413f)
   )
-  (junction (at 110.49 90.17) (diameter 0) (color 0 0 0 0)
-    (uuid 1a58c4b4-7e1d-4e25-920a-c09388d00cad)
+  (junction (at 135.89 105.41) (diameter 0) (color 0 0 0 0)
+    (uuid 1a576ded-fcfb-4fef-84f9-5b921f45961f)
   )
   (junction (at 168.91 43.18) (diameter 0) (color 0 0 0 0)
     (uuid 1c4fa6e9-1cf6-4a2e-b63a-eb9249535370)
@@ -168,7 +165,7 @@
   (junction (at 36.83 76.2) (diameter 0) (color 0 0 0 0)
     (uuid 2957f36e-f08e-4393-bb0d-679b4f7be475)
   )
-  (junction (at 110.49 102.87) (diameter 0) (color 0 0 0 0)
+  (junction (at 127 102.87) (diameter 0) (color 0 0 0 0)
     (uuid 2abaee3f-1770-4568-b803-58cdb963c888)
   )
   (junction (at 53.34 92.71) (diameter 0) (color 0 0 0 0)
@@ -183,11 +180,11 @@
   (junction (at 27.94 73.66) (diameter 0) (color 0 0 0 0)
     (uuid 2dea74fb-351e-4ed7-888e-bd6cc34e0c28)
   )
+  (junction (at 168.91 76.2) (diameter 0) (color 0 0 0 0)
+    (uuid 2f296218-5a7b-4709-832f-269ff4700695)
+  )
   (junction (at 36.83 43.18) (diameter 0) (color 0 0 0 0)
     (uuid 3209124b-bf78-4521-a1aa-bd0d17c09e9d)
-  )
-  (junction (at 160.02 73.66) (diameter 0) (color 0 0 0 0)
-    (uuid 324c4bd8-d5fb-4590-9c4f-5d38c043f728)
   )
   (junction (at 60.96 90.17) (diameter 0) (color 0 0 0 0)
     (uuid 32b5c806-9f0b-4519-bbaa-ca47244fd21a)
@@ -197,6 +194,9 @@
   )
   (junction (at 135.89 59.69) (diameter 0) (color 0 0 0 0)
     (uuid 343658f0-04ea-4236-92e8-03f80a8a3656)
+  )
+  (junction (at 160.02 73.66) (diameter 0) (color 0 0 0 0)
+    (uuid 35adf4e1-64aa-475a-9761-13851051c5c9)
   )
   (junction (at 127 24.13) (diameter 0) (color 0 0 0 0)
     (uuid 360bdc57-1cad-47fb-b1b4-e61064cf0d87)
@@ -258,17 +258,23 @@
   (junction (at 135.89 26.67) (diameter 0) (color 0 0 0 0)
     (uuid 60a68589-f5c1-42c0-8ebb-0151b79e5e92)
   )
-  (junction (at 53.34 76.2) (diameter 0) (color 0 0 0 0)
-    (uuid 625b755e-b5b2-44a2-9a4c-90f6a36539ca)
-  )
   (junction (at 127 73.66) (diameter 0) (color 0 0 0 0)
     (uuid 63fce25e-4351-4d49-a882-53ae3f1622fb)
   )
   (junction (at 251.46 92.71) (diameter 0) (color 0 0 0 0)
     (uuid 64050c58-b966-4864-ab19-84f61be30b8e)
   )
+  (junction (at 86.36 76.2) (diameter 0) (color 0 0 0 0)
+    (uuid 662ee201-08e0-4724-b7b1-ad29223567ab)
+  )
+  (junction (at 176.53 73.66) (diameter 0) (color 0 0 0 0)
+    (uuid 66f5c7c4-fe8c-4bbc-a0e8-b95a0b4ad3b4)
+  )
   (junction (at 209.55 40.64) (diameter 0) (color 0 0 0 0)
     (uuid 67222e8b-188f-4af8-b829-602109d49cb9)
+  )
+  (junction (at 127 90.17) (diameter 0) (color 0 0 0 0)
+    (uuid 6b0a79e9-b2b3-48b4-a254-321812dd0aa6)
   )
   (junction (at 193.04 57.15) (diameter 0) (color 0 0 0 0)
     (uuid 6d04b708-d5b3-4d00-b4e4-5a583c46ed0b)
@@ -288,9 +294,6 @@
   (junction (at 36.83 59.69) (diameter 0) (color 0 0 0 0)
     (uuid 72df1000-f87e-465d-97e7-bccf348e0584)
   )
-  (junction (at 119.38 76.2) (diameter 0) (color 0 0 0 0)
-    (uuid 760f7dfa-6740-48ca-8d72-cf0934eb3c9b)
-  )
   (junction (at 226.06 24.13) (diameter 0) (color 0 0 0 0)
     (uuid 762ca895-bb98-41ab-9d9a-0c55b62eec58)
   )
@@ -300,14 +303,17 @@
   (junction (at 27.94 24.13) (diameter 0) (color 0 0 0 0)
     (uuid 7ab3067d-9f5c-4c83-ad23-2e37772e1697)
   )
-  (junction (at 135.89 76.2) (diameter 0) (color 0 0 0 0)
-    (uuid 7d075787-7762-4cfe-bd9b-fcd1c9aef923)
-  )
   (junction (at 93.98 57.15) (diameter 0) (color 0 0 0 0)
     (uuid 80e4ba36-fe87-432b-9af3-b76f8c65a3fc)
   )
-  (junction (at 143.51 90.17) (diameter 0) (color 0 0 0 0)
-    (uuid 88e2935d-ae2a-44df-a6cf-de8af101c30b)
+  (junction (at 152.4 76.2) (diameter 0) (color 0 0 0 0)
+    (uuid 82c9af31-bb4b-4785-9af6-c383e6506b3f)
+  )
+  (junction (at 102.87 76.2) (diameter 0) (color 0 0 0 0)
+    (uuid 89b4fd98-c3a8-443b-9cf0-ba204b2e1539)
+  )
+  (junction (at 135.89 92.71) (diameter 0) (color 0 0 0 0)
+    (uuid 89b9b235-790d-4108-8d18-fcb9fa6edeb1)
   )
   (junction (at 251.46 43.18) (diameter 0) (color 0 0 0 0)
     (uuid 89c1d344-ae89-4b06-bd74-aee294082ec9)
@@ -339,11 +345,17 @@
   (junction (at 168.91 26.67) (diameter 0) (color 0 0 0 0)
     (uuid 98f5b776-eb5d-45e8-9d48-abe5beb238da)
   )
+  (junction (at 168.91 92.71) (diameter 0) (color 0 0 0 0)
+    (uuid 99946644-6179-4928-9a4f-324ced42e004)
+  )
+  (junction (at 160.02 90.17) (diameter 0) (color 0 0 0 0)
+    (uuid 9b5f29e5-c17f-44b4-bc01-8117c9e8037a)
+  )
   (junction (at 209.55 73.66) (diameter 0) (color 0 0 0 0)
     (uuid a5286c80-0e11-4c6f-a5cc-562a55b44707)
   )
-  (junction (at 119.38 92.71) (diameter 0) (color 0 0 0 0)
-    (uuid a687fe66-d6dd-49a0-bd21-449a99aedf7d)
+  (junction (at 69.85 76.2) (diameter 0) (color 0 0 0 0)
+    (uuid a54f90a2-1b88-4abf-8094-26afda444215)
   )
   (junction (at 143.51 73.66) (diameter 0) (color 0 0 0 0)
     (uuid a8da6d35-a139-49bf-bac7-57b38c504d1a)
@@ -371,9 +383,6 @@
   )
   (junction (at 143.51 24.13) (diameter 0) (color 0 0 0 0)
     (uuid c0af3255-d66d-48e7-b12c-6b330e75cafd)
-  )
-  (junction (at 102.87 76.2) (diameter 0) (color 0 0 0 0)
-    (uuid c10b8d26-57e9-4bee-a4d1-bda1bee55680)
   )
   (junction (at 218.44 76.2) (diameter 0) (color 0 0 0 0)
     (uuid c27716ec-03a5-4a6f-bb41-7e53c7350ae1)
@@ -411,8 +420,11 @@
   (junction (at 160.02 40.64) (diameter 0) (color 0 0 0 0)
     (uuid cd72c05d-4fd2-4f16-98c5-b8dc2daf39d2)
   )
-  (junction (at 86.36 76.2) (diameter 0) (color 0 0 0 0)
-    (uuid d03bdec0-386b-4ab4-9c22-1e85b86c0dd2)
+  (junction (at 135.89 76.2) (diameter 0) (color 0 0 0 0)
+    (uuid ce111997-e391-4e96-a8ed-0fc9ba29ad9e)
+  )
+  (junction (at 119.38 76.2) (diameter 0) (color 0 0 0 0)
+    (uuid d0ef9236-0aff-442f-bcd3-40e83cd16766)
   )
   (junction (at 193.04 40.64) (diameter 0) (color 0 0 0 0)
     (uuid d1317887-c90d-42ff-8cbf-da8a0fed9380)
@@ -422,9 +434,6 @@
   )
   (junction (at 27.94 90.17) (diameter 0) (color 0 0 0 0)
     (uuid d4e39a56-fda1-4ef1-ac54-a518a1a8eb28)
-  )
-  (junction (at 152.4 92.71) (diameter 0) (color 0 0 0 0)
-    (uuid d7818e62-b9a0-4c1d-bc31-44da8f85ae83)
   )
   (junction (at 36.83 92.71) (diameter 0) (color 0 0 0 0)
     (uuid d86b4854-8abc-4bbf-b8d1-8d54e40c94ac)
@@ -447,9 +456,6 @@
   (junction (at 53.34 59.69) (diameter 0) (color 0 0 0 0)
     (uuid e3f66c9d-1323-4efc-b51f-220ac41a7250)
   )
-  (junction (at 168.91 76.2) (diameter 0) (color 0 0 0 0)
-    (uuid e4fd5458-4379-4ad5-a898-8f671dd38058)
-  )
   (junction (at 86.36 26.67) (diameter 0) (color 0 0 0 0)
     (uuid e745f17b-216e-4b62-9b3b-27296424c9e6)
   )
@@ -467,9 +473,6 @@
   )
   (junction (at 119.38 59.69) (diameter 0) (color 0 0 0 0)
     (uuid ee7e99a0-2c91-42b6-8af9-3a312f2ccf11)
-  )
-  (junction (at 119.38 105.41) (diameter 0) (color 0 0 0 0)
-    (uuid f19df3ef-b9c1-4293-8755-49f800b7ffed)
   )
   (junction (at 193.04 90.17) (diameter 0) (color 0 0 0 0)
     (uuid f3a2c522-f815-4c50-8f63-99e849cb4dca)
@@ -491,9 +494,6 @@
   )
   (junction (at 60.96 40.64) (diameter 0) (color 0 0 0 0)
     (uuid f891a345-9d11-4e37-bccd-7d86f0172699)
-  )
-  (junction (at 69.85 76.2) (diameter 0) (color 0 0 0 0)
-    (uuid f94b50a4-04c9-4fb2-a59f-b2e2843a6d24)
   )
   (junction (at 160.02 24.13) (diameter 0) (color 0 0 0 0)
     (uuid faecc364-dbfa-44b5-a42f-564dd6e98a56)
@@ -582,10 +582,6 @@
     (stroke (width 0) (type default))
     (uuid 0db17d7a-2a17-4e85-af90-51eb2250d284)
   )
-  (wire (pts (xy 110.49 90.17) (xy 110.49 91.44))
-    (stroke (width 0) (type default))
-    (uuid 0df95ad7-8f4a-4582-a412-5e0eb728924b)
-  )
   (wire (pts (xy 212.09 102.87) (xy 209.55 102.87))
     (stroke (width 0) (type default))
     (uuid 0edd838d-0829-4b9e-8e6e-3d12b3df5d23)
@@ -602,7 +598,7 @@
     (stroke (width 0) (type default))
     (uuid 120fbf46-c533-44ca-8031-cc281988be5e)
   )
-  (wire (pts (xy 143.51 104.14) (xy 143.51 100.33))
+  (wire (pts (xy 160.02 104.14) (xy 160.02 100.33))
     (stroke (width 0) (type default))
     (uuid 13166b2b-c305-4695-b239-5563aaee5384)
   )
@@ -610,9 +606,9 @@
     (stroke (width 0) (type default))
     (uuid 13c7a865-3ca0-4f84-9e20-bda6e84b7d65)
   )
-  (wire (pts (xy 160.02 73.66) (xy 160.02 74.93))
+  (wire (pts (xy 77.47 86.36) (xy 77.47 82.55))
     (stroke (width 0) (type default))
-    (uuid 13e65673-c262-4a8a-bca7-c6cb34bc22bf)
+    (uuid 143e21e0-be7d-4a30-9ecf-de7799cfd335)
   )
   (wire (pts (xy 209.55 53.34) (xy 209.55 49.53))
     (stroke (width 0) (type default))
@@ -638,10 +634,6 @@
     (stroke (width 0) (type default))
     (uuid 1606e042-6d4e-4e5d-bef7-fc5cba0151a8)
   )
-  (wire (pts (xy 160.02 86.36) (xy 160.02 82.55))
-    (stroke (width 0) (type default))
-    (uuid 16117c99-069c-426a-827e-e1e880120edc)
-  )
   (wire (pts (xy 77.47 73.66) (xy 93.98 73.66))
     (stroke (width 0) (type default))
     (uuid 17b6e6b9-d744-4614-b624-5103e8c6c1a5)
@@ -657,6 +649,10 @@
   (wire (pts (xy 195.58 69.85) (xy 193.04 69.85))
     (stroke (width 0) (type default))
     (uuid 1a23e8f4-325d-4a4f-a12f-d9cf20d01024)
+  )
+  (wire (pts (xy 96.52 86.36) (xy 93.98 86.36))
+    (stroke (width 0) (type default))
+    (uuid 1a830918-9ed7-47c4-8359-8a69305fb68b)
   )
   (wire (pts (xy 127 40.64) (xy 143.51 40.64))
     (stroke (width 0) (type default))
@@ -682,15 +678,15 @@
     (stroke (width 0) (type default))
     (uuid 1c730ba4-7e57-4068-9279-7b52e79b02cf)
   )
-  (wire (pts (xy 53.34 59.69) (xy 53.34 76.2))
+  (wire (pts (xy 176.53 73.66) (xy 176.53 74.93))
     (stroke (width 0) (type default))
-    (uuid 20454388-89a1-4da4-88e4-4de2eb878c07)
+    (uuid 1e107097-af3a-4baa-b2ac-767e10e95c4e)
   )
   (wire (pts (xy 168.91 26.67) (xy 168.91 43.18))
     (stroke (width 0) (type default))
     (uuid 207d9afe-7c19-4b80-8ea1-56160391206c)
   )
-  (wire (pts (xy 44.45 73.66) (xy 60.96 73.66))
+  (wire (pts (xy 27.94 73.66) (xy 60.96 73.66))
     (stroke (width 0) (type default))
     (uuid 21ac22e0-f675-4f62-9a31-dd425337d0f0)
   )
@@ -705,6 +701,14 @@
   (wire (pts (xy 201.93 26.67) (xy 201.93 43.18))
     (stroke (width 0) (type default))
     (uuid 22fcb103-f1a1-4854-bcde-8ad288be4a21)
+  )
+  (wire (pts (xy 176.53 73.66) (xy 193.04 73.66))
+    (stroke (width 0) (type default))
+    (uuid 23c6abd9-1632-4200-a7ed-7ee922a8be2f)
+  )
+  (wire (pts (xy 143.51 86.36) (xy 143.51 82.55))
+    (stroke (width 0) (type default))
+    (uuid 24d8498b-e716-4304-88a7-765bf905ad0b)
   )
   (wire (pts (xy 226.06 40.64) (xy 226.06 41.91))
     (stroke (width 0) (type default))
@@ -762,10 +766,6 @@
     (stroke (width 0) (type default))
     (uuid 2dfff15b-c7d4-4074-a3d2-7606845b1bdc)
   )
-  (wire (pts (xy 129.54 86.36) (xy 127 86.36))
-    (stroke (width 0) (type default))
-    (uuid 2e64ed43-35f9-469d-bf28-ec3ef40670a2)
-  )
   (wire (pts (xy 201.93 20.32) (xy 201.93 26.67))
     (stroke (width 0) (type default))
     (uuid 2e734004-5bb1-41d8-bd0c-eb1b38de2883)
@@ -790,10 +790,6 @@
     (stroke (width 0) (type default))
     (uuid 3020d60e-378c-4b3e-8acf-8c1393d52779)
   )
-  (wire (pts (xy 146.05 86.36) (xy 143.51 86.36))
-    (stroke (width 0) (type default))
-    (uuid 30785b1c-30eb-4776-9083-562713d2be9e)
-  )
   (wire (pts (xy 242.57 90.17) (xy 242.57 91.44))
     (stroke (width 0) (type default))
     (uuid 30e5197b-513b-4ce9-9a53-57f084f07c42)
@@ -813,6 +809,10 @@
   (wire (pts (xy 60.96 73.66) (xy 60.96 74.93))
     (stroke (width 0) (type default))
     (uuid 3436dca2-3c18-4b31-b49e-c08f04570e68)
+  )
+  (wire (pts (xy 135.89 76.2) (xy 135.89 92.71))
+    (stroke (width 0) (type default))
+    (uuid 3485d851-4762-4d87-bac8-935e867c2a84)
   )
   (wire (pts (xy 110.49 25.4) (xy 110.49 24.13))
     (stroke (width 0) (type default))
@@ -866,13 +866,21 @@
     (stroke (width 0) (type default))
     (uuid 3bba4b47-29bd-4c44-81b1-db99bc36d067)
   )
-  (wire (pts (xy 185.42 59.69) (xy 185.42 121.92))
+  (wire (pts (xy 185.42 59.69) (xy 185.42 76.2))
     (stroke (width 0) (type default))
     (uuid 3c0b8ad0-788b-4630-83ab-08259f3bc187)
+  )
+  (wire (pts (xy 160.02 90.17) (xy 160.02 92.71))
+    (stroke (width 0) (type default))
+    (uuid 3c1035f8-add8-430f-abf3-a64acf30c9de)
   )
   (wire (pts (xy 193.04 86.36) (xy 193.04 82.55))
     (stroke (width 0) (type default))
     (uuid 3c326e7d-71a1-467b-9b49-f8cf0e22a422)
+  )
+  (wire (pts (xy 110.49 86.36) (xy 110.49 82.55))
+    (stroke (width 0) (type default))
+    (uuid 3dc605a6-6e28-472c-8ddd-625057a80f98)
   )
   (wire (pts (xy 193.04 57.15) (xy 209.55 57.15))
     (stroke (width 0) (type default))
@@ -881,6 +889,10 @@
   (wire (pts (xy 160.02 36.83) (xy 160.02 33.02))
     (stroke (width 0) (type default))
     (uuid 3f5770ce-7ec5-4186-8498-cc5a733d5a54)
+  )
+  (wire (pts (xy 119.38 76.2) (xy 119.38 121.92))
+    (stroke (width 0) (type default))
+    (uuid 3f778a8f-f2a7-42cd-9e07-421dedfeb3d6)
   )
   (wire (pts (xy 77.47 57.15) (xy 77.47 58.42))
     (stroke (width 0) (type default))
@@ -897,6 +909,10 @@
   (wire (pts (xy 110.49 40.64) (xy 110.49 41.91))
     (stroke (width 0) (type default))
     (uuid 4217b384-c305-4ace-be36-71f3ee080ce6)
+  )
+  (wire (pts (xy 127 90.17) (xy 160.02 90.17))
+    (stroke (width 0) (type default))
+    (uuid 42eacc9d-43a6-41b3-b7f8-4ed4d5ad3ec3)
   )
   (wire (pts (xy 36.83 92.71) (xy 36.83 121.92))
     (stroke (width 0) (type default))
@@ -954,10 +970,6 @@
     (stroke (width 0) (type default))
     (uuid 531b35ca-a548-4905-9847-fd9fd25736bf)
   )
-  (wire (pts (xy 143.51 86.36) (xy 143.51 82.55))
-    (stroke (width 0) (type default))
-    (uuid 53da817d-ffa0-40f3-a52e-5926d5141c2c)
-  )
   (wire (pts (xy 86.36 92.71) (xy 86.36 121.92))
     (stroke (width 0) (type default))
     (uuid 53dd725c-0790-45db-8d14-1448b37c609a)
@@ -994,6 +1006,10 @@
     (stroke (width 0) (type default))
     (uuid 598b0344-37c9-4fe2-b82f-b6be7ade7364)
   )
+  (wire (pts (xy 160.02 73.66) (xy 176.53 73.66))
+    (stroke (width 0) (type default))
+    (uuid 5a2087f6-c791-4b7a-8630-e713ba6dc0a0)
+  )
   (wire (pts (xy 212.09 86.36) (xy 209.55 86.36))
     (stroke (width 0) (type default))
     (uuid 5a74da68-a0a5-477e-a5c6-7788867c2483)
@@ -1009,10 +1025,6 @@
   (wire (pts (xy 36.83 20.32) (xy 36.83 26.67))
     (stroke (width 0) (type default))
     (uuid 5b465c04-721e-446f-b962-b6efec5e1d47)
-  )
-  (wire (pts (xy 80.01 86.36) (xy 77.47 86.36))
-    (stroke (width 0) (type default))
-    (uuid 5ca312bb-4a7b-4e33-b744-0091aca3f1e8)
   )
   (wire (pts (xy 143.51 53.34) (xy 143.51 49.53))
     (stroke (width 0) (type default))
@@ -1042,6 +1054,10 @@
     (stroke (width 0) (type default))
     (uuid 6167ab63-1749-46e9-ab4c-d470df792775)
   )
+  (wire (pts (xy 162.56 86.36) (xy 160.02 86.36))
+    (stroke (width 0) (type default))
+    (uuid 617525fa-1698-479f-8cee-a38e911a32af)
+  )
   (wire (pts (xy 193.04 69.85) (xy 193.04 66.04))
     (stroke (width 0) (type default))
     (uuid 61cc585e-ffbe-4ed8-8293-ec4945789902)
@@ -1058,7 +1074,7 @@
     (stroke (width 0) (type default))
     (uuid 637631d9-71f2-4553-9af2-a69f76433f33)
   )
-  (wire (pts (xy 152.4 92.71) (xy 152.4 121.92))
+  (wire (pts (xy 152.4 76.2) (xy 152.4 121.92))
     (stroke (width 0) (type default))
     (uuid 63eafb0d-6fe1-4cf4-bb3e-c5eec956553a)
   )
@@ -1086,19 +1102,15 @@
     (stroke (width 0) (type default))
     (uuid 676832af-8fc0-480c-a7ae-ed5201e3b162)
   )
-  (wire (pts (xy 27.94 73.66) (xy 44.45 73.66))
-    (stroke (width 0) (type default))
-    (uuid 68278e20-78d1-4cb6-90eb-707c8c81d228)
-  )
   (wire (pts (xy 135.89 26.67) (xy 135.89 43.18))
     (stroke (width 0) (type default))
     (uuid 68bd6780-871c-49b4-bb54-d0dfda7ea975)
   )
-  (wire (pts (xy 44.45 86.36) (xy 44.45 82.55))
+  (wire (pts (xy 93.98 86.36) (xy 93.98 82.55))
     (stroke (width 0) (type default))
-    (uuid 68c9b3ba-6864-4c3f-98ec-a93e54d52023)
+    (uuid 690fcec4-6a56-4d8d-a5de-8c817a9c7e74)
   )
-  (wire (pts (xy 160.02 73.66) (xy 193.04 73.66))
+  (wire (pts (xy 143.51 73.66) (xy 160.02 73.66))
     (stroke (width 0) (type default))
     (uuid 6910bf06-f607-45c3-bacb-d8651ba31715)
   )
@@ -1130,6 +1142,10 @@
     (stroke (width 0) (type default))
     (uuid 6e169d92-3b8d-491d-a092-f03480618a44)
   )
+  (wire (pts (xy 129.54 86.36) (xy 127 86.36))
+    (stroke (width 0) (type default))
+    (uuid 6e323d8e-3ca3-43ba-b256-0e4f6b193b83)
+  )
   (wire (pts (xy 226.06 40.64) (xy 242.57 40.64))
     (stroke (width 0) (type default))
     (uuid 6ec79789-ba86-46a1-94dd-0e5238ef1cb8)
@@ -1145,10 +1161,6 @@
   (wire (pts (xy 242.57 102.87) (xy 242.57 99.06))
     (stroke (width 0) (type default))
     (uuid 7087ecfc-365f-4427-9c4f-3eb484ecba63)
-  )
-  (wire (pts (xy 127 86.36) (xy 127 82.55))
-    (stroke (width 0) (type default))
-    (uuid 70ac9329-219f-4ef0-a176-542ba03e5d2f)
   )
   (wire (pts (xy 30.48 69.85) (xy 27.94 69.85))
     (stroke (width 0) (type default))
@@ -1166,7 +1178,11 @@
     (stroke (width 0) (type default))
     (uuid 748cf361-f41e-40bf-a156-74a9607d57fb)
   )
-  (wire (pts (xy 168.91 76.2) (xy 168.91 121.92))
+  (wire (pts (xy 146.05 86.36) (xy 143.51 86.36))
+    (stroke (width 0) (type default))
+    (uuid 75480a71-6ed7-4912-90ec-68d0f27be487)
+  )
+  (wire (pts (xy 168.91 59.69) (xy 168.91 76.2))
     (stroke (width 0) (type default))
     (uuid 7657c777-34fd-48c8-814a-d2ea17f1175c)
   )
@@ -1190,6 +1206,14 @@
     (stroke (width 0) (type default))
     (uuid 7905a18f-fd62-409a-b450-aaf429edd73d)
   )
+  (wire (pts (xy 63.5 86.36) (xy 60.96 86.36))
+    (stroke (width 0) (type default))
+    (uuid 79a28643-0923-430f-a0ed-dc86e3940827)
+  )
+  (wire (pts (xy 176.53 86.36) (xy 176.53 82.55))
+    (stroke (width 0) (type default))
+    (uuid 7b24f83d-ed4b-4aa2-9808-e51eb9d22233)
+  )
   (wire (pts (xy 63.5 102.87) (xy 60.96 102.87))
     (stroke (width 0) (type default))
     (uuid 7bfdc438-e2ca-493d-8334-809751cb64aa)
@@ -1198,9 +1222,9 @@
     (stroke (width 0) (type default))
     (uuid 7c1ac30f-698a-4a2f-9a42-ad32c135d0f9)
   )
-  (wire (pts (xy 119.38 76.2) (xy 119.38 92.71))
+  (wire (pts (xy 60.96 86.36) (xy 60.96 82.55))
     (stroke (width 0) (type default))
-    (uuid 7cba4a05-25c5-400a-ad48-5a401120e2ac)
+    (uuid 7d12dac0-223b-4024-b887-fb7abf7713da)
   )
   (wire (pts (xy 226.06 90.17) (xy 242.57 90.17))
     (stroke (width 0) (type default))
@@ -1209,10 +1233,6 @@
   (wire (pts (xy 21.59 57.15) (xy 27.94 57.15))
     (stroke (width 0) (type default))
     (uuid 7dab33c3-4f93-4753-bdb9-2094fa4f6c53)
-  )
-  (wire (pts (xy 143.51 73.66) (xy 160.02 73.66))
-    (stroke (width 0) (type default))
-    (uuid 7e905a26-88b3-4b24-a7c8-f12c02572fea)
   )
   (wire (pts (xy 127 53.34) (xy 127 49.53))
     (stroke (width 0) (type default))
@@ -1246,7 +1266,7 @@
     (stroke (width 0) (type default))
     (uuid 839a3377-5e29-4ada-8106-dcfef1db7fce)
   )
-  (wire (pts (xy 110.49 102.87) (xy 110.49 99.06))
+  (wire (pts (xy 127 102.87) (xy 127 99.06))
     (stroke (width 0) (type default))
     (uuid 83e390fe-0aff-49e6-9628-4b4b139c3a09)
   )
@@ -1278,10 +1298,6 @@
     (stroke (width 0) (type default))
     (uuid 89808dd9-b9e1-4be1-839f-f3835e70dbbc)
   )
-  (wire (pts (xy 119.38 105.41) (xy 119.38 121.92))
-    (stroke (width 0) (type default))
-    (uuid 8a7e8bd3-5635-405a-ad20-65adfed97dee)
-  )
   (wire (pts (xy 93.98 40.64) (xy 93.98 41.91))
     (stroke (width 0) (type default))
     (uuid 8acdba1b-ec8c-4325-aeaf-ce45a4341de6)
@@ -1289,10 +1305,6 @@
   (wire (pts (xy 212.09 36.83) (xy 209.55 36.83))
     (stroke (width 0) (type default))
     (uuid 8b33a76d-e51f-4546-9d72-a306dc2aa3cc)
-  )
-  (wire (pts (xy 113.03 86.36) (xy 110.49 86.36))
-    (stroke (width 0) (type default))
-    (uuid 8be78321-afbd-4518-bf1d-61be6d09fd09)
   )
   (wire (pts (xy 27.94 73.66) (xy 27.94 74.93))
     (stroke (width 0) (type default))
@@ -1313,10 +1325,6 @@
   (wire (pts (xy 44.45 25.4) (xy 44.45 24.13))
     (stroke (width 0) (type default))
     (uuid 8e94c6f9-13c4-49d3-a5d8-8b6864c287ea)
-  )
-  (wire (pts (xy 86.36 59.69) (xy 86.36 76.2))
-    (stroke (width 0) (type default))
-    (uuid 8eeba164-6a94-4985-811e-0e50bac8af3d)
   )
   (wire (pts (xy 113.03 53.34) (xy 110.49 53.34))
     (stroke (width 0) (type default))
@@ -1346,22 +1354,6 @@
     (stroke (width 0) (type default))
     (uuid 934cca85-24f3-4b6b-ba1f-fd8593603c35)
   )
-  (wire (pts (xy 63.5 86.36) (xy 60.96 86.36))
-    (stroke (width 0) (type default))
-    (uuid 948b999d-700b-42cc-85cd-47df3b79abd9)
-  )
-  (wire (pts (xy 69.85 76.2) (xy 69.85 92.71))
-    (stroke (width 0) (type default))
-    (uuid 95080afc-dda3-48c2-a07e-27dbc1b97fae)
-  )
-  (wire (pts (xy 77.47 86.36) (xy 77.47 82.55))
-    (stroke (width 0) (type default))
-    (uuid 951d86a0-4c37-4b0d-b52a-c8d0c5dea94b)
-  )
-  (wire (pts (xy 135.89 76.2) (xy 135.89 121.92))
-    (stroke (width 0) (type default))
-    (uuid 95b80904-2a37-44f3-913d-b1427d8498ec)
-  )
   (wire (pts (xy 27.94 102.87) (xy 27.94 99.06))
     (stroke (width 0) (type default))
     (uuid 95e1f24e-aa29-4603-bcbb-80463267a4a8)
@@ -1386,9 +1378,9 @@
     (stroke (width 0) (type default))
     (uuid 996cf677-3723-4d12-b55b-a55e9a6d5a34)
   )
-  (wire (pts (xy 143.51 90.17) (xy 193.04 90.17))
+  (wire (pts (xy 127 90.17) (xy 127 91.44))
     (stroke (width 0) (type default))
-    (uuid 9a740e91-4563-410f-a1dc-2a2121e6cbc5)
+    (uuid 9a94fba2-6078-4bf6-9e20-16496596fcf9)
   )
   (wire (pts (xy 234.95 26.67) (xy 234.95 43.18))
     (stroke (width 0) (type default))
@@ -1422,23 +1414,15 @@
     (stroke (width 0) (type default))
     (uuid a0668c9b-1605-4822-9f3a-675530e2700e)
   )
-  (wire (pts (xy 143.51 90.17) (xy 143.51 92.71))
-    (stroke (width 0) (type default))
-    (uuid a25dbb9b-48e0-4b2a-95b1-79d5c04b9987)
-  )
   (wire (pts (xy 60.96 25.4) (xy 60.96 24.13))
     (stroke (width 0) (type default))
     (uuid a2d06a47-ce87-4af2-bd97-02b70f75c479)
-  )
-  (wire (pts (xy 93.98 86.36) (xy 93.98 82.55))
-    (stroke (width 0) (type default))
-    (uuid a33aaa37-99b6-4db1-8b75-b5bb08c8e9e3)
   )
   (wire (pts (xy 195.58 36.83) (xy 193.04 36.83))
     (stroke (width 0) (type default))
     (uuid a36a3e6b-f96d-45c2-8c84-3da4110d1b02)
   )
-  (wire (pts (xy 86.36 76.2) (xy 86.36 92.71))
+  (wire (pts (xy 86.36 59.69) (xy 86.36 76.2))
     (stroke (width 0) (type default))
     (uuid a3d697ea-52c4-42cd-9b51-17c3196b3f61)
   )
@@ -1458,19 +1442,19 @@
     (stroke (width 0) (type default))
     (uuid a724695b-5a79-48bb-ac9d-7b5ccc893c71)
   )
-  (wire (pts (xy 102.87 59.69) (xy 102.87 76.2))
+  (wire (pts (xy 127 86.36) (xy 127 82.55))
     (stroke (width 0) (type default))
-    (uuid a8204fc0-e2e4-4650-8d4f-94b23b5d6ec1)
+    (uuid a7c8f94d-53e8-4ec9-9c81-7976d465b84b)
   )
   (wire (pts (xy 160.02 40.64) (xy 176.53 40.64))
     (stroke (width 0) (type default))
     (uuid a85fdb7c-6c2e-4d23-8195-93bcf62e2231)
   )
-  (wire (pts (xy 102.87 76.2) (xy 102.87 121.92))
+  (wire (pts (xy 102.87 59.69) (xy 102.87 76.2))
     (stroke (width 0) (type default))
     (uuid a871970e-e6df-4aa9-8980-d0fbd4814b88)
   )
-  (wire (pts (xy 53.34 76.2) (xy 53.34 92.71))
+  (wire (pts (xy 53.34 59.69) (xy 53.34 92.71))
     (stroke (width 0) (type default))
     (uuid a879d10a-a721-4f23-a745-3bb30d804fcf)
   )
@@ -1482,9 +1466,9 @@
     (stroke (width 0) (type default))
     (uuid ac08f984-b1db-4c8d-ae63-9a2280beb443)
   )
-  (wire (pts (xy 96.52 86.36) (xy 93.98 86.36))
+  (wire (pts (xy 185.42 76.2) (xy 185.42 121.92))
     (stroke (width 0) (type default))
-    (uuid ac9b18c2-3de7-4629-ae99-8196929efe60)
+    (uuid ac1cbfa1-02e7-4778-9509-30c4fd07aeb0)
   )
   (wire (pts (xy 234.95 20.32) (xy 234.95 26.67))
     (stroke (width 0) (type default))
@@ -1522,10 +1506,6 @@
     (stroke (width 0) (type default))
     (uuid b4242644-13bd-42c9-af5a-b9a4ad995571)
   )
-  (wire (pts (xy 110.49 86.36) (xy 110.49 82.55))
-    (stroke (width 0) (type default))
-    (uuid b53ef5ad-f0af-4c67-ad8c-12eed5cc0869)
-  )
   (wire (pts (xy 113.03 69.85) (xy 110.49 69.85))
     (stroke (width 0) (type default))
     (uuid b6676919-0533-4565-a808-585c7ec51db0)
@@ -1545,6 +1525,10 @@
   (wire (pts (xy 226.06 53.34) (xy 226.06 49.53))
     (stroke (width 0) (type default))
     (uuid b9f32be5-40f4-4219-92d5-08e14de9b0a0)
+  )
+  (wire (pts (xy 80.01 86.36) (xy 77.47 86.36))
+    (stroke (width 0) (type default))
+    (uuid bba9ff9d-e2a3-43ee-b6ba-4493370ba6f1)
   )
   (wire (pts (xy 119.38 59.69) (xy 119.38 76.2))
     (stroke (width 0) (type default))
@@ -1570,9 +1554,17 @@
     (stroke (width 0) (type default))
     (uuid c304f143-f50c-440e-9625-963433789fee)
   )
+  (wire (pts (xy 160.02 90.17) (xy 193.04 90.17))
+    (stroke (width 0) (type default))
+    (uuid c4b443ad-7658-49d6-a19b-eedd92908f7a)
+  )
   (wire (pts (xy 119.38 43.18) (xy 119.38 59.69))
     (stroke (width 0) (type default))
     (uuid c5079a3c-7323-4200-b23a-49ca1f99c621)
+  )
+  (wire (pts (xy 168.91 76.2) (xy 168.91 92.71))
+    (stroke (width 0) (type default))
+    (uuid c6c62769-15f4-46b9-96cb-e5d6a34bd330)
   )
   (wire (pts (xy 193.04 102.87) (xy 193.04 99.06))
     (stroke (width 0) (type default))
@@ -1586,23 +1578,27 @@
     (stroke (width 0) (type default))
     (uuid c9b9d83c-6093-481f-9a0a-a65d3c423aa6)
   )
+  (wire (pts (xy 179.07 86.36) (xy 176.53 86.36))
+    (stroke (width 0) (type default))
+    (uuid c9db44f8-b8cb-4abe-ab12-dfe4cf9531e5)
+  )
   (wire (pts (xy 234.95 92.71) (xy 234.95 121.92))
     (stroke (width 0) (type default))
     (uuid ca115c8f-f987-4bf8-b0ab-a3e963166b0b)
   )
-  (wire (pts (xy 46.99 86.36) (xy 44.45 86.36))
+  (wire (pts (xy 135.89 92.71) (xy 135.89 105.41))
     (stroke (width 0) (type default))
-    (uuid ca989e65-9f18-4b83-ba3a-6fcba99b976e)
+    (uuid cb130f36-7ccb-458c-94be-d0d767db98c9)
   )
-  (wire (pts (xy 162.56 86.36) (xy 160.02 86.36))
+  (wire (pts (xy 160.02 73.66) (xy 160.02 74.93))
     (stroke (width 0) (type default))
-    (uuid cb191af5-f213-40fb-872b-be4bf19fc02d)
+    (uuid cb4e6df6-7152-4ca5-b049-c8d1de551ba2)
   )
   (wire (pts (xy 242.57 90.17) (xy 259.08 90.17))
     (stroke (width 0) (type default))
     (uuid cc44ffb4-485b-4234-8df1-32c6edb8b6b2)
   )
-  (wire (pts (xy 146.05 104.14) (xy 143.51 104.14))
+  (wire (pts (xy 162.56 104.14) (xy 160.02 104.14))
     (stroke (width 0) (type default))
     (uuid cc6993b9-3adb-457c-b81f-0d4eff503920)
   )
@@ -1610,7 +1606,7 @@
     (stroke (width 0) (type default))
     (uuid ccea480e-5694-44ad-bac6-b0c07f36a2bf)
   )
-  (wire (pts (xy 110.49 115.57) (xy 110.49 102.87))
+  (wire (pts (xy 127 115.57) (xy 127 102.87))
     (stroke (width 0) (type default))
     (uuid cd3739a8-3bc5-4b02-9fc4-7ed35d0e6640)
   )
@@ -1634,15 +1630,19 @@
     (stroke (width 0) (type default))
     (uuid d176d54b-329d-4ac3-b1e7-4206100a4e9e)
   )
+  (wire (pts (xy 113.03 86.36) (xy 110.49 86.36))
+    (stroke (width 0) (type default))
+    (uuid d2cc0d8f-bfb7-4ba5-a08e-0776c862e304)
+  )
   (wire (pts (xy 30.48 102.87) (xy 27.94 102.87))
     (stroke (width 0) (type default))
     (uuid d2dcb749-60e2-44c4-aa49-43c425ffdecd)
   )
-  (wire (pts (xy 44.45 73.66) (xy 44.45 74.93))
+  (wire (pts (xy 160.02 86.36) (xy 160.02 82.55))
     (stroke (width 0) (type default))
-    (uuid d42bfef3-910d-4847-b4fd-df00a0a02be0)
+    (uuid d32064cc-fb3e-4a93-93c9-e69a7a4d3091)
   )
-  (wire (pts (xy 113.03 115.57) (xy 110.49 115.57))
+  (wire (pts (xy 129.54 115.57) (xy 127 115.57))
     (stroke (width 0) (type default))
     (uuid d54f77a0-fabb-4581-b932-f8535a29cab6)
   )
@@ -1665,6 +1665,14 @@
   (wire (pts (xy 44.45 40.64) (xy 60.96 40.64))
     (stroke (width 0) (type default))
     (uuid da90dddd-02a5-4dc1-9c0d-8ea698f2362d)
+  )
+  (wire (pts (xy 135.89 105.41) (xy 135.89 121.92))
+    (stroke (width 0) (type default))
+    (uuid db3a7b9e-fd96-4dd9-a3ec-ae4d55ca5732)
+  )
+  (wire (pts (xy 69.85 76.2) (xy 69.85 92.71))
+    (stroke (width 0) (type default))
+    (uuid dc802e24-3ab4-4290-9d64-2d3a9ee90c03)
   )
   (wire (pts (xy 209.55 25.4) (xy 209.55 24.13))
     (stroke (width 0) (type default))
@@ -1690,13 +1698,9 @@
     (stroke (width 0) (type default))
     (uuid e145e88c-6e1b-46c7-ab4a-dd4ae2e2412d)
   )
-  (wire (pts (xy 146.05 102.87) (xy 146.05 104.14))
+  (wire (pts (xy 162.56 102.87) (xy 162.56 104.14))
     (stroke (width 0) (type default))
     (uuid e2448626-f48a-43f6-a6ee-a68016753e4d)
-  )
-  (wire (pts (xy 119.38 92.71) (xy 119.38 105.41))
-    (stroke (width 0) (type default))
-    (uuid e2f566d0-0bbf-4b67-8ba9-31ca0c95b1c7)
   )
   (wire (pts (xy 30.48 36.83) (xy 27.94 36.83))
     (stroke (width 0) (type default))
@@ -1706,7 +1710,7 @@
     (stroke (width 0) (type default))
     (uuid e44e9621-882c-4ec5-984e-855f518f2755)
   )
-  (wire (pts (xy 77.47 90.17) (xy 110.49 90.17))
+  (wire (pts (xy 77.47 90.17) (xy 127 90.17))
     (stroke (width 0) (type default))
     (uuid e469c27d-fb7e-40aa-bb35-ffe35007d311)
   )
@@ -1746,13 +1750,13 @@
     (stroke (width 0) (type default))
     (uuid ea1e8e56-9193-40b9-ba60-917f6ef87a72)
   )
-  (wire (pts (xy 60.96 86.36) (xy 60.96 82.55))
-    (stroke (width 0) (type default))
-    (uuid eb31e1c8-79af-42fb-a23b-7271cd5ac7a3)
-  )
   (wire (pts (xy 245.11 86.36) (xy 242.57 86.36))
     (stroke (width 0) (type default))
     (uuid eb43a840-31bd-4f61-b02a-a977a3f59efa)
+  )
+  (wire (pts (xy 168.91 92.71) (xy 168.91 121.92))
+    (stroke (width 0) (type default))
+    (uuid eb7d2020-1c8e-4d37-b842-8b3de2c423f2)
   )
   (wire (pts (xy 127 73.66) (xy 127 74.93))
     (stroke (width 0) (type default))
@@ -1798,13 +1802,13 @@
     (stroke (width 0) (type default))
     (uuid f5424497-560c-4578-b5b1-b4cffb63be55)
   )
+  (wire (pts (xy 86.36 76.2) (xy 86.36 92.71))
+    (stroke (width 0) (type default))
+    (uuid f5d71395-bfb5-4d29-9eee-ac72644d306b)
+  )
   (wire (pts (xy 127 73.66) (xy 143.51 73.66))
     (stroke (width 0) (type default))
     (uuid f62d85ef-58a0-407a-9d3c-912142b4e225)
-  )
-  (wire (pts (xy 168.91 59.69) (xy 168.91 76.2))
-    (stroke (width 0) (type default))
-    (uuid f66d34cc-4591-4847-a530-5ba685239fb5)
   )
   (wire (pts (xy 93.98 73.66) (xy 93.98 74.93))
     (stroke (width 0) (type default))
@@ -1814,11 +1818,7 @@
     (stroke (width 0) (type default))
     (uuid f89dc2f7-e398-49df-9a19-86e1c34e7dfc)
   )
-  (wire (pts (xy 152.4 76.2) (xy 152.4 92.71))
-    (stroke (width 0) (type default))
-    (uuid f93fc7de-4ada-41d7-825b-8b1a26709dae)
-  )
-  (wire (pts (xy 113.03 102.87) (xy 110.49 102.87))
+  (wire (pts (xy 129.54 102.87) (xy 127 102.87))
     (stroke (width 0) (type default))
     (uuid f94985ec-9b26-499f-902d-4b62650a8bae)
   )
@@ -1846,13 +1846,13 @@
     (stroke (width 0) (type default))
     (uuid fe0877ef-8333-491c-9fcc-74c3df055f1d)
   )
-  (wire (pts (xy 110.49 90.17) (xy 143.51 90.17))
-    (stroke (width 0) (type default))
-    (uuid fe1ce1af-bd21-4ac0-84fc-f56302da6100)
-  )
   (wire (pts (xy 63.5 36.83) (xy 60.96 36.83))
     (stroke (width 0) (type default))
     (uuid ffb32cff-5961-4c6a-a549-7d0c0a1fa137)
+  )
+  (wire (pts (xy 102.87 76.2) (xy 102.87 121.92))
+    (stroke (width 0) (type default))
+    (uuid ffd2cccb-cced-44a6-81a8-edb932075678)
   )
 
   (global_label "col2" (shape input) (at 69.85 20.32 180)
@@ -2010,8 +2010,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 44.45 95.25 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid d9c71705-623a-42a4-8257-787dda6f77ab))
-    (pin "2" (uuid 6233192f-c818-440b-8d2c-e555236c7ee3))
+    (pin "1" (uuid c4399d4f-89b8-47a5-a409-f42f94b9e7e9))
+    (pin "2" (uuid 51d1657d-f3ae-49c0-b563-a3e6159fee0b))
     (instances
       (project "Hotp4ck60"
         (path "/a57939d7-40ce-4436-8014-db245ef7f3c5/17e88a0c-a769-4510-88e4-07b3d0306d6c"
@@ -2042,8 +2042,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 242.57 95.25 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a4c39474-38af-455b-962f-fd5b827dcb4a))
-    (pin "2" (uuid b6247183-1b57-47fc-8912-0299b1e258c7))
+    (pin "1" (uuid 9dd8c2da-a1eb-44e5-94f6-94439c214ccf))
+    (pin "2" (uuid 5221f83c-6407-4cbc-8456-905cb497f946))
     (instances
       (project "Hotp4ck60"
         (path "/a57939d7-40ce-4436-8014-db245ef7f3c5/17e88a0c-a769-4510-88e4-07b3d0306d6c"
@@ -2074,8 +2074,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 60.96 95.25 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 1b057c85-1004-46de-9723-c5c92bb3d264))
-    (pin "2" (uuid 72315462-580c-4d50-ac60-5c2191fbf55a))
+    (pin "1" (uuid f6647e75-6952-4b49-a36f-e31743b6c8ad))
+    (pin "2" (uuid 450aabf0-0eb4-4021-ae30-8bd2b11e1b3e))
     (instances
       (project "Hotp4ck60"
         (path "/a57939d7-40ce-4436-8014-db245ef7f3c5/17e88a0c-a769-4510-88e4-07b3d0306d6c"
@@ -2106,8 +2106,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 193.04 45.72 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid ad091934-f322-4eb1-9817-28da73b78633))
-    (pin "2" (uuid e70d4628-4f75-4fbe-9e67-78b599009199))
+    (pin "1" (uuid bb36035e-4a26-4733-9081-46d8eb6f83d1))
+    (pin "2" (uuid 9911ff62-c5b6-46c0-abbd-33fd539ed673))
     (instances
       (project "Hotp4ck60"
         (path "/a57939d7-40ce-4436-8014-db245ef7f3c5/17e88a0c-a769-4510-88e4-07b3d0306d6c"
@@ -2117,23 +2117,23 @@
     )
   )
 
-  (symbol (lib_id "mx1a-simple:MX1A") (at 142.24 97.79 270) (unit 1)
+  (symbol (lib_id "mx1a-simple:MX1A") (at 158.75 97.79 270) (unit 1)
     (in_bom no) (on_board yes) (dnp no)
     (uuid 091eedb3-0a6b-497c-80d4-c02a35cee1d8)
-    (property "Reference" "S62" (at 152.4 97.79 90)
+    (property "Reference" "S62" (at 168.91 97.79 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "2.25u" (at 152.4 95.25 90)
+    (property "Value" "2.25u" (at 168.91 95.25 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_2.25u" (at 142.24 97.79 0)
+    (property "Footprint" "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_2.25u" (at 158.75 97.79 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 142.24 97.79 0)
+    (property "Datasheet" "" (at 158.75 97.79 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 7160c478-7652-4f3a-a347-9690833118b6))
-    (pin "2" (uuid bc51f887-f8ec-4209-930b-cdbda2411656))
+    (pin "1" (uuid 0d44dfdc-7cb9-4a64-8f97-ed5224ff9b6b))
+    (pin "2" (uuid bf9ffcb3-8fa9-4f94-8894-35531ff77c02))
     (instances
       (project "Hotp4ck"
         (path "/2eb2890b-86ec-4e38-8010-af710e838c20"
@@ -2168,8 +2168,8 @@
     (property "Datasheet" "" (at 43.18 31.75 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid b1e0f50a-6183-4488-9d97-96ae9c5edfd3))
-    (pin "2" (uuid 55f73846-98e4-4572-9784-72e29b4e157e))
+    (pin "1" (uuid 64956619-cbff-41ac-844e-fd4e7274c8e9))
+    (pin "2" (uuid baee2fb8-5559-49a2-aaf8-a5151a2fec8c))
     (instances
       (project "Hotp4ck"
         (path "/2eb2890b-86ec-4e38-8010-af710e838c20"
@@ -2210,12 +2210,48 @@
     (property "Sim.Pins" "1=K 2=A" (at 226.06 45.72 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 5fa01b3e-02ca-4793-90bc-c480354c69f7))
-    (pin "2" (uuid 027ae6a6-47d0-4080-bac7-ad1a8c481ab4))
+    (pin "1" (uuid eeec641f-35fb-4344-90ce-e27a605bb60c))
+    (pin "2" (uuid 7927c8b5-b22c-45d7-a171-3d3edadd4423))
     (instances
       (project "Hotp4ck60"
         (path "/a57939d7-40ce-4436-8014-db245ef7f3c5/17e88a0c-a769-4510-88e4-07b3d0306d6c"
           (reference "D27") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "mx1a-simple:MX1A") (at 92.71 81.28 270) (unit 1)
+    (in_bom no) (on_board yes) (dnp no)
+    (uuid 0d209dda-16ef-412e-8a06-e97bd4b65ddc)
+    (property "Reference" "S1" (at 102.87 81.28 90)
+      (effects (font (size 1.27 1.27)) (justify right))
+    )
+    (property "Value" "1.00u" (at 102.87 78.74 90)
+      (effects (font (size 1.27 1.27)) (justify right))
+    )
+    (property "Footprint" "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u" (at 92.71 81.28 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 92.71 81.28 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 1710348b-0813-4557-80c1-def1800b4749))
+    (pin "2" (uuid 623d9ee6-7eef-4b13-9646-8b3fae4a725d))
+    (instances
+      (project "Hotp4ck"
+        (path "/2eb2890b-86ec-4e38-8010-af710e838c20"
+          (reference "S1") (unit 1)
+        )
+      )
+      (project "Hotp4ck60"
+        (path "/a57939d7-40ce-4436-8014-db245ef7f3c5/17e88a0c-a769-4510-88e4-07b3d0306d6c"
+          (reference "S45") (unit 1)
+        )
+      )
+      (project "designguide-schematic"
+        (path "/c2a65ddb-3915-4293-98a9-444287fe2a3d"
+          (reference "S1") (unit 1)
         )
       )
     )
@@ -2236,8 +2272,8 @@
     (property "Datasheet" "" (at 142.24 64.77 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a823acb9-f86d-46fd-b329-3933b186742c))
-    (pin "2" (uuid ca7e36ad-65f4-48cc-96e5-9e0dccb0186f))
+    (pin "1" (uuid de5d4bd9-3bd5-46c4-a628-42b2cc591e90))
+    (pin "2" (uuid e5a98cbc-7f85-4a1d-9366-0d087b855c89))
     (instances
       (project "Hotp4ck"
         (path "/2eb2890b-86ec-4e38-8010-af710e838c20"
@@ -2272,8 +2308,8 @@
     (property "Datasheet" "" (at 26.67 64.77 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid c8ce161e-2656-44c3-ba6b-94d53aece359))
-    (pin "2" (uuid 947612b4-d6ee-415d-af78-3883ac2e8e3f))
+    (pin "1" (uuid 597b2652-5807-442f-becf-3d12655d0365))
+    (pin "2" (uuid 88a866d0-2642-4010-a812-35a051db2c0b))
     (instances
       (project "Hotp4ck"
         (path "/2eb2890b-86ec-4e38-8010-af710e838c20"
@@ -2308,8 +2344,8 @@
     (property "Datasheet" "" (at 224.79 97.79 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 58415e72-63c1-42e6-9968-3e8326f1e863))
-    (pin "2" (uuid b7559d7b-e3de-451e-81b3-829a59619089))
+    (pin "1" (uuid 128f58e4-b708-49a4-8e7d-5a1407c6fbd8))
+    (pin "2" (uuid baad63b3-0f08-4f3d-b854-a8316e434d37))
     (instances
       (project "Hotp4ck"
         (path "/2eb2890b-86ec-4e38-8010-af710e838c20"
@@ -2350,8 +2386,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 160.02 45.72 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid d3159872-6b34-486a-b22e-02c6cacbfe1a))
-    (pin "2" (uuid 87a4b955-31c9-430f-9d7e-1734ad099459))
+    (pin "1" (uuid 645eb2c1-fd7f-44b8-8e11-32bba560d001))
+    (pin "2" (uuid fb7584e0-d3c2-4f62-b12b-78ff9f3c5451))
     (instances
       (project "Hotp4ck60"
         (path "/a57939d7-40ce-4436-8014-db245ef7f3c5/17e88a0c-a769-4510-88e4-07b3d0306d6c"
@@ -2382,8 +2418,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 242.57 29.21 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid dd03977d-87d0-4f81-a8a4-0dcad9eeeb92))
-    (pin "2" (uuid da705f92-aad5-40ee-98bf-aee23f2ec5af))
+    (pin "1" (uuid 5b33c337-cf12-4e65-b5a4-653c78ea4522))
+    (pin "2" (uuid fd950787-de80-4316-9898-6bac1b6db8a7))
     (instances
       (project "Hotp4ck60"
         (path "/a57939d7-40ce-4436-8014-db245ef7f3c5/17e88a0c-a769-4510-88e4-07b3d0306d6c"
@@ -2414,8 +2450,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 143.51 29.21 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 9e0ddc5d-16a0-4859-bd6a-f115f046a648))
-    (pin "2" (uuid 3b51fe78-4f51-4921-92ab-c23b623e646b))
+    (pin "1" (uuid e143a610-d7ef-45bf-816b-fb157281dd8d))
+    (pin "2" (uuid 2301c82a-db0d-434e-8a21-875ad8fb4703))
     (instances
       (project "Hotp4ck60"
         (path "/a57939d7-40ce-4436-8014-db245ef7f3c5/17e88a0c-a769-4510-88e4-07b3d0306d6c"
@@ -2440,8 +2476,8 @@
     (property "Datasheet" "" (at 125.73 64.77 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 735dce03-97d9-43f1-81d5-54e8d68c9c97))
-    (pin "2" (uuid d4ab6774-a092-4816-bd64-3c92b0bc49d0))
+    (pin "1" (uuid e4c43c1d-3b72-46a0-bb5f-c51d6c02fb53))
+    (pin "2" (uuid 25893607-0fce-4249-bfb9-3478cc309782))
     (instances
       (project "Hotp4ck"
         (path "/2eb2890b-86ec-4e38-8010-af710e838c20"
@@ -2476,8 +2512,8 @@
     (property "Datasheet" "" (at 208.28 48.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 8e6ade8f-e9af-44a7-936b-bbc17e9ca097))
-    (pin "2" (uuid bbaef410-739f-490f-823b-c29624e2d214))
+    (pin "1" (uuid 6aeb46bd-bf69-4e4a-aea6-95eef2cbf5a9))
+    (pin "2" (uuid a7e3a468-fbdd-47e4-a6a4-1b4900d1a7e4))
     (instances
       (project "Hotp4ck"
         (path "/2eb2890b-86ec-4e38-8010-af710e838c20"
@@ -2512,8 +2548,8 @@
     (property "Datasheet" "" (at 59.69 97.79 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 4fde93b6-b40d-48e4-adb1-746569d63c62))
-    (pin "2" (uuid 17998ef5-bda6-47fd-a269-87cca0dc9923))
+    (pin "1" (uuid d81a7e63-5493-40c5-8aa5-cf0b0973147b))
+    (pin "2" (uuid 55c09805-4f02-42e8-af05-f1af9c2765a1))
     (instances
       (project "Hotp4ck"
         (path "/2eb2890b-86ec-4e38-8010-af710e838c20"
@@ -2548,8 +2584,8 @@
     (property "Datasheet" "" (at 208.28 81.28 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 18326541-d818-458a-ad23-319ba85f8012))
-    (pin "2" (uuid d0812c50-c22d-43f1-aee7-96a0bad5f76f))
+    (pin "1" (uuid dd8a303c-aaa7-441f-a087-bd36e277c23a))
+    (pin "2" (uuid 7a04c4ed-b674-4530-8d32-e0ec0d1eadc0))
     (instances
       (project "Hotp4ck"
         (path "/2eb2890b-86ec-4e38-8010-af710e838c20"
@@ -2590,8 +2626,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 93.98 29.21 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 6db6e619-4c5f-48f5-b2fc-e2bf9cb6ff43))
-    (pin "2" (uuid 8e9cd97d-e123-496b-92d4-479d81828919))
+    (pin "1" (uuid ab21526f-b600-4058-ab5d-cb9f84128cdd))
+    (pin "2" (uuid 8f7d26be-7332-458a-be9c-e064450b0e0b))
     (instances
       (project "Hotp4ck60"
         (path "/a57939d7-40ce-4436-8014-db245ef7f3c5/17e88a0c-a769-4510-88e4-07b3d0306d6c"
@@ -2616,8 +2652,8 @@
     (property "Datasheet" "" (at 26.67 97.79 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 4b05150f-d361-46c2-8062-429e44994a23))
-    (pin "2" (uuid c38ebe18-ca57-4830-8e53-1a61b3ac60b6))
+    (pin "1" (uuid 46af1be4-9e8a-476b-9aa4-de2ec3a753c2))
+    (pin "2" (uuid 81a03ade-5864-43e2-b511-8102e446a8db))
     (instances
       (project "Hotp4ck"
         (path "/2eb2890b-86ec-4e38-8010-af710e838c20"
@@ -2637,23 +2673,55 @@
     )
   )
 
-  (symbol (lib_id "mx1a-simple:MX1A") (at 109.22 110.49 270) (unit 1)
+  (symbol (lib_id "Diode:1N4148WS") (at 110.49 78.74 270) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid 24452bbd-f01c-49a9-a366-537802250877)
+    (property "Reference" "D46" (at 115.57 83.82 90)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Value" "1N4148WS" (at 114.3 87.63 90)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "Diode_SMD:D_SOD-323" (at 106.045 78.74 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "https://www.vishay.com/docs/85751/1n4148ws.pdf" (at 110.49 78.74 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Sim.Device" "D" (at 110.49 78.74 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Sim.Pins" "1=K 2=A" (at 110.49 78.74 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 184c3c9e-9bf8-4be7-8465-1cd0aa8e312c))
+    (pin "2" (uuid f566fbd7-9e76-4232-88e9-d376361e9106))
+    (instances
+      (project "Hotp4ck60"
+        (path "/a57939d7-40ce-4436-8014-db245ef7f3c5/17e88a0c-a769-4510-88e4-07b3d0306d6c"
+          (reference "D46") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "mx1a-simple:MX1A") (at 125.73 110.49 270) (unit 1)
     (in_bom no) (on_board yes) (dnp no)
     (uuid 2475c2cc-fcc7-429a-9c65-8b1495a34303)
-    (property "Reference" "S58" (at 119.38 110.49 90)
+    (property "Reference" "S58" (at 135.89 110.49 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "2.75u" (at 119.38 107.95 90)
+    (property "Value" "2.75u" (at 135.89 107.95 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_2.75u" (at 109.22 110.49 0)
+    (property "Footprint" "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_2.75u" (at 125.73 110.49 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 109.22 110.49 0)
+    (property "Datasheet" "" (at 125.73 110.49 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a0050d7c-f3b3-4fdf-8988-c6206dfce311))
-    (pin "2" (uuid 4a9e3f73-8f95-4092-8c4c-dec618d3a9cf))
+    (pin "1" (uuid 657c1ed1-38e6-48fd-9683-0c91e2595e70))
+    (pin "2" (uuid c22dfb22-863b-4461-8d87-3f59f6f144da))
     (instances
       (project "Hotp4ck"
         (path "/2eb2890b-86ec-4e38-8010-af710e838c20"
@@ -2673,23 +2741,23 @@
     )
   )
 
-  (symbol (lib_id "mx1a-simple:MX1A") (at 142.24 81.28 270) (unit 1)
+  (symbol (lib_id "mx1a-simple:MX1A") (at 175.26 81.28 270) (unit 1)
     (in_bom no) (on_board yes) (dnp no)
-    (uuid 29237f40-5116-4f56-8ee4-4f58c32498fd)
-    (property "Reference" "S1" (at 152.4 81.28 90)
+    (uuid 2708eeca-2b32-48a7-a094-ab134712f555)
+    (property "Reference" "S1" (at 185.42 81.28 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "1.00u" (at 152.4 78.74 90)
+    (property "Value" "1.00u" (at 185.42 78.74 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u" (at 142.24 81.28 0)
+    (property "Footprint" "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u" (at 175.26 81.28 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 142.24 81.28 0)
+    (property "Datasheet" "" (at 175.26 81.28 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid d99f244a-3cfb-434a-8419-4c7a4509cc3f))
-    (pin "2" (uuid 7773fe14-dfeb-43db-85da-f7095d2b49da))
+    (pin "1" (uuid e2d94d35-9431-4fcf-b85e-7e7aa56e25f4))
+    (pin "2" (uuid 65270ef3-ae4f-4398-bd28-d87af4ba0cb1))
     (instances
       (project "Hotp4ck"
         (path "/2eb2890b-86ec-4e38-8010-af710e838c20"
@@ -2698,7 +2766,43 @@
       )
       (project "Hotp4ck60"
         (path "/a57939d7-40ce-4436-8014-db245ef7f3c5/17e88a0c-a769-4510-88e4-07b3d0306d6c"
-          (reference "S49") (unit 1)
+          (reference "S50") (unit 1)
+        )
+      )
+      (project "designguide-schematic"
+        (path "/c2a65ddb-3915-4293-98a9-444287fe2a3d"
+          (reference "S1") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "mx1a-simple:MX1A") (at 59.69 81.28 270) (unit 1)
+    (in_bom no) (on_board yes) (dnp no)
+    (uuid 29acdca4-a8b4-4b25-becc-15dec411fb27)
+    (property "Reference" "S1" (at 69.85 81.28 90)
+      (effects (font (size 1.27 1.27)) (justify right))
+    )
+    (property "Value" "1.00u" (at 69.85 78.74 90)
+      (effects (font (size 1.27 1.27)) (justify right))
+    )
+    (property "Footprint" "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u" (at 59.69 81.28 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 59.69 81.28 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 215e83a1-2994-4fa3-ba52-eb4bf6cc6bef))
+    (pin "2" (uuid b082199e-de86-4509-8ce9-04f51c277776))
+    (instances
+      (project "Hotp4ck"
+        (path "/2eb2890b-86ec-4e38-8010-af710e838c20"
+          (reference "S1") (unit 1)
+        )
+      )
+      (project "Hotp4ck60"
+        (path "/a57939d7-40ce-4436-8014-db245ef7f3c5/17e88a0c-a769-4510-88e4-07b3d0306d6c"
+          (reference "S43") (unit 1)
         )
       )
       (project "designguide-schematic"
@@ -2730,8 +2834,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 143.51 62.23 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 38415989-0345-4284-a809-6281617cc441))
-    (pin "2" (uuid bc7c211c-3983-48fd-a146-86cdd70e9d20))
+    (pin "1" (uuid 26baad31-b5b1-4ba8-8883-016ba61c2375))
+    (pin "2" (uuid 02c28544-4f9f-45aa-9bbe-43587fa89a56))
     (instances
       (project "Hotp4ck60"
         (path "/a57939d7-40ce-4436-8014-db245ef7f3c5/17e88a0c-a769-4510-88e4-07b3d0306d6c"
@@ -2756,8 +2860,8 @@
     (property "Datasheet" "" (at 109.22 64.77 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid ed8322a3-ae5a-4fcc-a684-fef16f2b3828))
-    (pin "2" (uuid 04020847-ee40-4946-944f-e067c3ba99c9))
+    (pin "1" (uuid 626f7ff9-23cd-4989-8f36-c69470e6f60d))
+    (pin "2" (uuid d375b59e-e224-4791-a9da-eea9c754de3f))
     (instances
       (project "Hotp4ck"
         (path "/2eb2890b-86ec-4e38-8010-af710e838c20"
@@ -2792,8 +2896,8 @@
     (property "Datasheet" "" (at 109.22 31.75 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 3bdb3b4f-e305-4b02-891b-80c9bf971462))
-    (pin "2" (uuid 34c2ebbb-2225-4447-a345-d6e8ad6e62fd))
+    (pin "1" (uuid 84f8d755-13fb-4d9a-86df-e45f268e0683))
+    (pin "2" (uuid 45573693-9339-434d-b6af-4142d41d7464))
     (instances
       (project "Hotp4ck"
         (path "/2eb2890b-86ec-4e38-8010-af710e838c20"
@@ -2808,38 +2912,6 @@
       (project "designguide-schematic"
         (path "/c2a65ddb-3915-4293-98a9-444287fe2a3d"
           (reference "S1") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "Diode:1N4148WS") (at 93.98 78.74 270) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid 2ce9fdae-bf07-4879-a709-e298f807dc99)
-    (property "Reference" "D46" (at 99.06 83.82 90)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Value" "1N4148WS" (at 97.79 87.63 90)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Footprint" "Diode_SMD:D_SOD-323" (at 89.535 78.74 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "https://www.vishay.com/docs/85751/1n4148ws.pdf" (at 93.98 78.74 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Sim.Device" "D" (at 93.98 78.74 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Sim.Pins" "1=K 2=A" (at 93.98 78.74 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 6d7b9378-4e09-4747-91ad-a0e0508cd364))
-    (pin "2" (uuid 30167729-c587-450e-953a-99f3232dd92b))
-    (instances
-      (project "Hotp4ck60"
-        (path "/a57939d7-40ce-4436-8014-db245ef7f3c5/17e88a0c-a769-4510-88e4-07b3d0306d6c"
-          (reference "D46") (unit 1)
         )
       )
     )
@@ -2860,8 +2932,8 @@
     (property "Datasheet" "" (at 175.26 64.77 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid b69fac4b-724f-4a27-8786-d6e0b4f15c04))
-    (pin "2" (uuid 3d173e70-40a3-4ee6-9421-ad4ebe15c3e3))
+    (pin "1" (uuid 16892e55-22fd-445f-8bea-600722962342))
+    (pin "2" (uuid b3a84274-2f07-461a-b9b6-58d65e6f4abf))
     (instances
       (project "Hotp4ck"
         (path "/2eb2890b-86ec-4e38-8010-af710e838c20"
@@ -2876,38 +2948,6 @@
       (project "designguide-schematic"
         (path "/c2a65ddb-3915-4293-98a9-444287fe2a3d"
           (reference "S1") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "Diode:1N4148WS") (at 77.47 78.74 270) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid 39789749-20ac-446b-baa7-55968403c9b8)
-    (property "Reference" "D45" (at 82.55 83.82 90)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Value" "1N4148WS" (at 81.28 87.63 90)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Footprint" "Diode_SMD:D_SOD-323" (at 73.025 78.74 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "https://www.vishay.com/docs/85751/1n4148ws.pdf" (at 77.47 78.74 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Sim.Device" "D" (at 77.47 78.74 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Sim.Pins" "1=K 2=A" (at 77.47 78.74 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 58f6ada7-2a7f-4049-a564-fd3cbb30db95))
-    (pin "2" (uuid 0ac96db6-67ae-4b16-bf36-6b008b88483c))
-    (instances
-      (project "Hotp4ck60"
-        (path "/a57939d7-40ce-4436-8014-db245ef7f3c5/17e88a0c-a769-4510-88e4-07b3d0306d6c"
-          (reference "D45") (unit 1)
         )
       )
     )
@@ -2928,8 +2968,8 @@
     (property "Datasheet" "" (at 142.24 31.75 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid dac9a863-a54c-42a5-9f0a-81b161b6a84c))
-    (pin "2" (uuid dc0fc15f-3eec-4de6-a1fd-d766dfe73751))
+    (pin "1" (uuid ad20e183-d417-4919-8389-cd1404fd183b))
+    (pin "2" (uuid 5cb9291c-96b2-4ad9-aff4-f172bd9effb9))
     (instances
       (project "Hotp4ck"
         (path "/2eb2890b-86ec-4e38-8010-af710e838c20"
@@ -2949,23 +2989,23 @@
     )
   )
 
-  (symbol (lib_id "mx1a-simple:MX1A") (at 109.22 97.79 270) (unit 1)
+  (symbol (lib_id "mx1a-simple:MX1A") (at 125.73 97.79 270) (unit 1)
     (in_bom no) (on_board yes) (dnp no)
     (uuid 3ef06295-b137-4d67-a0fa-ced1a455a686)
-    (property "Reference" "S36" (at 115.57 97.79 90)
+    (property "Reference" "S36" (at 132.08 97.79 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "6.25u" (at 119.38 95.25 90)
+    (property "Value" "6.25u" (at 135.89 95.25 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_6.25u" (at 109.22 97.79 0)
+    (property "Footprint" "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_6.25u" (at 125.73 97.79 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 109.22 97.79 0)
+    (property "Datasheet" "" (at 125.73 97.79 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a3a3f687-a876-4182-828f-2c350354a186))
-    (pin "2" (uuid 113f007a-61f0-43ab-b8dc-41e571798c90))
+    (pin "1" (uuid 815e0c2c-9698-4be3-a04f-5aac5ba9132f))
+    (pin "2" (uuid 5143c031-f2f6-41bc-aee2-483ffadc293a))
     (instances
       (project "Hotp4ck"
         (path "/2eb2890b-86ec-4e38-8010-af710e838c20"
@@ -3006,8 +3046,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 77.47 62.23 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f8a21f27-91a1-493c-8a9e-3cf972db520f))
-    (pin "2" (uuid aec1a924-ff31-44fd-b752-9207060f9cea))
+    (pin "1" (uuid 9dc99836-2eda-4270-9019-3a9cf8820dfd))
+    (pin "2" (uuid 56d9187a-c57e-4f39-a110-202ba4821b27))
     (instances
       (project "Hotp4ck60"
         (path "/a57939d7-40ce-4436-8014-db245ef7f3c5/17e88a0c-a769-4510-88e4-07b3d0306d6c"
@@ -3038,8 +3078,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 77.47 29.21 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 2b9c227d-55b4-4051-86d0-aa8d6820bc23))
-    (pin "2" (uuid 7396efc1-fd5a-4004-86e4-bf7a6fd35453))
+    (pin "1" (uuid 44fc2c9d-2498-4885-8ddd-d4e896b07668))
+    (pin "2" (uuid 66ef96ed-93c5-463d-bea0-a2e600aa5faf))
     (instances
       (project "Hotp4ck60"
         (path "/a57939d7-40ce-4436-8014-db245ef7f3c5/17e88a0c-a769-4510-88e4-07b3d0306d6c"
@@ -3070,8 +3110,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 193.04 29.21 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 3ed07cb0-c77a-4520-8ed7-00ed8acb5433))
-    (pin "2" (uuid d6f43dc4-c8ef-44f6-a979-c600c210b839))
+    (pin "1" (uuid b32747d6-2e74-45a9-9cbe-1dd409576145))
+    (pin "2" (uuid a5469ae1-c4d6-4fee-a372-722bd3831d2a))
     (instances
       (project "Hotp4ck60"
         (path "/a57939d7-40ce-4436-8014-db245ef7f3c5/17e88a0c-a769-4510-88e4-07b3d0306d6c"
@@ -3096,8 +3136,8 @@
     (property "Datasheet" "" (at 224.79 48.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 3a048a2e-ad7f-489c-97ab-25c4e901c5a8))
-    (pin "2" (uuid d9628a25-81d2-4c8c-aef6-f46a23fadd7f))
+    (pin "1" (uuid c0ad45c9-d240-4cb8-8dc2-dd12bc562821))
+    (pin "2" (uuid 52e2cd11-3329-4260-84d4-ba253c71784b))
     (instances
       (project "Hotp4ck"
         (path "/2eb2890b-86ec-4e38-8010-af710e838c20"
@@ -3132,8 +3172,8 @@
     (property "Datasheet" "" (at 26.67 81.28 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 2b4b8e77-c480-45db-a610-fb42cbc3e65f))
-    (pin "2" (uuid f02b882a-1f2f-47e0-af85-2a00e0a417db))
+    (pin "1" (uuid dbbc6152-595e-4a96-80af-1c754b365a99))
+    (pin "2" (uuid aa6ff105-904d-4569-a75e-b81ea975a1ea))
     (instances
       (project "Hotp4ck"
         (path "/2eb2890b-86ec-4e38-8010-af710e838c20"
@@ -3168,8 +3208,8 @@
     (property "Datasheet" "" (at 76.2 64.77 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 32afeeb3-c137-40fe-8709-c329f5fa020a))
-    (pin "2" (uuid 98d55472-f082-4914-8315-980163093c1d))
+    (pin "1" (uuid 9462628c-3df4-4ac8-aaa9-9140bd982326))
+    (pin "2" (uuid cba91b6a-5c4b-4cc3-a64a-968272021550))
     (instances
       (project "Hotp4ck"
         (path "/2eb2890b-86ec-4e38-8010-af710e838c20"
@@ -3179,6 +3219,42 @@
       (project "Hotp4ck60"
         (path "/a57939d7-40ce-4436-8014-db245ef7f3c5/17e88a0c-a769-4510-88e4-07b3d0306d6c"
           (reference "S32") (unit 1)
+        )
+      )
+      (project "designguide-schematic"
+        (path "/c2a65ddb-3915-4293-98a9-444287fe2a3d"
+          (reference "S1") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "mx1a-simple:MX1A") (at 109.22 81.28 270) (unit 1)
+    (in_bom no) (on_board yes) (dnp no)
+    (uuid 51f8b793-8aa0-4cce-86b1-f70d73382444)
+    (property "Reference" "S1" (at 119.38 81.28 90)
+      (effects (font (size 1.27 1.27)) (justify right))
+    )
+    (property "Value" "1.00u" (at 119.38 78.74 90)
+      (effects (font (size 1.27 1.27)) (justify right))
+    )
+    (property "Footprint" "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u" (at 109.22 81.28 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 109.22 81.28 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 3a38ced2-9a01-4e72-bac7-374dd2d85bf4))
+    (pin "2" (uuid 0c55af58-c856-43c1-bb6b-c306c2f4d146))
+    (instances
+      (project "Hotp4ck"
+        (path "/2eb2890b-86ec-4e38-8010-af710e838c20"
+          (reference "S1") (unit 1)
+        )
+      )
+      (project "Hotp4ck60"
+        (path "/a57939d7-40ce-4436-8014-db245ef7f3c5/17e88a0c-a769-4510-88e4-07b3d0306d6c"
+          (reference "S46") (unit 1)
         )
       )
       (project "designguide-schematic"
@@ -3210,8 +3286,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 209.55 95.25 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 45151c44-60bc-4830-b651-2b4e7ead1d26))
-    (pin "2" (uuid 2f4d1d18-5192-4baa-b469-86ea044956d3))
+    (pin "1" (uuid eb12da98-879f-46a5-bcc3-d0d3e9cacf8a))
+    (pin "2" (uuid 58749300-8f57-435b-9b43-43cd70c46604))
     (instances
       (project "Hotp4ck60"
         (path "/a57939d7-40ce-4436-8014-db245ef7f3c5/17e88a0c-a769-4510-88e4-07b3d0306d6c"
@@ -3236,8 +3312,8 @@
     (property "Datasheet" "" (at 191.77 81.28 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 1060231b-2cce-4404-b631-a1e51c6c046a))
-    (pin "2" (uuid cd4430c9-e468-4cc1-8d9f-687648bf68dc))
+    (pin "1" (uuid 780064ff-bd02-4732-8a54-5208aad7fe31))
+    (pin "2" (uuid 9962864f-5335-4b49-814d-a38f1f4ab333))
     (instances
       (project "Hotp4ck"
         (path "/2eb2890b-86ec-4e38-8010-af710e838c20"
@@ -3278,8 +3354,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 60.96 29.21 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid e39a161b-b3aa-4668-9df8-10c296b91413))
-    (pin "2" (uuid 911a67a4-1b0b-4d71-b374-a615c67f5f14))
+    (pin "1" (uuid 933dae45-5ba1-4a88-a674-45dde25cd7f8))
+    (pin "2" (uuid 449e20c5-58d0-4f35-8120-77804ff3bd23))
     (instances
       (project "Hotp4ck60"
         (path "/a57939d7-40ce-4436-8014-db245ef7f3c5/17e88a0c-a769-4510-88e4-07b3d0306d6c"
@@ -3289,29 +3365,29 @@
     )
   )
 
-  (symbol (lib_id "Diode:1N4148WS") (at 110.49 95.25 270) (unit 1)
+  (symbol (lib_id "Diode:1N4148WS") (at 127 95.25 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 60628903-3a57-4c57-852d-cf1b0e0e4fbf)
-    (property "Reference" "D57" (at 115.57 100.33 90)
+    (property "Reference" "D57" (at 132.08 100.33 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "1N4148WS" (at 114.3 104.14 90)
+    (property "Value" "1N4148WS" (at 130.81 104.14 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Diode_SMD:D_SOD-323" (at 106.045 95.25 0)
+    (property "Footprint" "Diode_SMD:D_SOD-323" (at 122.555 95.25 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "https://www.vishay.com/docs/85751/1n4148ws.pdf" (at 110.49 95.25 0)
+    (property "Datasheet" "https://www.vishay.com/docs/85751/1n4148ws.pdf" (at 127 95.25 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Sim.Device" "D" (at 110.49 95.25 0)
+    (property "Sim.Device" "D" (at 127 95.25 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Sim.Pins" "1=K 2=A" (at 110.49 95.25 0)
+    (property "Sim.Pins" "1=K 2=A" (at 127 95.25 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 90088bd9-20ba-48a6-8a30-a3b2386a6924))
-    (pin "2" (uuid 37a2ae38-a08c-47ec-9088-e6b450678fb7))
+    (pin "1" (uuid d8adfae6-d1a6-41b7-9ed2-68c09cf46fbc))
+    (pin "2" (uuid d4ed1857-af22-47d1-8b13-bf4c29082b0d))
     (instances
       (project "Hotp4ck60"
         (path "/a57939d7-40ce-4436-8014-db245ef7f3c5/17e88a0c-a769-4510-88e4-07b3d0306d6c"
@@ -3342,8 +3418,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 127 45.72 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid ac76b3fe-4425-47cd-ba3e-d47ed9df8140))
-    (pin "2" (uuid ff61d424-5e62-4ce6-afea-7f132df9e50f))
+    (pin "1" (uuid 808b340e-3f1d-4b5d-b802-762db1fbb587))
+    (pin "2" (uuid 02821382-7e25-4be2-bfab-1fe1655704b1))
     (instances
       (project "Hotp4ck60"
         (path "/a57939d7-40ce-4436-8014-db245ef7f3c5/17e88a0c-a769-4510-88e4-07b3d0306d6c"
@@ -3368,8 +3444,8 @@
     (property "Datasheet" "" (at 43.18 64.77 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid cfe3c9c6-9bee-4260-b83e-f3b57e1d6b61))
-    (pin "2" (uuid 0fb5ba0f-cb6d-41fc-9fcb-a57bc0fd680f))
+    (pin "1" (uuid 56de099e-b3df-4857-a7fe-3e1c9898680f))
+    (pin "2" (uuid c9eef40d-9ec5-4655-a589-a67f61917c16))
     (instances
       (project "Hotp4ck"
         (path "/2eb2890b-86ec-4e38-8010-af710e838c20"
@@ -3379,42 +3455,6 @@
       (project "Hotp4ck60"
         (path "/a57939d7-40ce-4436-8014-db245ef7f3c5/17e88a0c-a769-4510-88e4-07b3d0306d6c"
           (reference "S30") (unit 1)
-        )
-      )
-      (project "designguide-schematic"
-        (path "/c2a65ddb-3915-4293-98a9-444287fe2a3d"
-          (reference "S1") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "mx1a-simple:MX1A") (at 59.69 81.28 270) (unit 1)
-    (in_bom no) (on_board yes) (dnp no)
-    (uuid 65b8ca8f-152c-4213-b1b1-ab954f57ba5d)
-    (property "Reference" "S1" (at 69.85 81.28 90)
-      (effects (font (size 1.27 1.27)) (justify right))
-    )
-    (property "Value" "1.00u" (at 69.85 78.74 90)
-      (effects (font (size 1.27 1.27)) (justify right))
-    )
-    (property "Footprint" "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u" (at 59.69 81.28 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (at 59.69 81.28 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 40bd5bc0-d5af-462e-961d-313f9cace61a))
-    (pin "2" (uuid cf327252-189b-4c97-97f4-7deb840686e6))
-    (instances
-      (project "Hotp4ck"
-        (path "/2eb2890b-86ec-4e38-8010-af710e838c20"
-          (reference "S1") (unit 1)
-        )
-      )
-      (project "Hotp4ck60"
-        (path "/a57939d7-40ce-4436-8014-db245ef7f3c5/17e88a0c-a769-4510-88e4-07b3d0306d6c"
-          (reference "S44") (unit 1)
         )
       )
       (project "designguide-schematic"
@@ -3440,8 +3480,8 @@
     (property "Datasheet" "" (at 158.75 48.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid d3059866-1309-4f38-8a51-5cd1ef0aa2d8))
-    (pin "2" (uuid 9f8b4f5f-a598-4678-9834-a186c39fff59))
+    (pin "1" (uuid 0fb8190c-28b1-4778-b76d-34b5ce9dd291))
+    (pin "2" (uuid 72d631e5-7c8e-43d6-9113-80dbcc8cb4ee))
     (instances
       (project "Hotp4ck"
         (path "/2eb2890b-86ec-4e38-8010-af710e838c20"
@@ -3482,12 +3522,48 @@
     (property "Sim.Pins" "1=K 2=A" (at 127 62.23 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 4ab52f68-e45f-47c9-82ff-52151319d773))
-    (pin "2" (uuid cb3ff184-244c-4ba6-9198-a5832200026f))
+    (pin "1" (uuid 3e0eb5c7-3881-4197-88b3-957be3f661b1))
+    (pin "2" (uuid af482243-e238-415f-94d6-2e61430ed423))
     (instances
       (project "Hotp4ck60"
         (path "/a57939d7-40ce-4436-8014-db245ef7f3c5/17e88a0c-a769-4510-88e4-07b3d0306d6c"
           (reference "D35") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "mx1a-simple:MX1A") (at 158.75 81.28 270) (unit 1)
+    (in_bom no) (on_board yes) (dnp no)
+    (uuid 6e6ed95e-af7a-4bbf-98cd-da16175a75ae)
+    (property "Reference" "S1" (at 168.91 81.28 90)
+      (effects (font (size 1.27 1.27)) (justify right))
+    )
+    (property "Value" "1.00u" (at 168.91 78.74 90)
+      (effects (font (size 1.27 1.27)) (justify right))
+    )
+    (property "Footprint" "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u" (at 158.75 81.28 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 158.75 81.28 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 75f0a20c-dc03-4fce-a0a2-d8d63177c281))
+    (pin "2" (uuid c46ddb7e-db7e-47d4-b019-12744da38b1e))
+    (instances
+      (project "Hotp4ck"
+        (path "/2eb2890b-86ec-4e38-8010-af710e838c20"
+          (reference "S1") (unit 1)
+        )
+      )
+      (project "Hotp4ck60"
+        (path "/a57939d7-40ce-4436-8014-db245ef7f3c5/17e88a0c-a769-4510-88e4-07b3d0306d6c"
+          (reference "S49") (unit 1)
+        )
+      )
+      (project "designguide-schematic"
+        (path "/c2a65ddb-3915-4293-98a9-444287fe2a3d"
+          (reference "S1") (unit 1)
         )
       )
     )
@@ -3508,8 +3584,8 @@
     (property "Datasheet" "" (at 191.77 64.77 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 919d4317-4e2e-4cd6-b56b-0390d61f4e72))
-    (pin "2" (uuid cd466b6c-7e8f-4ac1-845d-e47a35e5309f))
+    (pin "1" (uuid 7b859dac-9ff9-4fa6-bd1a-d29348e5e184))
+    (pin "2" (uuid 3ff5180d-eced-4942-adb3-154d72989d38))
     (instances
       (project "Hotp4ck"
         (path "/2eb2890b-86ec-4e38-8010-af710e838c20"
@@ -3550,8 +3626,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 209.55 45.72 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 237134f7-e9f9-4092-be31-e06d4d5ea20d))
-    (pin "2" (uuid 3834be2a-afda-4f0d-9ec8-3110fb00c900))
+    (pin "1" (uuid 32a356da-64f1-4c01-af3a-41a16a415466))
+    (pin "2" (uuid cb15b10e-aa44-491b-a279-b087a4c6c86d))
     (instances
       (project "Hotp4ck60"
         (path "/a57939d7-40ce-4436-8014-db245ef7f3c5/17e88a0c-a769-4510-88e4-07b3d0306d6c"
@@ -3576,8 +3652,8 @@
     (property "Datasheet" "" (at 92.71 64.77 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 963b2971-1029-45e9-b64f-650b4486345e))
-    (pin "2" (uuid 818cc263-5504-4b0e-a1b5-7320a887fd00))
+    (pin "1" (uuid 289d5ed5-5706-4d9e-89ff-c0d55a857ba7))
+    (pin "2" (uuid 4664b69d-3c70-48a4-94c7-674a04181d6c))
     (instances
       (project "Hotp4ck"
         (path "/2eb2890b-86ec-4e38-8010-af710e838c20"
@@ -3618,8 +3694,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 226.06 29.21 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 32041924-82aa-4a9a-9b84-3fa51b9373d7))
-    (pin "2" (uuid 12817324-148a-438c-a8c6-1dcb56046041))
+    (pin "1" (uuid 07361a30-4185-4410-8570-abd97120fccf))
+    (pin "2" (uuid 0fc6fa09-a793-478e-b1bb-23da74bf4323))
     (instances
       (project "Hotp4ck60"
         (path "/a57939d7-40ce-4436-8014-db245ef7f3c5/17e88a0c-a769-4510-88e4-07b3d0306d6c"
@@ -3629,33 +3705,37 @@
     )
   )
 
-  (symbol (lib_id "Diode:1N4148WS") (at 160.02 78.74 270) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid 766e0bfb-d455-4999-aace-0e9fb39a9199)
-    (property "Reference" "D50" (at 165.1 83.82 90)
-      (effects (font (size 1.27 1.27)))
+  (symbol (lib_id "mx1a-simple:MX1A") (at 142.24 81.28 270) (unit 1)
+    (in_bom no) (on_board yes) (dnp no)
+    (uuid 7659d604-322c-43d6-bf0b-7446afe9a2b3)
+    (property "Reference" "S1" (at 152.4 81.28 90)
+      (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "1N4148WS" (at 163.83 87.63 90)
-      (effects (font (size 1.27 1.27)))
+    (property "Value" "1.00u" (at 152.4 78.74 90)
+      (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Diode_SMD:D_SOD-323" (at 155.575 78.74 0)
+    (property "Footprint" "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u" (at 142.24 81.28 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "https://www.vishay.com/docs/85751/1n4148ws.pdf" (at 160.02 78.74 0)
+    (property "Datasheet" "" (at 142.24 81.28 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Sim.Device" "D" (at 160.02 78.74 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Sim.Pins" "1=K 2=A" (at 160.02 78.74 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid abea9f97-93b1-40d2-b30e-5a1a35533afb))
-    (pin "2" (uuid fb21829d-771b-43d0-824a-f208e32c90f7))
+    (pin "1" (uuid b14f6c7b-deef-432a-a1bf-cb530d0ff3a1))
+    (pin "2" (uuid 01d2b28d-2dfe-48ff-97cd-568cf5f6d1d2))
     (instances
+      (project "Hotp4ck"
+        (path "/2eb2890b-86ec-4e38-8010-af710e838c20"
+          (reference "S1") (unit 1)
+        )
+      )
       (project "Hotp4ck60"
         (path "/a57939d7-40ce-4436-8014-db245ef7f3c5/17e88a0c-a769-4510-88e4-07b3d0306d6c"
-          (reference "D50") (unit 1)
+          (reference "S48") (unit 1)
+        )
+      )
+      (project "designguide-schematic"
+        (path "/c2a65ddb-3915-4293-98a9-444287fe2a3d"
+          (reference "S1") (unit 1)
         )
       )
     )
@@ -3682,8 +3762,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 27.94 45.72 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 0d9a49a2-c7c9-4d35-95ed-fcd1f04249cc))
-    (pin "2" (uuid a4c1c808-0d00-42c3-b2ac-55b90860729f))
+    (pin "1" (uuid 6da83de1-358d-4362-8e23-737458c3d741))
+    (pin "2" (uuid 77d788b5-75a1-4821-be67-6aea177f8d1d))
     (instances
       (project "Hotp4ck60"
         (path "/a57939d7-40ce-4436-8014-db245ef7f3c5/17e88a0c-a769-4510-88e4-07b3d0306d6c"
@@ -3708,8 +3788,8 @@
     (property "Datasheet" "" (at 241.3 81.28 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 0eec12e3-c6fa-4bdb-b481-0ee3a6189303))
-    (pin "2" (uuid badfb9fb-0c7b-4fe0-b2a7-88b6f42953ab))
+    (pin "1" (uuid 79b28de3-c3cf-47fb-a1e0-0acf7421ca93))
+    (pin "2" (uuid ff556643-9bef-47b4-a4dd-8b1a6aeccd27))
     (instances
       (project "Hotp4ck"
         (path "/2eb2890b-86ec-4e38-8010-af710e838c20"
@@ -3750,8 +3830,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 242.57 45.72 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid cf306f27-542c-40db-b216-b2cb07bcc42c))
-    (pin "2" (uuid 7d77d5ae-8fce-4fe9-be3b-ccf0794429ef))
+    (pin "1" (uuid 0e30ef00-dce6-4c91-a964-8f2ceca4afb6))
+    (pin "2" (uuid ae797bae-8666-462c-aabb-bc71d3f2c7e9))
     (instances
       (project "Hotp4ck60"
         (path "/a57939d7-40ce-4436-8014-db245ef7f3c5/17e88a0c-a769-4510-88e4-07b3d0306d6c"
@@ -3782,8 +3862,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 110.49 29.21 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a3a1e793-5e2a-4036-a19d-00c43d19eeec))
-    (pin "2" (uuid 6787337a-e058-4037-aec4-361d879c1735))
+    (pin "1" (uuid 91705de1-01a8-4a70-9096-525a922ec0b0))
+    (pin "2" (uuid 0099f9de-7a15-43c3-a556-247285f97b3d))
     (instances
       (project "Hotp4ck60"
         (path "/a57939d7-40ce-4436-8014-db245ef7f3c5/17e88a0c-a769-4510-88e4-07b3d0306d6c"
@@ -3814,8 +3894,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 27.94 78.74 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 47c47977-5c8a-4eb8-91cd-f6b21d517078))
-    (pin "2" (uuid 808fe471-2240-453a-b41f-4cc482ed477e))
+    (pin "1" (uuid 33957207-bee9-4fe7-8bea-0996d7e4b145))
+    (pin "2" (uuid 1fb43a6b-ec96-4372-a974-e10f0d0ef8e7))
     (instances
       (project "Hotp4ck60"
         (path "/a57939d7-40ce-4436-8014-db245ef7f3c5/17e88a0c-a769-4510-88e4-07b3d0306d6c"
@@ -3846,8 +3926,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 127 29.21 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 74b713a9-5252-48fa-b6b4-046964634c90))
-    (pin "2" (uuid 734e5a4a-5afc-4f3b-8611-6aad093e7580))
+    (pin "1" (uuid de38c6e4-16cc-4674-89f0-bbe6a8e1b065))
+    (pin "2" (uuid 90b0e552-07bd-4976-bb17-627105da1448))
     (instances
       (project "Hotp4ck60"
         (path "/a57939d7-40ce-4436-8014-db245ef7f3c5/17e88a0c-a769-4510-88e4-07b3d0306d6c"
@@ -3878,8 +3958,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 143.51 45.72 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid ba7fe28c-a6f7-44cc-b259-f51009080d8f))
-    (pin "2" (uuid 97cb005b-8f88-44fa-a74c-ae9d13dd9829))
+    (pin "1" (uuid 6863e7c9-438d-4297-a8f1-b8cda2ab3729))
+    (pin "2" (uuid 5c4c6f98-ec72-4326-99a0-da0f21a419da))
     (instances
       (project "Hotp4ck60"
         (path "/a57939d7-40ce-4436-8014-db245ef7f3c5/17e88a0c-a769-4510-88e4-07b3d0306d6c"
@@ -3889,42 +3969,10 @@
     )
   )
 
-  (symbol (lib_id "Diode:1N4148WS") (at 127 78.74 270) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid 857378e4-12d2-49aa-83f1-8d48abe9f4b4)
-    (property "Reference" "D48" (at 132.08 83.82 90)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Value" "1N4148WS" (at 130.81 87.63 90)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Footprint" "Diode_SMD:D_SOD-323" (at 122.555 78.74 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "https://www.vishay.com/docs/85751/1n4148ws.pdf" (at 127 78.74 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Sim.Device" "D" (at 127 78.74 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Sim.Pins" "1=K 2=A" (at 127 78.74 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid dec611b3-682d-4208-8333-cdfd7212f1b1))
-    (pin "2" (uuid 6aa18757-ea01-4410-a88f-415dd1d7b632))
-    (instances
-      (project "Hotp4ck60"
-        (path "/a57939d7-40ce-4436-8014-db245ef7f3c5/17e88a0c-a769-4510-88e4-07b3d0306d6c"
-          (reference "D48") (unit 1)
-        )
-      )
-    )
-  )
-
   (symbol (lib_id "Diode:1N4148WS") (at 143.51 78.74 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
-    (uuid 86488dce-b60e-40c2-847f-d1fcda142372)
-    (property "Reference" "D49" (at 148.59 83.82 90)
+    (uuid 87028909-ec6e-40e9-825c-378481d38975)
+    (property "Reference" "D48" (at 148.59 83.82 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148WS" (at 147.32 87.63 90)
@@ -3942,12 +3990,12 @@
     (property "Sim.Pins" "1=K 2=A" (at 143.51 78.74 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 4f6f0dbd-8470-44fe-9bd8-a8196629c9a4))
-    (pin "2" (uuid b5073d9b-607b-473a-bf80-f55536a9d619))
+    (pin "1" (uuid ec7aef28-d4ef-4aa5-b589-a1259679d9c1))
+    (pin "2" (uuid c67e9770-7ac3-4dea-baf0-abe6dbcc88f5))
     (instances
       (project "Hotp4ck60"
         (path "/a57939d7-40ce-4436-8014-db245ef7f3c5/17e88a0c-a769-4510-88e4-07b3d0306d6c"
-          (reference "D49") (unit 1)
+          (reference "D48") (unit 1)
         )
       )
     )
@@ -3974,8 +4022,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 27.94 29.21 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 5d2b1c97-8d14-4aa1-852b-2417efb4aa43))
-    (pin "2" (uuid 0ea6fac1-0486-4e92-83d7-179451ca5a81))
+    (pin "1" (uuid 4d692e5f-6e44-4313-97e9-0b500c0d43a7))
+    (pin "2" (uuid 7797714c-e0bb-4fbf-9d9b-53aae74ecf9e))
     (instances
       (project "Hotp4ck60"
         (path "/a57939d7-40ce-4436-8014-db245ef7f3c5/17e88a0c-a769-4510-88e4-07b3d0306d6c"
@@ -3985,65 +4033,33 @@
     )
   )
 
-  (symbol (lib_id "Diode:1N4148WS") (at 143.51 96.52 270) (unit 1)
+  (symbol (lib_id "Diode:1N4148WS") (at 160.02 96.52 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8e327620-60ad-4959-aebb-a0b8b4dcbdd4)
-    (property "Reference" "D63" (at 148.59 101.6 90)
+    (property "Reference" "D63" (at 165.1 101.6 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "1N4148WS" (at 147.32 105.41 90)
+    (property "Value" "1N4148WS" (at 163.83 105.41 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Diode_SMD:D_SOD-323" (at 139.065 96.52 0)
+    (property "Footprint" "Diode_SMD:D_SOD-323" (at 155.575 96.52 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "https://www.vishay.com/docs/85751/1n4148ws.pdf" (at 143.51 96.52 0)
+    (property "Datasheet" "https://www.vishay.com/docs/85751/1n4148ws.pdf" (at 160.02 96.52 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Sim.Device" "D" (at 143.51 96.52 0)
+    (property "Sim.Device" "D" (at 160.02 96.52 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Sim.Pins" "1=K 2=A" (at 143.51 96.52 0)
+    (property "Sim.Pins" "1=K 2=A" (at 160.02 96.52 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 485facd2-8d3f-4781-a1b0-7d18639397a5))
-    (pin "2" (uuid 74005efa-c2da-4d31-a809-36febb522961))
+    (pin "1" (uuid c2a769f4-3135-4707-9218-5dd9d062acf0))
+    (pin "2" (uuid 61048d88-f12c-4c98-817d-6dba582163ae))
     (instances
       (project "Hotp4ck60"
         (path "/a57939d7-40ce-4436-8014-db245ef7f3c5/17e88a0c-a769-4510-88e4-07b3d0306d6c"
           (reference "D63") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "Diode:1N4148WS") (at 44.45 78.74 270) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid 8e32bc8d-8b1e-467c-b587-06fbf5eb7e36)
-    (property "Reference" "D43" (at 49.53 83.82 90)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Value" "1N4148WS" (at 48.26 87.63 90)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Footprint" "Diode_SMD:D_SOD-323" (at 40.005 78.74 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "https://www.vishay.com/docs/85751/1n4148ws.pdf" (at 44.45 78.74 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Sim.Device" "D" (at 44.45 78.74 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Sim.Pins" "1=K 2=A" (at 44.45 78.74 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid c2e74ec4-ce17-4ea9-81ed-fe2b687c1edf))
-    (pin "2" (uuid 4cf4bfea-f782-403e-93f2-23920d099763))
-    (instances
-      (project "Hotp4ck60"
-        (path "/a57939d7-40ce-4436-8014-db245ef7f3c5/17e88a0c-a769-4510-88e4-07b3d0306d6c"
-          (reference "D43") (unit 1)
         )
       )
     )
@@ -4064,8 +4080,8 @@
     (property "Datasheet" "" (at 92.71 48.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 30af19ef-8f6e-4f91-8753-988e715355ca))
-    (pin "2" (uuid e2b490e4-46f6-4f23-807e-1b5cea09ef1d))
+    (pin "1" (uuid ab143396-ba89-4d10-a03d-5d20ee3af55e))
+    (pin "2" (uuid ec1516b8-0300-47b5-a7f7-3a89fc261a5f))
     (instances
       (project "Hotp4ck"
         (path "/2eb2890b-86ec-4e38-8010-af710e838c20"
@@ -4106,8 +4122,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 226.06 95.25 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 39a3346a-91ab-44f1-a8dd-b255eeb70a5d))
-    (pin "2" (uuid f46751b0-bf89-46a3-ba44-ea1b86558cad))
+    (pin "1" (uuid fc9321ff-9222-4fd3-92dd-3e2bb837b715))
+    (pin "2" (uuid 116fa409-763c-4814-b572-daf4911738a7))
     (instances
       (project "Hotp4ck60"
         (path "/a57939d7-40ce-4436-8014-db245ef7f3c5/17e88a0c-a769-4510-88e4-07b3d0306d6c"
@@ -4132,8 +4148,8 @@
     (property "Datasheet" "" (at 241.3 31.75 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 3a44fccd-d9e8-407b-b3ee-4fd295444fde))
-    (pin "2" (uuid 1c295dae-1307-4f5f-94aa-0267c88730a3))
+    (pin "1" (uuid 2c8362d7-66f9-4423-b161-7a5d3644d5b8))
+    (pin "2" (uuid 34fed91b-46ff-4893-a3ce-562a3649f238))
     (instances
       (project "Hotp4ck"
         (path "/2eb2890b-86ec-4e38-8010-af710e838c20"
@@ -4168,8 +4184,8 @@
     (property "Datasheet" "" (at 208.28 64.77 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid c841e22b-4f2a-4322-bab6-456ffa71ce26))
-    (pin "2" (uuid 47bc4ce1-6e61-4833-8398-df2e401d6201))
+    (pin "1" (uuid 9fa1460f-98b5-4b88-bcef-27e5906b877e))
+    (pin "2" (uuid 8c9d0a3e-038e-404d-8f4d-0c707c713a52))
     (instances
       (project "Hotp4ck"
         (path "/2eb2890b-86ec-4e38-8010-af710e838c20"
@@ -4204,8 +4220,8 @@
     (property "Datasheet" "" (at 191.77 48.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid e2d91c89-173d-4554-82cf-810d8473cadc))
-    (pin "2" (uuid 99ff91c7-34f8-49ad-9ae8-68e8ea584d6d))
+    (pin "1" (uuid 2bc863bf-90e1-45dd-b5ba-83c9cbee3830))
+    (pin "2" (uuid c736c81b-a1ab-42e4-849e-cadae9179da1))
     (instances
       (project "Hotp4ck"
         (path "/2eb2890b-86ec-4e38-8010-af710e838c20"
@@ -4220,6 +4236,38 @@
       (project "designguide-schematic"
         (path "/c2a65ddb-3915-4293-98a9-444287fe2a3d"
           (reference "S1") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Diode:1N4148WS") (at 127 78.74 270) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid 956decc0-b374-4574-8c3f-ba31e6bcd0f5)
+    (property "Reference" "D47" (at 132.08 83.82 90)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Value" "1N4148WS" (at 130.81 87.63 90)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "Diode_SMD:D_SOD-323" (at 122.555 78.74 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "https://www.vishay.com/docs/85751/1n4148ws.pdf" (at 127 78.74 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Sim.Device" "D" (at 127 78.74 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Sim.Pins" "1=K 2=A" (at 127 78.74 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid a6117157-4668-4913-a6b7-2f9ec36600b8))
+    (pin "2" (uuid bdae15a8-0281-4665-8c1a-4e1c14525850))
+    (instances
+      (project "Hotp4ck60"
+        (path "/a57939d7-40ce-4436-8014-db245ef7f3c5/17e88a0c-a769-4510-88e4-07b3d0306d6c"
+          (reference "D47") (unit 1)
         )
       )
     )
@@ -4240,8 +4288,8 @@
     (property "Datasheet" "" (at 43.18 97.79 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 9b00d4c6-2741-4407-be34-6855768748a8))
-    (pin "2" (uuid ecea96e6-6702-48f6-8b9c-f3427421907c))
+    (pin "1" (uuid 8b31194d-8e55-41f0-a411-f6c32a107415))
+    (pin "2" (uuid 095ee736-be26-4dc3-be9d-7a5f54124841))
     (instances
       (project "Hotp4ck"
         (path "/2eb2890b-86ec-4e38-8010-af710e838c20"
@@ -4282,8 +4330,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 160.02 29.21 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid bc1bdffc-4263-4eb2-90bb-3f9eddd9530d))
-    (pin "2" (uuid 4686a7dd-5096-4320-8a65-ca99f6c8dd57))
+    (pin "1" (uuid cc886597-cc19-455b-877b-b902062c096f))
+    (pin "2" (uuid 74e342a7-f04c-4365-8be8-8275637143ed))
     (instances
       (project "Hotp4ck60"
         (path "/a57939d7-40ce-4436-8014-db245ef7f3c5/17e88a0c-a769-4510-88e4-07b3d0306d6c"
@@ -4308,8 +4356,8 @@
     (property "Datasheet" "" (at 76.2 31.75 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 19d0b4e0-d828-41b4-b70d-2ed32ee5a3cd))
-    (pin "2" (uuid 8ae90d8c-d91a-460b-bcda-911643ce5f8a))
+    (pin "1" (uuid 0352843c-ea8d-4c1f-80d9-41b3adc55e54))
+    (pin "2" (uuid 191c9c31-44c9-4379-9916-4d363d6a2760))
     (instances
       (project "Hotp4ck"
         (path "/2eb2890b-86ec-4e38-8010-af710e838c20"
@@ -4329,33 +4377,37 @@
     )
   )
 
-  (symbol (lib_id "Diode:1N4148WS") (at 60.96 78.74 270) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid a0d38fea-3749-4927-b75b-e2db12dfed44)
-    (property "Reference" "D44" (at 66.04 83.82 90)
-      (effects (font (size 1.27 1.27)))
+  (symbol (lib_id "mx1a-simple:MX1A") (at 76.2 81.28 270) (unit 1)
+    (in_bom no) (on_board yes) (dnp no)
+    (uuid 9a1663c2-f212-45e8-b333-9ffc4e717205)
+    (property "Reference" "S1" (at 86.36 81.28 90)
+      (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "1N4148WS" (at 64.77 87.63 90)
-      (effects (font (size 1.27 1.27)))
+    (property "Value" "1.00u" (at 86.36 78.74 90)
+      (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Diode_SMD:D_SOD-323" (at 56.515 78.74 0)
+    (property "Footprint" "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u" (at 76.2 81.28 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "https://www.vishay.com/docs/85751/1n4148ws.pdf" (at 60.96 78.74 0)
+    (property "Datasheet" "" (at 76.2 81.28 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Sim.Device" "D" (at 60.96 78.74 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Sim.Pins" "1=K 2=A" (at 60.96 78.74 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 71f310b1-90db-47e7-9e11-933c054a55d9))
-    (pin "2" (uuid d1394241-d231-4b10-9304-806ef36e2cdc))
+    (pin "1" (uuid 9b926f43-a00e-470b-a41f-110438fd4360))
+    (pin "2" (uuid db9ad35d-b98d-4777-a7a1-f2d6a89d486a))
     (instances
+      (project "Hotp4ck"
+        (path "/2eb2890b-86ec-4e38-8010-af710e838c20"
+          (reference "S1") (unit 1)
+        )
+      )
       (project "Hotp4ck60"
         (path "/a57939d7-40ce-4436-8014-db245ef7f3c5/17e88a0c-a769-4510-88e4-07b3d0306d6c"
-          (reference "D44") (unit 1)
+          (reference "S44") (unit 1)
+        )
+      )
+      (project "designguide-schematic"
+        (path "/c2a65ddb-3915-4293-98a9-444287fe2a3d"
+          (reference "S1") (unit 1)
         )
       )
     )
@@ -4376,8 +4428,8 @@
     (property "Datasheet" "" (at 208.28 97.79 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 3120cfa6-ec91-4545-a36b-82402f7c60a9))
-    (pin "2" (uuid 17254c9b-6693-4925-aeb6-5984caee4ca3))
+    (pin "1" (uuid 2e37c0c0-302b-4d14-86c4-ac0cf33636ec))
+    (pin "2" (uuid dcc06a08-54e8-43aa-81d4-685da423bca1))
     (instances
       (project "Hotp4ck"
         (path "/2eb2890b-86ec-4e38-8010-af710e838c20"
@@ -4418,8 +4470,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 77.47 95.25 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 50e7fc44-201d-4de2-98d0-0ba5af90b51f))
-    (pin "2" (uuid 2b9b7fed-b5c7-4766-b47c-ceb10adb6890))
+    (pin "1" (uuid 15cd5695-791f-429d-8f3f-63df93d9fe10))
+    (pin "2" (uuid 79064ac6-29af-4bb9-b4c9-3a1bc8c90345))
     (instances
       (project "Hotp4ck60"
         (path "/a57939d7-40ce-4436-8014-db245ef7f3c5/17e88a0c-a769-4510-88e4-07b3d0306d6c"
@@ -4450,8 +4502,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 110.49 45.72 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid c7c0c40f-680d-414e-8978-97630f174973))
-    (pin "2" (uuid 1be9a506-e453-4780-ba20-041b7399e243))
+    (pin "1" (uuid b5aaea25-d686-441f-8296-123cfcfb3d1e))
+    (pin "2" (uuid f76491ce-92f1-4b5a-8032-6914ae2bf7fb))
     (instances
       (project "Hotp4ck60"
         (path "/a57939d7-40ce-4436-8014-db245ef7f3c5/17e88a0c-a769-4510-88e4-07b3d0306d6c"
@@ -4482,48 +4534,12 @@
     (property "Sim.Pins" "1=K 2=A" (at 110.49 62.23 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid ec379f47-cd6b-42a9-a134-23310b07caf3))
-    (pin "2" (uuid e6497cf2-df00-434b-a8f5-632dd1e7d290))
+    (pin "1" (uuid 9985173d-5867-46d4-9e9c-c92055f14d25))
+    (pin "2" (uuid d62c60cd-03c8-4987-97e7-2bfc5fa2ef0a))
     (instances
       (project "Hotp4ck60"
         (path "/a57939d7-40ce-4436-8014-db245ef7f3c5/17e88a0c-a769-4510-88e4-07b3d0306d6c"
           (reference "D34") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "mx1a-simple:MX1A") (at 125.73 81.28 270) (unit 1)
-    (in_bom no) (on_board yes) (dnp no)
-    (uuid a702d21a-a580-4ea4-b3cb-a6a4da228f6c)
-    (property "Reference" "S1" (at 135.89 81.28 90)
-      (effects (font (size 1.27 1.27)) (justify right))
-    )
-    (property "Value" "1.00u" (at 135.89 78.74 90)
-      (effects (font (size 1.27 1.27)) (justify right))
-    )
-    (property "Footprint" "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u" (at 125.73 81.28 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (at 125.73 81.28 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 8835425e-9e27-4ae0-8ab6-dfdfd04aec10))
-    (pin "2" (uuid 50de71c4-3d23-4622-8c4f-b5c9d7af473f))
-    (instances
-      (project "Hotp4ck"
-        (path "/2eb2890b-86ec-4e38-8010-af710e838c20"
-          (reference "S1") (unit 1)
-        )
-      )
-      (project "Hotp4ck60"
-        (path "/a57939d7-40ce-4436-8014-db245ef7f3c5/17e88a0c-a769-4510-88e4-07b3d0306d6c"
-          (reference "S48") (unit 1)
-        )
-      )
-      (project "designguide-schematic"
-        (path "/c2a65ddb-3915-4293-98a9-444287fe2a3d"
-          (reference "S1") (unit 1)
         )
       )
     )
@@ -4544,8 +4560,8 @@
     (property "Datasheet" "" (at 26.67 31.75 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 9b042d28-fb85-4eaf-bc4c-4df307993872))
-    (pin "2" (uuid 83dbe6e8-f5bf-4fea-bb9f-062754bc1b83))
+    (pin "1" (uuid 2940f703-948c-4cdf-892b-249a6274bb80))
+    (pin "2" (uuid ac3469e3-fb3d-4b87-aa93-a0bd18708769))
     (instances
       (project "Hotp4ck"
         (path "/2eb2890b-86ec-4e38-8010-af710e838c20"
@@ -4560,6 +4576,38 @@
       (project "designguide-schematic"
         (path "/c2a65ddb-3915-4293-98a9-444287fe2a3d"
           (reference "S1") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Diode:1N4148WS") (at 60.96 78.74 270) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid aa1f0bcf-427a-4f93-8293-a773c0991388)
+    (property "Reference" "D43" (at 66.04 83.82 90)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Value" "1N4148WS" (at 64.77 87.63 90)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "Diode_SMD:D_SOD-323" (at 56.515 78.74 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "https://www.vishay.com/docs/85751/1n4148ws.pdf" (at 60.96 78.74 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Sim.Device" "D" (at 60.96 78.74 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Sim.Pins" "1=K 2=A" (at 60.96 78.74 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid f3b3d1f0-5090-4481-8748-88ea3adfdd7b))
+    (pin "2" (uuid 024ecd70-fa59-400b-a1be-d58b1f4e4f06))
+    (instances
+      (project "Hotp4ck60"
+        (path "/a57939d7-40ce-4436-8014-db245ef7f3c5/17e88a0c-a769-4510-88e4-07b3d0306d6c"
+          (reference "D43") (unit 1)
         )
       )
     )
@@ -4586,8 +4634,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 176.53 45.72 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid df408ea8-a42b-4156-847e-f910434d4a1f))
-    (pin "2" (uuid 4f885306-e8ff-4498-9a7f-b7d98358c302))
+    (pin "1" (uuid 6e1acc0a-c34b-4974-a7b5-5725a22b48a1))
+    (pin "2" (uuid 93b0ddd4-51b7-4aaa-a779-312d655a471a))
     (instances
       (project "Hotp4ck60"
         (path "/a57939d7-40ce-4436-8014-db245ef7f3c5/17e88a0c-a769-4510-88e4-07b3d0306d6c"
@@ -4618,48 +4666,12 @@
     (property "Sim.Pins" "1=K 2=A" (at 242.57 78.74 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 11eee7cf-3314-4a71-8c79-7ce0479ffbcc))
-    (pin "2" (uuid 7fdfcb00-4c1e-413e-8ce7-8f78214b0fd4))
+    (pin "1" (uuid 9bb1a4de-4740-4803-893c-e289fa4f3051))
+    (pin "2" (uuid 24b5390b-841b-440d-a06f-bcf0872809a5))
     (instances
       (project "Hotp4ck60"
         (path "/a57939d7-40ce-4436-8014-db245ef7f3c5/17e88a0c-a769-4510-88e4-07b3d0306d6c"
           (reference "D53") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "mx1a-simple:MX1A") (at 43.18 81.28 270) (unit 1)
-    (in_bom no) (on_board yes) (dnp no)
-    (uuid ac56fe57-ad90-4990-b90b-8d1d6a69a2ba)
-    (property "Reference" "S1" (at 53.34 81.28 90)
-      (effects (font (size 1.27 1.27)) (justify right))
-    )
-    (property "Value" "1.00u" (at 53.34 78.74 90)
-      (effects (font (size 1.27 1.27)) (justify right))
-    )
-    (property "Footprint" "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u" (at 43.18 81.28 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (at 43.18 81.28 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 519768a7-e01b-45b1-b906-2ad814cf078d))
-    (pin "2" (uuid b8c9ad83-2571-4e3d-ba33-6fc1927d7079))
-    (instances
-      (project "Hotp4ck"
-        (path "/2eb2890b-86ec-4e38-8010-af710e838c20"
-          (reference "S1") (unit 1)
-        )
-      )
-      (project "Hotp4ck60"
-        (path "/a57939d7-40ce-4436-8014-db245ef7f3c5/17e88a0c-a769-4510-88e4-07b3d0306d6c"
-          (reference "S43") (unit 1)
-        )
-      )
-      (project "designguide-schematic"
-        (path "/c2a65ddb-3915-4293-98a9-444287fe2a3d"
-          (reference "S1") (unit 1)
         )
       )
     )
@@ -4680,8 +4692,8 @@
     (property "Datasheet" "" (at 92.71 31.75 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 07b4b243-c2c7-45a8-b05d-52d1de60e483))
-    (pin "2" (uuid 456c686a-1e8d-409b-8434-646efde8e3f9))
+    (pin "1" (uuid 0236005f-1eeb-46ad-9941-d6f926d5bfb9))
+    (pin "2" (uuid 8c433f4b-35e4-4539-af4d-03957fe59657))
     (instances
       (project "Hotp4ck"
         (path "/2eb2890b-86ec-4e38-8010-af710e838c20"
@@ -4691,42 +4703,6 @@
       (project "Hotp4ck60"
         (path "/a57939d7-40ce-4436-8014-db245ef7f3c5/17e88a0c-a769-4510-88e4-07b3d0306d6c"
           (reference "S5") (unit 1)
-        )
-      )
-      (project "designguide-schematic"
-        (path "/c2a65ddb-3915-4293-98a9-444287fe2a3d"
-          (reference "S1") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "mx1a-simple:MX1A") (at 92.71 81.28 270) (unit 1)
-    (in_bom no) (on_board yes) (dnp no)
-    (uuid b1a805f7-39a0-4d48-a2b3-6f5be4c558ec)
-    (property "Reference" "S1" (at 102.87 81.28 90)
-      (effects (font (size 1.27 1.27)) (justify right))
-    )
-    (property "Value" "1.00u" (at 102.87 78.74 90)
-      (effects (font (size 1.27 1.27)) (justify right))
-    )
-    (property "Footprint" "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u" (at 92.71 81.28 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (at 92.71 81.28 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid ea0c2b5b-4577-4bea-ab5d-1b185b1732c0))
-    (pin "2" (uuid d32c4c94-61ec-4356-a50b-26feac0479d9))
-    (instances
-      (project "Hotp4ck"
-        (path "/2eb2890b-86ec-4e38-8010-af710e838c20"
-          (reference "S1") (unit 1)
-        )
-      )
-      (project "Hotp4ck60"
-        (path "/a57939d7-40ce-4436-8014-db245ef7f3c5/17e88a0c-a769-4510-88e4-07b3d0306d6c"
-          (reference "S46") (unit 1)
         )
       )
       (project "designguide-schematic"
@@ -4752,8 +4728,8 @@
     (property "Datasheet" "" (at 224.79 31.75 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 22235fc1-8026-4f6a-93b0-dc5f4f0dc800))
-    (pin "2" (uuid 7da0c860-01b4-4017-b2fb-40c5fe39830a))
+    (pin "1" (uuid d5c012cb-7811-4208-ba67-1eb7d6f053a9))
+    (pin "2" (uuid c1c694be-fc55-4859-886d-327c27aa5787))
     (instances
       (project "Hotp4ck"
         (path "/2eb2890b-86ec-4e38-8010-af710e838c20"
@@ -4794,8 +4770,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 209.55 62.23 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid b7385644-4697-4385-9120-5b4f8399527e))
-    (pin "2" (uuid 632519cf-b492-421f-a9b5-cdd3fc67f302))
+    (pin "1" (uuid 8baf5eea-962d-4be7-a315-007c6b6578fa))
+    (pin "2" (uuid 769a30f9-2899-47e8-a5d5-5a7a1a96d8ff))
     (instances
       (project "Hotp4ck60"
         (path "/a57939d7-40ce-4436-8014-db245ef7f3c5/17e88a0c-a769-4510-88e4-07b3d0306d6c"
@@ -4820,8 +4796,8 @@
     (property "Datasheet" "" (at 125.73 48.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid e4ee1a15-136d-4d0d-8ba4-a0aa8a05c3c5))
-    (pin "2" (uuid 21f2ad59-625b-41c4-9ade-78dcb6163156))
+    (pin "1" (uuid 2d07ec53-296f-4145-b87b-6e11964ce0c1))
+    (pin "2" (uuid 322f8365-9a1a-4136-b424-f012adba52fe))
     (instances
       (project "Hotp4ck"
         (path "/2eb2890b-86ec-4e38-8010-af710e838c20"
@@ -4836,6 +4812,38 @@
       (project "designguide-schematic"
         (path "/c2a65ddb-3915-4293-98a9-444287fe2a3d"
           (reference "S1") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Diode:1N4148WS") (at 93.98 78.74 270) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid b85808a7-0cd3-4520-b05f-9b1c98ce0e7a)
+    (property "Reference" "D45" (at 99.06 83.82 90)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Value" "1N4148WS" (at 97.79 87.63 90)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "Diode_SMD:D_SOD-323" (at 89.535 78.74 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "https://www.vishay.com/docs/85751/1n4148ws.pdf" (at 93.98 78.74 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Sim.Device" "D" (at 93.98 78.74 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Sim.Pins" "1=K 2=A" (at 93.98 78.74 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid ab64763f-d816-4066-95fe-db4dd801b85d))
+    (pin "2" (uuid 23860dae-2d6a-46b9-a979-032397eff453))
+    (instances
+      (project "Hotp4ck60"
+        (path "/a57939d7-40ce-4436-8014-db245ef7f3c5/17e88a0c-a769-4510-88e4-07b3d0306d6c"
+          (reference "D45") (unit 1)
         )
       )
     )
@@ -4856,8 +4864,8 @@
     (property "Datasheet" "" (at 241.3 48.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 477ec815-85e8-41d8-8ec8-2708dc5de9cd))
-    (pin "2" (uuid ee9508bf-9e91-4a22-9717-7f378b6071f1))
+    (pin "1" (uuid f927801e-239e-4b03-9969-c14a0c0886f1))
+    (pin "2" (uuid 0d493847-86fa-4891-a362-b95fe8dadba0))
     (instances
       (project "Hotp4ck"
         (path "/2eb2890b-86ec-4e38-8010-af710e838c20"
@@ -4898,8 +4906,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 44.45 45.72 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a4cc553a-b2cd-4ce5-b15f-785aaf1a8961))
-    (pin "2" (uuid 73fb77b6-140e-4449-8bf0-a62767c6cdbf))
+    (pin "1" (uuid 0674d721-0e63-47d1-9fb6-81b8e9860615))
+    (pin "2" (uuid df7b223e-ca25-4f58-8d70-4c6178acd02a))
     (instances
       (project "Hotp4ck60"
         (path "/a57939d7-40ce-4436-8014-db245ef7f3c5/17e88a0c-a769-4510-88e4-07b3d0306d6c"
@@ -4924,8 +4932,8 @@
     (property "Datasheet" "" (at 76.2 97.79 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 269bd9e7-3e2d-4f6e-8050-6e50321990bf))
-    (pin "2" (uuid c9124721-1d88-4c6b-a357-cf9ad161e83a))
+    (pin "1" (uuid 20b2d520-14cc-4580-bce6-2c75c45786d4))
+    (pin "2" (uuid a99cb613-6964-4d04-a4d8-15969eac3d88))
     (instances
       (project "Hotp4ck"
         (path "/2eb2890b-86ec-4e38-8010-af710e838c20"
@@ -4966,8 +4974,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 44.45 62.23 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 361690b4-3ae7-4eb5-a49b-f638c9125173))
-    (pin "2" (uuid 1beed456-b457-4d2a-a69a-49db16802eab))
+    (pin "1" (uuid 68bf302f-b6f7-4c6c-b9ef-8318889c2871))
+    (pin "2" (uuid 2b2c0948-b162-4914-879c-3adde8227e21))
     (instances
       (project "Hotp4ck60"
         (path "/a57939d7-40ce-4436-8014-db245ef7f3c5/17e88a0c-a769-4510-88e4-07b3d0306d6c"
@@ -4998,8 +5006,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 193.04 78.74 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 07f0cf91-9342-4afe-9ee6-83bb451a6c46))
-    (pin "2" (uuid d3171c89-7eed-4500-801a-e0b581dcbaa3))
+    (pin "1" (uuid b185edc0-7fd5-4177-8de3-7b0a60a6ba7d))
+    (pin "2" (uuid 748c53a0-fc44-4a5b-923c-67c29e10f4fd))
     (instances
       (project "Hotp4ck60"
         (path "/a57939d7-40ce-4436-8014-db245ef7f3c5/17e88a0c-a769-4510-88e4-07b3d0306d6c"
@@ -5030,8 +5038,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 193.04 62.23 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid d94a6149-1593-4285-96a4-3937c12291e2))
-    (pin "2" (uuid bd6a3e4f-d168-4af8-b52f-7690893e17b8))
+    (pin "1" (uuid ac5144d5-2483-4fd1-8b27-62a3b5521a33))
+    (pin "2" (uuid 0e3c0284-1e13-4958-ae29-1a116320e05b))
     (instances
       (project "Hotp4ck60"
         (path "/a57939d7-40ce-4436-8014-db245ef7f3c5/17e88a0c-a769-4510-88e4-07b3d0306d6c"
@@ -5062,8 +5070,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 242.57 62.23 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 436cf85a-9146-4a9b-be5c-b456701cf510))
-    (pin "2" (uuid b1884620-0d86-4ed1-97a8-28252d040cbc))
+    (pin "1" (uuid efb3fe97-ffee-43ad-b97e-238e2c38092a))
+    (pin "2" (uuid 85cacb6d-f8cf-421e-a673-30962ca005c9))
     (instances
       (project "Hotp4ck60"
         (path "/a57939d7-40ce-4436-8014-db245ef7f3c5/17e88a0c-a769-4510-88e4-07b3d0306d6c"
@@ -5094,48 +5102,12 @@
     (property "Sim.Pins" "1=K 2=A" (at 27.94 95.25 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid e2e1c259-6187-4b24-b377-5ce4c8d0b94a))
-    (pin "2" (uuid 85532560-82b7-4cc5-ad2b-d2b4a023d56f))
+    (pin "1" (uuid 30c39a82-683e-4bd2-bce5-a32d12513982))
+    (pin "2" (uuid 8b25e853-1aab-4654-9f84-229e246a6f0a))
     (instances
       (project "Hotp4ck60"
         (path "/a57939d7-40ce-4436-8014-db245ef7f3c5/17e88a0c-a769-4510-88e4-07b3d0306d6c"
           (reference "D54") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "mx1a-simple:MX1A") (at 76.2 81.28 270) (unit 1)
-    (in_bom no) (on_board yes) (dnp no)
-    (uuid c264a97b-bf55-45fe-900c-73b6b035d519)
-    (property "Reference" "S1" (at 86.36 81.28 90)
-      (effects (font (size 1.27 1.27)) (justify right))
-    )
-    (property "Value" "1.00u" (at 86.36 78.74 90)
-      (effects (font (size 1.27 1.27)) (justify right))
-    )
-    (property "Footprint" "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u" (at 76.2 81.28 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (at 76.2 81.28 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 52fe29b3-671c-4f46-90a2-da818f56e986))
-    (pin "2" (uuid 0f08088b-40bd-459a-b89c-b804a31e2f61))
-    (instances
-      (project "Hotp4ck"
-        (path "/2eb2890b-86ec-4e38-8010-af710e838c20"
-          (reference "S1") (unit 1)
-        )
-      )
-      (project "Hotp4ck60"
-        (path "/a57939d7-40ce-4436-8014-db245ef7f3c5/17e88a0c-a769-4510-88e4-07b3d0306d6c"
-          (reference "S45") (unit 1)
-        )
-      )
-      (project "designguide-schematic"
-        (path "/c2a65ddb-3915-4293-98a9-444287fe2a3d"
-          (reference "S1") (unit 1)
         )
       )
     )
@@ -5156,8 +5128,8 @@
     (property "Datasheet" "" (at 76.2 48.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 1a6e411d-6072-4ba1-a145-7e16529ad83e))
-    (pin "2" (uuid 1b1f2a64-6289-4e1b-87ac-b1289f8a27b5))
+    (pin "1" (uuid ea770e61-822e-4539-8d41-e862925edc13))
+    (pin "2" (uuid de4e98cb-ac82-4258-b9a5-07bfbbdd65aa))
     (instances
       (project "Hotp4ck"
         (path "/2eb2890b-86ec-4e38-8010-af710e838c20"
@@ -5192,8 +5164,8 @@
     (property "Datasheet" "" (at 125.73 31.75 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 9955dfd9-ee0b-48e7-8260-06192af9cb0c))
-    (pin "2" (uuid 2b68970e-8f26-4744-851c-8a75d0b223d0))
+    (pin "1" (uuid 0846c019-da6f-48e8-bee9-4f427e35c32f))
+    (pin "2" (uuid b47b70e9-7baa-4f56-b7b8-13e24ff14b37))
     (instances
       (project "Hotp4ck"
         (path "/2eb2890b-86ec-4e38-8010-af710e838c20"
@@ -5208,6 +5180,38 @@
       (project "designguide-schematic"
         (path "/c2a65ddb-3915-4293-98a9-444287fe2a3d"
           (reference "S1") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Diode:1N4148WS") (at 77.47 78.74 270) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid cbbd6f0e-6df5-49cd-ba30-86dd4ee10813)
+    (property "Reference" "D44" (at 82.55 83.82 90)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Value" "1N4148WS" (at 81.28 87.63 90)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "Diode_SMD:D_SOD-323" (at 73.025 78.74 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "https://www.vishay.com/docs/85751/1n4148ws.pdf" (at 77.47 78.74 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Sim.Device" "D" (at 77.47 78.74 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Sim.Pins" "1=K 2=A" (at 77.47 78.74 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid e50afd8e-ebeb-4d1f-8c51-0fec65a81e0e))
+    (pin "2" (uuid 1baac64d-fe49-4093-85a7-a188a7b0538c))
+    (instances
+      (project "Hotp4ck60"
+        (path "/a57939d7-40ce-4436-8014-db245ef7f3c5/17e88a0c-a769-4510-88e4-07b3d0306d6c"
+          (reference "D44") (unit 1)
         )
       )
     )
@@ -5234,8 +5238,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 77.47 45.72 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 85247f26-ec41-4fcc-8052-169c607b427a))
-    (pin "2" (uuid 0a7d7cf7-7cc1-4daa-bfc2-7ea160e3389d))
+    (pin "1" (uuid 8bceacbb-ebd8-4143-9441-2aaca8d42202))
+    (pin "2" (uuid f7202f5b-c941-4dd1-8726-9ec150e9ef8c))
     (instances
       (project "Hotp4ck60"
         (path "/a57939d7-40ce-4436-8014-db245ef7f3c5/17e88a0c-a769-4510-88e4-07b3d0306d6c"
@@ -5266,8 +5270,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 27.94 62.23 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 2d3c11ac-8497-4808-b4b7-0a6281f3c81d))
-    (pin "2" (uuid a7f67371-aaf0-42d5-ae0b-1ee96116ca36))
+    (pin "1" (uuid 06640e16-bb68-46a5-b2d5-ade18f8af486))
+    (pin "2" (uuid 620546e3-9249-4213-86c7-93ed5e4716bc))
     (instances
       (project "Hotp4ck60"
         (path "/a57939d7-40ce-4436-8014-db245ef7f3c5/17e88a0c-a769-4510-88e4-07b3d0306d6c"
@@ -5298,8 +5302,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 209.55 29.21 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid b68813f9-80d4-4837-a708-c91c9a3f3326))
-    (pin "2" (uuid d835722c-dc24-4d69-bba8-d7f980e24cbe))
+    (pin "1" (uuid 3758d78c-2bee-45ff-bde4-7032575cfb50))
+    (pin "2" (uuid 6af96f39-1345-4036-9bcc-00ecfd46c16b))
     (instances
       (project "Hotp4ck60"
         (path "/a57939d7-40ce-4436-8014-db245ef7f3c5/17e88a0c-a769-4510-88e4-07b3d0306d6c"
@@ -5324,8 +5328,8 @@
     (property "Datasheet" "" (at 175.26 48.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a0f98949-3f45-48db-ba95-998ba281101f))
-    (pin "2" (uuid 108731bf-b44e-4658-b74d-ec5b42377512))
+    (pin "1" (uuid 13efd8db-f7a8-4724-acfe-5e7ff238e7d9))
+    (pin "2" (uuid 9915e874-a573-46db-b1d4-9df187c89090))
     (instances
       (project "Hotp4ck"
         (path "/2eb2890b-86ec-4e38-8010-af710e838c20"
@@ -5360,8 +5364,8 @@
     (property "Datasheet" "" (at 158.75 31.75 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid c7190857-2847-4a78-a6ca-da20f1fac25f))
-    (pin "2" (uuid 29acc771-f291-48a0-8496-24ebe5d604da))
+    (pin "1" (uuid e3cc6875-3517-47f8-81dc-902e4ba387d2))
+    (pin "2" (uuid dd92c8c6-2b09-453b-922c-2167e72d5bb0))
     (instances
       (project "Hotp4ck"
         (path "/2eb2890b-86ec-4e38-8010-af710e838c20"
@@ -5371,42 +5375,6 @@
       (project "Hotp4ck60"
         (path "/a57939d7-40ce-4436-8014-db245ef7f3c5/17e88a0c-a769-4510-88e4-07b3d0306d6c"
           (reference "S9") (unit 1)
-        )
-      )
-      (project "designguide-schematic"
-        (path "/c2a65ddb-3915-4293-98a9-444287fe2a3d"
-          (reference "S1") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "mx1a-simple:MX1A") (at 109.22 81.28 270) (unit 1)
-    (in_bom no) (on_board yes) (dnp no)
-    (uuid ce91df21-6874-4073-b84d-423ecd87d144)
-    (property "Reference" "S1" (at 119.38 81.28 90)
-      (effects (font (size 1.27 1.27)) (justify right))
-    )
-    (property "Value" "1.00u" (at 119.38 78.74 90)
-      (effects (font (size 1.27 1.27)) (justify right))
-    )
-    (property "Footprint" "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u" (at 109.22 81.28 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (at 109.22 81.28 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 85b870ec-b867-476f-9742-2ad929419c92))
-    (pin "2" (uuid 38f6d8e2-a051-4114-b15d-d694150f0f9c))
-    (instances
-      (project "Hotp4ck"
-        (path "/2eb2890b-86ec-4e38-8010-af710e838c20"
-          (reference "S1") (unit 1)
-        )
-      )
-      (project "Hotp4ck60"
-        (path "/a57939d7-40ce-4436-8014-db245ef7f3c5/17e88a0c-a769-4510-88e4-07b3d0306d6c"
-          (reference "S47") (unit 1)
         )
       )
       (project "designguide-schematic"
@@ -5432,8 +5400,8 @@
     (property "Datasheet" "" (at 191.77 97.79 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 22933cee-feb5-40f2-94d0-e3db5ca17b46))
-    (pin "2" (uuid fe2697fe-679d-4f0b-bbd0-30f4f950d2fd))
+    (pin "1" (uuid 78a2cab8-02d4-4a2f-8948-fb09519b71ae))
+    (pin "2" (uuid a1a80e20-64cc-4e02-b380-73066fb7b41a))
     (instances
       (project "Hotp4ck"
         (path "/2eb2890b-86ec-4e38-8010-af710e838c20"
@@ -5468,8 +5436,8 @@
     (property "Datasheet" "" (at 158.75 64.77 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 16daaa71-878f-44a4-9a59-2523a4d2cba1))
-    (pin "2" (uuid f368e31f-5f8e-4595-9c53-0ba30dbef3e2))
+    (pin "1" (uuid 3bcec5ef-2129-49a5-9e5e-b68e26d7275d))
+    (pin "2" (uuid 3c556bd4-486c-4be3-a853-763d8a625111))
     (instances
       (project "Hotp4ck"
         (path "/2eb2890b-86ec-4e38-8010-af710e838c20"
@@ -5484,6 +5452,38 @@
       (project "designguide-schematic"
         (path "/c2a65ddb-3915-4293-98a9-444287fe2a3d"
           (reference "S1") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Diode:1N4148WS") (at 160.02 78.74 270) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid d0533a0b-368f-4dca-8d40-d01c154efb14)
+    (property "Reference" "D49" (at 165.1 83.82 90)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Value" "1N4148WS" (at 163.83 87.63 90)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "Diode_SMD:D_SOD-323" (at 155.575 78.74 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "https://www.vishay.com/docs/85751/1n4148ws.pdf" (at 160.02 78.74 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Sim.Device" "D" (at 160.02 78.74 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Sim.Pins" "1=K 2=A" (at 160.02 78.74 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid c56d5e53-c28d-46d9-b012-92e2ea973caf))
+    (pin "2" (uuid 9a17ee66-734a-4925-9eb8-e75112021168))
+    (instances
+      (project "Hotp4ck60"
+        (path "/a57939d7-40ce-4436-8014-db245ef7f3c5/17e88a0c-a769-4510-88e4-07b3d0306d6c"
+          (reference "D49") (unit 1)
         )
       )
     )
@@ -5510,8 +5510,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 60.96 62.23 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 2452502f-024a-49d0-8558-984c3ceb67e5))
-    (pin "2" (uuid ecfd8b88-9b00-499a-9105-08c5afd82ed7))
+    (pin "1" (uuid 1188889c-5e4f-4ba0-a1ef-45ae5a381a0f))
+    (pin "2" (uuid 84d19963-0476-4c6e-85f6-b6a0693cb4ac))
     (instances
       (project "Hotp4ck60"
         (path "/a57939d7-40ce-4436-8014-db245ef7f3c5/17e88a0c-a769-4510-88e4-07b3d0306d6c"
@@ -5542,8 +5542,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 93.98 62.23 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 13d43bd8-1177-4d0f-88ab-02410312a97a))
-    (pin "2" (uuid c3b78a7f-3f8c-4a39-8f89-5abb17aba8cc))
+    (pin "1" (uuid 6409bc5c-6445-4495-b7a4-f20e8eb2cfc0))
+    (pin "2" (uuid fdcd8cfc-8b3b-4692-96cc-8b44047187e4))
     (instances
       (project "Hotp4ck60"
         (path "/a57939d7-40ce-4436-8014-db245ef7f3c5/17e88a0c-a769-4510-88e4-07b3d0306d6c"
@@ -5568,8 +5568,8 @@
     (property "Datasheet" "" (at 26.67 48.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f67d17d4-cd1f-4505-94f1-9febbd765ed2))
-    (pin "2" (uuid 982a1a4a-aeab-40eb-9d49-4842b33c3ab1))
+    (pin "1" (uuid f21c0817-4e7b-4498-9720-d1866076cc69))
+    (pin "2" (uuid bfde52e2-cb1d-4ac7-832b-f786a3912dc1))
     (instances
       (project "Hotp4ck"
         (path "/2eb2890b-86ec-4e38-8010-af710e838c20"
@@ -5604,8 +5604,8 @@
     (property "Datasheet" "" (at 59.69 31.75 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 4a677025-b862-484d-a91f-283b96464699))
-    (pin "2" (uuid 20eed5b4-2082-4cd1-b1df-33b0b536f24d))
+    (pin "1" (uuid 5168c62d-7b3f-40b0-99b9-05461775cf93))
+    (pin "2" (uuid c0c0b3c0-ac6f-4ad9-aef3-b5b37781cebf))
     (instances
       (project "Hotp4ck"
         (path "/2eb2890b-86ec-4e38-8010-af710e838c20"
@@ -5646,12 +5646,48 @@
     (property "Sim.Pins" "1=K 2=A" (at 93.98 45.72 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 929cd78a-1018-41e4-86b4-317ec7e8efbe))
-    (pin "2" (uuid fcb6745b-10e4-4e9e-8b6a-8e9d119d5422))
+    (pin "1" (uuid 1b5dd2f3-568d-490f-94a4-c9f1f12a7066))
+    (pin "2" (uuid fb35d68d-2460-43ce-bc86-b516555350f9))
     (instances
       (project "Hotp4ck60"
         (path "/a57939d7-40ce-4436-8014-db245ef7f3c5/17e88a0c-a769-4510-88e4-07b3d0306d6c"
           (reference "D19") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "mx1a-simple:MX1A") (at 125.73 81.28 270) (unit 1)
+    (in_bom no) (on_board yes) (dnp no)
+    (uuid d9a939a1-d7af-45c5-ab76-92806f724dd4)
+    (property "Reference" "S1" (at 135.89 81.28 90)
+      (effects (font (size 1.27 1.27)) (justify right))
+    )
+    (property "Value" "1.00u" (at 135.89 78.74 90)
+      (effects (font (size 1.27 1.27)) (justify right))
+    )
+    (property "Footprint" "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u" (at 125.73 81.28 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 125.73 81.28 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 143d3f00-28ad-41c9-9e13-546026c2649d))
+    (pin "2" (uuid 4d9ef830-5109-4e49-a66f-eb1e0dee23ee))
+    (instances
+      (project "Hotp4ck"
+        (path "/2eb2890b-86ec-4e38-8010-af710e838c20"
+          (reference "S1") (unit 1)
+        )
+      )
+      (project "Hotp4ck60"
+        (path "/a57939d7-40ce-4436-8014-db245ef7f3c5/17e88a0c-a769-4510-88e4-07b3d0306d6c"
+          (reference "S47") (unit 1)
+        )
+      )
+      (project "designguide-schematic"
+        (path "/c2a65ddb-3915-4293-98a9-444287fe2a3d"
+          (reference "S1") (unit 1)
         )
       )
     )
@@ -5678,8 +5714,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 193.04 95.25 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid b431f9db-6cfa-4962-9ad0-15939a03f4f5))
-    (pin "2" (uuid a7f2b10a-7edf-4707-9947-ace791b810b9))
+    (pin "1" (uuid 3c584aab-1d01-4678-89e6-1b8450314e91))
+    (pin "2" (uuid 90a76bd6-bdb2-47e0-89c2-3ded0d6fe952))
     (instances
       (project "Hotp4ck60"
         (path "/a57939d7-40ce-4436-8014-db245ef7f3c5/17e88a0c-a769-4510-88e4-07b3d0306d6c"
@@ -5710,8 +5746,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 60.96 45.72 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid b15f87ad-e529-4130-854e-c1c14d16f805))
-    (pin "2" (uuid 2638a8bc-8604-465f-93f7-71cb2ba83db0))
+    (pin "1" (uuid 784f4a4f-b75f-48d8-8ab1-8cac93dd9b53))
+    (pin "2" (uuid fff869a7-583b-4793-9bb8-5eeb961386eb))
     (instances
       (project "Hotp4ck60"
         (path "/a57939d7-40ce-4436-8014-db245ef7f3c5/17e88a0c-a769-4510-88e4-07b3d0306d6c"
@@ -5742,8 +5778,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 176.53 62.23 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid ba56b8c5-0151-4bce-9b66-62de59d9ac59))
-    (pin "2" (uuid 4224c8d9-812e-40b5-accd-6fb4b69ff16d))
+    (pin "1" (uuid a5fc32bc-b639-4ebd-b664-413443303aef))
+    (pin "2" (uuid 5df36533-4e29-4178-b820-ea706779db42))
     (instances
       (project "Hotp4ck60"
         (path "/a57939d7-40ce-4436-8014-db245ef7f3c5/17e88a0c-a769-4510-88e4-07b3d0306d6c"
@@ -5768,8 +5804,8 @@
     (property "Datasheet" "" (at 109.22 48.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid d412e2ae-428e-41c5-99b7-caf8ce170d5a))
-    (pin "2" (uuid 96235fa9-a150-4a83-a557-2ffaf10d3132))
+    (pin "1" (uuid 3a8fd922-5523-4860-8d5b-0a12d48234c6))
+    (pin "2" (uuid c4f05262-a665-4f3d-a229-e0afd420049d))
     (instances
       (project "Hotp4ck"
         (path "/2eb2890b-86ec-4e38-8010-af710e838c20"
@@ -5810,8 +5846,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 44.45 29.21 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 6123d4be-feff-4cec-8894-86b74b32060b))
-    (pin "2" (uuid 7e5ce1c8-0ca1-4847-8a1b-a663d6bdaa2d))
+    (pin "1" (uuid eb91302c-2cdd-4feb-9957-e304ca7b8916))
+    (pin "2" (uuid ac63e32a-c198-46c9-8ecb-f1ccd4701424))
     (instances
       (project "Hotp4ck60"
         (path "/a57939d7-40ce-4436-8014-db245ef7f3c5/17e88a0c-a769-4510-88e4-07b3d0306d6c"
@@ -5836,8 +5872,8 @@
     (property "Datasheet" "" (at 175.26 31.75 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 13ae02f0-0334-45f6-b773-ca0b8e3e5cc2))
-    (pin "2" (uuid fc28769b-1544-43d0-8e7a-a70306b8fe1b))
+    (pin "1" (uuid 0458a832-6724-46b9-bed2-be03105506e7))
+    (pin "2" (uuid 24063074-4e97-47aa-a27c-ac4684da596f))
     (instances
       (project "Hotp4ck"
         (path "/2eb2890b-86ec-4e38-8010-af710e838c20"
@@ -5872,8 +5908,8 @@
     (property "Datasheet" "" (at 43.18 48.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid d317cde9-c780-40e2-84ca-2415f0bcf761))
-    (pin "2" (uuid 3986e621-e2a5-4422-99f4-fa9776f14694))
+    (pin "1" (uuid 064de41d-8fcd-480f-b71b-2a5b785ba653))
+    (pin "2" (uuid 48843b5a-ec80-45a9-a1b2-607a882aa153))
     (instances
       (project "Hotp4ck"
         (path "/2eb2890b-86ec-4e38-8010-af710e838c20"
@@ -5888,6 +5924,38 @@
       (project "designguide-schematic"
         (path "/c2a65ddb-3915-4293-98a9-444287fe2a3d"
           (reference "S1") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Diode:1N4148WS") (at 176.53 78.74 270) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid ea2a8a33-3a82-4b48-a377-d3c5df6aa6ec)
+    (property "Reference" "D50" (at 181.61 83.82 90)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Value" "1N4148WS" (at 180.34 87.63 90)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "Diode_SMD:D_SOD-323" (at 172.085 78.74 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "https://www.vishay.com/docs/85751/1n4148ws.pdf" (at 176.53 78.74 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Sim.Device" "D" (at 176.53 78.74 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Sim.Pins" "1=K 2=A" (at 176.53 78.74 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 1af1d29e-d89d-4649-929b-e345aa643b09))
+    (pin "2" (uuid 072e9c98-88ae-479b-a3a7-f4f9e825842d))
+    (instances
+      (project "Hotp4ck60"
+        (path "/a57939d7-40ce-4436-8014-db245ef7f3c5/17e88a0c-a769-4510-88e4-07b3d0306d6c"
+          (reference "D50") (unit 1)
         )
       )
     )
@@ -5914,8 +5982,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 209.55 78.74 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 37909a51-f5db-43f2-ac41-7570e984358d))
-    (pin "2" (uuid 69b41244-b486-41ba-9417-104984577867))
+    (pin "1" (uuid 643b6264-59b6-4f00-b86e-737a67f4c750))
+    (pin "2" (uuid 3387d1d2-c4f5-486e-b12e-3aeb2dbeb2e2))
     (instances
       (project "Hotp4ck60"
         (path "/a57939d7-40ce-4436-8014-db245ef7f3c5/17e88a0c-a769-4510-88e4-07b3d0306d6c"
@@ -5940,8 +6008,8 @@
     (property "Datasheet" "" (at 241.3 64.77 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 1b26c66d-0388-4e71-bd9a-5278a4c361b3))
-    (pin "2" (uuid 84f4ad00-bdbb-442b-a388-ef0d6e5b5ea8))
+    (pin "1" (uuid 865764ef-f02c-4023-b582-b883511305aa))
+    (pin "2" (uuid 74c8ec80-4233-468e-8394-e10cb9e9fc70))
     (instances
       (project "Hotp4ck"
         (path "/2eb2890b-86ec-4e38-8010-af710e838c20"
@@ -5956,38 +6024,6 @@
       (project "designguide-schematic"
         (path "/c2a65ddb-3915-4293-98a9-444287fe2a3d"
           (reference "S62") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "Diode:1N4148WS") (at 110.49 78.74 270) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid f41d72f0-6a30-45ba-aee6-70abb1c724fd)
-    (property "Reference" "D47" (at 115.57 83.82 90)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Value" "1N4148WS" (at 114.3 87.63 90)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Footprint" "Diode_SMD:D_SOD-323" (at 106.045 78.74 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "https://www.vishay.com/docs/85751/1n4148ws.pdf" (at 110.49 78.74 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Sim.Device" "D" (at 110.49 78.74 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Sim.Pins" "1=K 2=A" (at 110.49 78.74 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 74693281-5dab-4e77-9f88-c60e6f61366c))
-    (pin "2" (uuid befd7cac-89bf-4d84-870f-bbe3f34d3a7a))
-    (instances
-      (project "Hotp4ck60"
-        (path "/a57939d7-40ce-4436-8014-db245ef7f3c5/17e88a0c-a769-4510-88e4-07b3d0306d6c"
-          (reference "D47") (unit 1)
         )
       )
     )
@@ -6008,8 +6044,8 @@
     (property "Datasheet" "" (at 208.28 31.75 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f9a7fdf2-3bcd-4bb3-b23a-8e94b116f841))
-    (pin "2" (uuid 4681ea8c-95ed-446d-8cce-784d731bf207))
+    (pin "1" (uuid af2f5c42-95f6-4b98-98ce-ef9f0d3745e5))
+    (pin "2" (uuid f7e142e4-76f7-4d6e-a1f0-9d567382069c))
     (instances
       (project "Hotp4ck"
         (path "/2eb2890b-86ec-4e38-8010-af710e838c20"
@@ -6044,8 +6080,8 @@
     (property "Datasheet" "" (at 241.3 97.79 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f2fe962b-d6a6-424c-868a-ef565a536cb7))
-    (pin "2" (uuid bb029e8a-9a82-46ad-afa9-320132547a28))
+    (pin "1" (uuid ce0cada0-04ec-43e2-9536-80866aea5533))
+    (pin "2" (uuid fa072cad-5c2f-48af-9ea7-ec63d8695cb6))
     (instances
       (project "Hotp4ck"
         (path "/2eb2890b-86ec-4e38-8010-af710e838c20"
@@ -6086,8 +6122,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 160.02 62.23 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 8e48ce73-76e7-4804-809d-1f032d76aa77))
-    (pin "2" (uuid 0bb148a4-2e91-4ac9-8266-06f24985f42d))
+    (pin "1" (uuid 7a7d6094-b268-41ac-b5b2-f075cc2c1459))
+    (pin "2" (uuid dd73b92e-7aef-4acc-80ff-7058f70ab7ba))
     (instances
       (project "Hotp4ck60"
         (path "/a57939d7-40ce-4436-8014-db245ef7f3c5/17e88a0c-a769-4510-88e4-07b3d0306d6c"
@@ -6112,8 +6148,8 @@
     (property "Datasheet" "" (at 142.24 48.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 57ac7626-e01a-49fb-a874-edbddd0f847b))
-    (pin "2" (uuid c070862e-5888-455d-8fa2-6a46df82ead9))
+    (pin "1" (uuid 7fa7de31-9bac-4805-be5c-923decd77683))
+    (pin "2" (uuid 4ee67f2b-2589-4bbd-a7f5-ebd5bc20446d))
     (instances
       (project "Hotp4ck"
         (path "/2eb2890b-86ec-4e38-8010-af710e838c20"
@@ -6123,42 +6159,6 @@
       (project "Hotp4ck60"
         (path "/a57939d7-40ce-4436-8014-db245ef7f3c5/17e88a0c-a769-4510-88e4-07b3d0306d6c"
           (reference "S22") (unit 1)
-        )
-      )
-      (project "designguide-schematic"
-        (path "/c2a65ddb-3915-4293-98a9-444287fe2a3d"
-          (reference "S1") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "mx1a-simple:MX1A") (at 158.75 81.28 270) (unit 1)
-    (in_bom no) (on_board yes) (dnp no)
-    (uuid fb22a286-f7cf-4638-98b6-e3fd65b55c48)
-    (property "Reference" "S1" (at 168.91 81.28 90)
-      (effects (font (size 1.27 1.27)) (justify right))
-    )
-    (property "Value" "1.00u" (at 168.91 78.74 90)
-      (effects (font (size 1.27 1.27)) (justify right))
-    )
-    (property "Footprint" "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u" (at 158.75 81.28 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (at 158.75 81.28 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid adb81041-5947-40a9-827c-40ffd5a65ebf))
-    (pin "2" (uuid aa8870a1-07ba-4712-bdc6-538477ea809e))
-    (instances
-      (project "Hotp4ck"
-        (path "/2eb2890b-86ec-4e38-8010-af710e838c20"
-          (reference "S1") (unit 1)
-        )
-      )
-      (project "Hotp4ck60"
-        (path "/a57939d7-40ce-4436-8014-db245ef7f3c5/17e88a0c-a769-4510-88e4-07b3d0306d6c"
-          (reference "S50") (unit 1)
         )
       )
       (project "designguide-schematic"
@@ -6184,8 +6184,8 @@
     (property "Datasheet" "" (at 191.77 31.75 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 90bd6e5e-dfbe-4cc0-938f-142d854fd7b4))
-    (pin "2" (uuid aa38a538-9661-4390-8afe-9716c977f60a))
+    (pin "1" (uuid 048e6426-8597-4b2e-9d8b-b6f544cfd506))
+    (pin "2" (uuid 2f6dccd7-029d-437e-b0d0-67dc06571cc9))
     (instances
       (project "Hotp4ck"
         (path "/2eb2890b-86ec-4e38-8010-af710e838c20"
@@ -6220,8 +6220,8 @@
     (property "Datasheet" "" (at 59.69 64.77 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a85df8e4-f0c3-4a1a-8b21-7149993df19f))
-    (pin "2" (uuid bb244ae3-2030-4e2c-9b17-1a1ea75d17b0))
+    (pin "1" (uuid 4da97b6b-5bc9-492a-9f7f-719aa55b1d9c))
+    (pin "2" (uuid 8ca6a504-2bda-4bf5-8d0b-385291375e36))
     (instances
       (project "Hotp4ck"
         (path "/2eb2890b-86ec-4e38-8010-af710e838c20"
@@ -6262,8 +6262,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 176.53 29.21 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 6afe8747-c31b-43d8-9b03-ec8fc02ba8ad))
-    (pin "2" (uuid e1c8ecf6-f7d4-483a-95f0-1a773968ab05))
+    (pin "1" (uuid 420c81f7-6860-4add-8604-9ba48ba689d9))
+    (pin "2" (uuid 6f9d5dc1-573f-41be-8864-645906b2e9bb))
     (instances
       (project "Hotp4ck60"
         (path "/a57939d7-40ce-4436-8014-db245ef7f3c5/17e88a0c-a769-4510-88e4-07b3d0306d6c"
@@ -6288,8 +6288,8 @@
     (property "Datasheet" "" (at 59.69 48.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 2bf76baa-ddca-47b1-8686-5f71a685f644))
-    (pin "2" (uuid c65e969f-3917-46cf-a5f9-91d165eb9450))
+    (pin "1" (uuid a69ec1a4-d39e-4fba-8fb9-2e5764f9f315))
+    (pin "2" (uuid 0ba6db5c-79f3-4946-876f-96b85d895e43))
     (instances
       (project "Hotp4ck"
         (path "/2eb2890b-86ec-4e38-8010-af710e838c20"
