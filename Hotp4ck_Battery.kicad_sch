@@ -1337,10 +1337,10 @@
     (pin "3" (uuid 4bac9ce2-c9d7-4a91-af8a-929cec22c31d))
     (pin "4" (uuid e9dc5658-61af-4827-8034-c7e2584d5ae5))
     (pin "5" (uuid 07757b31-b442-492f-9a7d-415dc8b874bd))
-    (pin "9" (uuid 99813089-57d4-4498-a8bb-d0e3252eee91))
     (pin "6" (uuid b15f25e7-906e-46b1-9464-e5a4b68e3e02))
     (pin "7" (uuid 1d1ce6f7-e0e5-45ec-bd7d-d6c9d6ac94b9))
     (pin "8" (uuid c225e988-b363-4211-8939-b9151359627d))
+    (pin "9" (uuid 99813089-57d4-4498-a8bb-d0e3252eee91))
     (instances
       (project "Hotp4ck60"
         (path "/a57939d7-40ce-4436-8014-db245ef7f3c5/18c06ada-111b-4ec0-9dc0-78c3052676b0"
