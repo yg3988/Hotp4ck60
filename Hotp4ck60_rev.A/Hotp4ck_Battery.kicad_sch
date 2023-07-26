@@ -1336,7 +1336,7 @@
   (symbol (lib_id "Device:C_Small") (at 40.64 53.34 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 0de13dd2-7508-42d1-942c-08ad6f8395ab)
-    (property "Reference" "C22" (at 40.64 45.72 0)
+    (property "Reference" "C21" (at 40.64 45.72 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "10 uF" (at 40.64 48.26 0)
@@ -1353,7 +1353,7 @@
     (instances
       (project "Hotp4ck60"
         (path "/a57939d7-40ce-4436-8014-db245ef7f3c5/18c06ada-111b-4ec0-9dc0-78c3052676b0"
-          (reference "C22") (unit 1)
+          (reference "C21") (unit 1)
         )
       )
       (project "designguide-schematic"
@@ -1556,7 +1556,7 @@
           (reference "C27") (unit 1)
         )
         (path "/a57939d7-40ce-4436-8014-db245ef7f3c5/18c06ada-111b-4ec0-9dc0-78c3052676b0"
-          (reference "C25") (unit 1)
+          (reference "C24") (unit 1)
         )
       )
       (project "designguide-schematic"
@@ -1792,7 +1792,7 @@
   (symbol (lib_id "Device:C_Small") (at 77.47 53.34 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 773ba93e-146e-47cd-b392-210fa055628d)
-    (property "Reference" "C24" (at 73.66 52.07 0)
+    (property "Reference" "C23" (at 73.66 52.07 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "10 uF" (at 74.93 54.61 0)
@@ -1809,7 +1809,7 @@
     (instances
       (project "Hotp4ck60"
         (path "/a57939d7-40ce-4436-8014-db245ef7f3c5/18c06ada-111b-4ec0-9dc0-78c3052676b0"
-          (reference "C24") (unit 1)
+          (reference "C23") (unit 1)
         )
       )
       (project "designguide-schematic"
@@ -1896,7 +1896,7 @@
           (reference "C22") (unit 1)
         )
         (path "/a57939d7-40ce-4436-8014-db245ef7f3c5/18c06ada-111b-4ec0-9dc0-78c3052676b0"
-          (reference "C23") (unit 1)
+          (reference "C22") (unit 1)
         )
       )
       (project "designguide-schematic"
