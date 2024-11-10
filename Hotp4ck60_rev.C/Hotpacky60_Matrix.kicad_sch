@@ -4863,17 +4863,8 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Device" "D"
-			(at 44.45 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 44.45 95.25 0)
+		(property "LCSC" "C2128"
+			(at 27.94 78.74 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4948,17 +4939,8 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Device" "D"
-			(at 242.57 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 242.57 95.25 0)
+		(property "LCSC" "C2128"
+			(at 27.94 78.74 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5033,17 +5015,8 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Device" "D"
-			(at 60.96 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 60.96 95.25 0)
+		(property "LCSC" "C2128"
+			(at 27.94 78.74 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5118,17 +5091,8 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Device" "D"
-			(at 193.04 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 193.04 45.72 0)
+		(property "LCSC" "C2128"
+			(at 27.94 78.74 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5365,17 +5329,8 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Device" "D"
-			(at 226.06 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 226.06 45.72 0)
+		(property "LCSC" "C2128"
+			(at 27.94 78.74 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5774,17 +5729,8 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Device" "D"
-			(at 160.02 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 160.02 45.72 0)
+		(property "LCSC" "C2128"
+			(at 27.94 78.74 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5859,17 +5805,8 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Device" "D"
-			(at 242.57 29.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 242.57 29.21 0)
+		(property "LCSC" "C2128"
+			(at 27.94 78.74 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5944,17 +5881,8 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Device" "D"
-			(at 143.51 29.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 143.51 29.21 0)
+		(property "LCSC" "C2128"
+			(at 27.94 78.74 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6353,17 +6281,8 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Device" "D"
-			(at 93.98 29.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 93.98 29.21 0)
+		(property "LCSC" "C2128"
+			(at 27.94 78.74 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6519,17 +6438,8 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Device" "D"
-			(at 110.49 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 110.49 78.74 0)
+		(property "LCSC" "C2128"
+			(at 27.94 78.74 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6847,17 +6757,8 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Device" "D"
-			(at 143.51 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 143.51 62.23 0)
+		(property "LCSC" "C2128"
+			(at 27.94 78.74 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7337,17 +7238,8 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Device" "D"
-			(at 77.47 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 77.47 62.23 0)
+		(property "LCSC" "C2128"
+			(at 27.94 78.74 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7422,17 +7314,8 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Device" "D"
-			(at 77.47 29.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 77.47 29.21 0)
+		(property "LCSC" "C2128"
+			(at 27.94 78.74 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7507,17 +7390,8 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Device" "D"
-			(at 193.04 29.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 193.04 29.21 0)
+		(property "LCSC" "C2128"
+			(at 27.94 78.74 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7916,17 +7790,8 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Device" "D"
-			(at 209.55 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 209.55 95.25 0)
+		(property "LCSC" "C2128"
+			(at 27.94 78.74 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8082,17 +7947,8 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Device" "D"
-			(at 60.96 29.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 60.96 29.21 0)
+		(property "LCSC" "C2128"
+			(at 27.94 78.74 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8167,17 +8023,8 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Device" "D"
-			(at 127 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 127 95.25 0)
+		(property "LCSC" "C2128"
+			(at 27.94 78.74 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8252,17 +8099,8 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Device" "D"
-			(at 127 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 127 45.72 0)
+		(property "LCSC" "C2128"
+			(at 27.94 78.74 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8499,17 +8337,8 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Device" "D"
-			(at 127 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 127 62.23 0)
+		(property "LCSC" "C2128"
+			(at 27.94 78.74 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8746,17 +8575,8 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Device" "D"
-			(at 209.55 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 209.55 45.72 0)
+		(property "LCSC" "C2128"
+			(at 27.94 78.74 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8912,17 +8732,8 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Device" "D"
-			(at 226.06 29.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 226.06 29.21 0)
+		(property "LCSC" "C2128"
+			(at 27.94 78.74 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9078,17 +8889,8 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Device" "D"
-			(at 27.94 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 27.94 45.72 0)
+		(property "LCSC" "C2128"
+			(at 27.94 78.74 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9244,17 +9046,8 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Device" "D"
-			(at 242.57 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 242.57 45.72 0)
+		(property "LCSC" "C2128"
+			(at 27.94 78.74 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9329,17 +9122,8 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Device" "D"
-			(at 110.49 29.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 110.49 29.21 0)
+		(property "LCSC" "C2128"
+			(at 27.94 78.74 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9414,17 +9198,8 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Device" "D"
-			(at 27.94 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 27.94 78.74 0)
+		(property "LCSC" "C2128"
+			(at 27.94 78.74 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9499,17 +9274,8 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Device" "D"
-			(at 127 29.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 127 29.21 0)
+		(property "LCSC" "C2128"
+			(at 27.94 78.74 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9584,17 +9350,8 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Device" "D"
-			(at 143.51 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 143.51 45.72 0)
+		(property "LCSC" "C2128"
+			(at 27.94 78.74 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9669,17 +9426,8 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Device" "D"
-			(at 143.51 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 143.51 78.74 0)
+		(property "LCSC" "C2128"
+			(at 27.94 78.74 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9754,17 +9502,8 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Device" "D"
-			(at 27.94 29.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 27.94 29.21 0)
+		(property "LCSC" "C2128"
+			(at 27.94 29.21 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9839,17 +9578,8 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Device" "D"
-			(at 160.02 96.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 160.02 96.52 0)
+		(property "LCSC" "C2128"
+			(at 27.94 78.74 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10005,17 +9735,8 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Device" "D"
-			(at 226.06 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 226.06 95.25 0)
+		(property "LCSC" "C2128"
+			(at 27.94 78.74 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10333,17 +10054,8 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Device" "D"
-			(at 127 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 127 78.74 0)
+		(property "LCSC" "C2128"
+			(at 27.94 78.74 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10499,17 +10211,8 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Device" "D"
-			(at 160.02 29.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 160.02 29.21 0)
+		(property "LCSC" "C2128"
+			(at 27.94 78.74 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10827,17 +10530,8 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Device" "D"
-			(at 77.47 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 77.47 95.25 0)
+		(property "LCSC" "C2128"
+			(at 27.94 78.74 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10912,17 +10606,8 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Device" "D"
-			(at 110.49 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 110.49 45.72 0)
+		(property "LCSC" "C2128"
+			(at 27.94 78.74 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10997,17 +10682,8 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Device" "D"
-			(at 110.49 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 110.49 62.23 0)
+		(property "LCSC" "C2128"
+			(at 27.94 78.74 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11163,17 +10839,8 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Device" "D"
-			(at 60.96 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 60.96 78.74 0)
+		(property "LCSC" "C2128"
+			(at 27.94 78.74 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11248,17 +10915,8 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Device" "D"
-			(at 176.53 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 176.53 45.72 0)
+		(property "LCSC" "C2128"
+			(at 27.94 78.74 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11333,17 +10991,8 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Device" "D"
-			(at 242.57 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 242.57 78.74 0)
+		(property "LCSC" "C2128"
+			(at 27.94 78.74 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11580,17 +11229,8 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Device" "D"
-			(at 209.55 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 209.55 62.23 0)
+		(property "LCSC" "C2128"
+			(at 27.94 78.74 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11746,17 +11386,8 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Device" "D"
-			(at 93.98 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 93.98 78.74 0)
+		(property "LCSC" "C2128"
+			(at 27.94 78.74 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11912,17 +11543,8 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Device" "D"
-			(at 44.45 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 44.45 45.72 0)
+		(property "LCSC" "C2128"
+			(at 27.94 78.74 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12078,17 +11700,8 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Device" "D"
-			(at 44.45 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 44.45 62.23 0)
+		(property "LCSC" "C2128"
+			(at 27.94 78.74 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12163,17 +11776,8 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Device" "D"
-			(at 193.04 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 193.04 78.74 0)
+		(property "LCSC" "C2128"
+			(at 27.94 78.74 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12248,17 +11852,8 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Device" "D"
-			(at 193.04 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 193.04 62.23 0)
+		(property "LCSC" "C2128"
+			(at 27.94 78.74 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12333,17 +11928,8 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Device" "D"
-			(at 242.57 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 242.57 62.23 0)
+		(property "LCSC" "C2128"
+			(at 27.94 78.74 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12418,17 +12004,8 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Device" "D"
-			(at 27.94 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 27.94 95.25 0)
+		(property "LCSC" "C2128"
+			(at 27.94 95.25 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12665,17 +12242,8 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Device" "D"
-			(at 77.47 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 77.47 78.74 0)
+		(property "LCSC" "C2128"
+			(at 27.94 78.74 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12750,17 +12318,8 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Device" "D"
-			(at 77.47 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 77.47 45.72 0)
+		(property "LCSC" "C2128"
+			(at 27.94 78.74 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12835,17 +12394,8 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Device" "D"
-			(at 27.94 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 27.94 62.23 0)
+		(property "LCSC" "C2128"
+			(at 27.94 62.23 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12920,17 +12470,8 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Device" "D"
-			(at 209.55 29.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 209.55 29.21 0)
+		(property "LCSC" "C2128"
+			(at 27.94 78.74 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13329,17 +12870,8 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Device" "D"
-			(at 160.02 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 160.02 78.74 0)
+		(property "LCSC" "C2128"
+			(at 27.94 78.74 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13414,17 +12946,8 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Device" "D"
-			(at 60.96 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 60.96 62.23 0)
+		(property "LCSC" "C2128"
+			(at 27.94 78.74 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13499,17 +13022,8 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Device" "D"
-			(at 93.98 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 93.98 62.23 0)
+		(property "LCSC" "C2128"
+			(at 27.94 78.74 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13746,17 +13260,8 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Device" "D"
-			(at 93.98 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 93.98 45.72 0)
+		(property "LCSC" "C2128"
+			(at 27.94 78.74 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13912,17 +13417,8 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Device" "D"
-			(at 193.04 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 193.04 95.25 0)
+		(property "LCSC" "C2128"
+			(at 27.94 78.74 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13997,17 +13493,8 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Device" "D"
-			(at 60.96 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 60.96 45.72 0)
+		(property "LCSC" "C2128"
+			(at 27.94 78.74 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14082,17 +13569,8 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Device" "D"
-			(at 176.53 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 176.53 62.23 0)
+		(property "LCSC" "C2128"
+			(at 27.94 78.74 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14248,17 +13726,8 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Device" "D"
-			(at 44.45 29.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 44.45 29.21 0)
+		(property "LCSC" "C2128"
+			(at 27.94 78.74 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14495,17 +13964,8 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Device" "D"
-			(at 176.53 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 176.53 78.74 0)
+		(property "LCSC" "C2128"
+			(at 27.94 78.74 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14580,17 +14040,8 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Device" "D"
-			(at 209.55 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 209.55 78.74 0)
+		(property "LCSC" "C2128"
+			(at 27.94 78.74 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14908,17 +14359,8 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Device" "D"
-			(at 160.02 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 160.02 62.23 0)
+		(property "LCSC" "C2128"
+			(at 27.94 78.74 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15236,17 +14678,8 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Device" "D"
-			(at 176.53 29.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 176.53 29.21 0)
+		(property "LCSC" "C2128"
+			(at 27.94 78.74 90)
 			(effects
 				(font
 					(size 1.27 1.27)
