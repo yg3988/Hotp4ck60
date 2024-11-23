@@ -3,7 +3,7 @@
 	(generator "eeschema")
 	(generator_version "8.0")
 	(uuid "a57939d7-40ce-4436-8014-db245ef7f3c5")
-	(paper "A3")
+	(paper "A4")
 	(lib_symbols
 		(symbol "Battery_Management:BQ24075RGT"
 			(exclude_from_sim no)
@@ -770,6 +770,242 @@
 				)
 			)
 		)
+		(symbol "Connector_Generic_MountingPin:Conn_01x04_MountingPin"
+			(pin_names
+				(offset 1.016) hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "J"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "Conn_01x04_MountingPin"
+				(at 1.27 -7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Generic connectable mounting pin connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "connector"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "Connector*:*_1x??-1MP*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "Conn_01x04_MountingPin_1_1"
+				(rectangle
+					(start -1.27 -4.953)
+					(end 0 -5.207)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -1.27 -2.413)
+					(end 0 -2.667)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -1.27 0.127)
+					(end 0 -0.127)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -1.27 2.667)
+					(end 0 2.413)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -1.27 3.81)
+					(end 1.27 -6.35)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.016 -7.112) (xy 1.016 -7.112)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(text "Mounting"
+					(at 0 -6.731 0)
+					(effects
+						(font
+							(size 0.381 0.381)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 2.54 0)
+					(length 3.81)
+					(name "Pin_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 0 0)
+					(length 3.81)
+					(name "Pin_2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -2.54 0)
+					(length 3.81)
+					(name "Pin_3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -5.08 0)
+					(length 3.81)
+					(name "Pin_4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -10.16 90)
+					(length 3.048)
+					(name "MountPin"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "MP"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "Device:C_Small"
 			(pin_numbers hide)
 			(pin_names
@@ -1040,6 +1276,506 @@
 						)
 					)
 					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "Device:LED_RAGB"
+			(pin_names
+				(offset 0) hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "D"
+				(at 0 9.398 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "LED_RAGB"
+				(at 0 -8.89 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 -1.27 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 -1.27 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "RGB LED, red/anode/green/blue"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "LED RGB diode"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "LED* LED_SMD:* LED_THT:*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "LED_RAGB_0_0"
+				(text "B"
+					(at -1.905 -6.35 0)
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(text "G"
+					(at -1.905 -1.27 0)
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(text "R"
+					(at -1.905 3.81 0)
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(symbol "LED_RAGB_0_1"
+				(polyline
+					(pts
+						(xy -1.27 -5.08) (xy -2.54 -5.08)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 -5.08) (xy 1.27 -5.08)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 -3.81) (xy -1.27 -6.35)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 0) (xy -2.54 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 1.27) (xy -1.27 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 5.08) (xy -2.54 5.08)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 5.08) (xy 1.27 5.08)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 6.35) (xy -1.27 3.81)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 0) (xy -1.27 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 0) (xy 2.54 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 1.27) (xy -1.27 -1.27) (xy -1.27 -1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 6.35) (xy -1.27 3.81) (xy -1.27 3.81)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -5.08) (xy 2.032 -5.08) (xy 2.032 5.08) (xy 1.27 5.08)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -3.81) (xy 1.27 -6.35) (xy -1.27 -5.08) (xy 1.27 -3.81)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 1.27) (xy 1.27 -1.27) (xy -1.27 0) (xy 1.27 1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 6.35) (xy 1.27 3.81) (xy -1.27 5.08) (xy 1.27 6.35)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.016 -3.81) (xy 0.508 -2.286) (xy -0.254 -2.286) (xy 0.508 -2.286) (xy 0.508 -3.048)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.016 1.27) (xy 0.508 2.794) (xy -0.254 2.794) (xy 0.508 2.794) (xy 0.508 2.032)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.016 6.35) (xy 0.508 7.874) (xy -0.254 7.874) (xy 0.508 7.874) (xy 0.508 7.112)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -3.81) (xy 1.524 -2.286) (xy 0.762 -2.286) (xy 1.524 -2.286) (xy 1.524 -3.048)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 1.27) (xy 1.524 2.794) (xy 0.762 2.794) (xy 1.524 2.794) (xy 1.524 2.032)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 6.35) (xy 1.524 7.874) (xy 0.762 7.874) (xy 1.524 7.874) (xy 1.524 7.112)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 1.27 -1.27)
+					(end 1.27 1.27)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 1.27 1.27)
+					(end 1.27 1.27)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 1.27 3.81)
+					(end 1.27 6.35)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 1.27 6.35)
+					(end 1.27 6.35)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 2.032 0)
+					(radius 0.254)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start 2.794 8.382)
+					(end -2.794 -7.62)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+			)
+			(symbol "LED_RAGB_1_1"
+				(pin passive line
+					(at -5.08 5.08 0)
+					(length 2.54)
+					(name "RK"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 0 180)
+					(length 2.54)
+					(name "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "GK"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -5.08 0)
+					(length 2.54)
+					(name "BK"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1671,506 +2407,6 @@
 						)
 					)
 					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
-		(symbol "PCM_marbastlib-various:LED_MHT151RGBCT"
-			(pin_names
-				(offset 0) hide)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "LED"
-				(at 0 9.398 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "LED_MHT151RGBCT"
-				(at 0 -8.89 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" "PCM_marbastlib-various:LED_1206R"
-				(at 0 -1.27 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2104121904_MEIHUA-MHT151RGBCT_C409782.pdf"
-				(at 0 -1.27 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "reverse mount RGB LED, green/red/blue/anode."
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "LED RGB diode reverse mount 1206 "
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "LED* LED_SMD:* LED_THT:*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "LED_MHT151RGBCT_0_0"
-				(text "B"
-					(at -1.905 -6.35 0)
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(text "G"
-					(at -1.905 -1.27 0)
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(text "R"
-					(at -1.905 3.81 0)
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(symbol "LED_MHT151RGBCT_0_1"
-				(polyline
-					(pts
-						(xy -1.27 -5.08) (xy -2.54 -5.08)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.27 -5.08) (xy 1.27 -5.08)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.27 -3.81) (xy -1.27 -6.35)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.27 0) (xy -2.54 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.27 1.27) (xy -1.27 -1.27)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.27 5.08) (xy -2.54 5.08)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.27 5.08) (xy 1.27 5.08)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.27 6.35) (xy -1.27 3.81)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 0) (xy -1.27 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 0) (xy 2.54 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.27 1.27) (xy -1.27 -1.27) (xy -1.27 -1.27)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.27 6.35) (xy -1.27 3.81) (xy -1.27 3.81)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 -5.08) (xy 2.032 -5.08) (xy 2.032 5.08) (xy 1.27 5.08)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 -3.81) (xy 1.27 -6.35) (xy -1.27 -5.08) (xy 1.27 -3.81)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 1.27) (xy 1.27 -1.27) (xy -1.27 0) (xy 1.27 1.27)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 6.35) (xy 1.27 3.81) (xy -1.27 5.08) (xy 1.27 6.35)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.016 -3.81) (xy 0.508 -2.286) (xy -0.254 -2.286) (xy 0.508 -2.286) (xy 0.508 -3.048)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.016 1.27) (xy 0.508 2.794) (xy -0.254 2.794) (xy 0.508 2.794) (xy 0.508 2.032)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.016 6.35) (xy 0.508 7.874) (xy -0.254 7.874) (xy 0.508 7.874) (xy 0.508 7.112)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 -3.81) (xy 1.524 -2.286) (xy 0.762 -2.286) (xy 1.524 -2.286) (xy 1.524 -3.048)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 1.27) (xy 1.524 2.794) (xy 0.762 2.794) (xy 1.524 2.794) (xy 1.524 2.032)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 6.35) (xy 1.524 7.874) (xy 0.762 7.874) (xy 1.524 7.874) (xy 1.524 7.112)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 1.27 -1.27)
-					(end 1.27 1.27)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 1.27 1.27)
-					(end 1.27 1.27)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 1.27 3.81)
-					(end 1.27 6.35)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 1.27 6.35)
-					(end 1.27 6.35)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 2.032 0)
-					(radius 0.254)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(rectangle
-					(start 2.794 8.382)
-					(end -2.794 -7.62)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-			)
-			(symbol "LED_MHT151RGBCT_1_1"
-				(pin passive line
-					(at 5.08 0 180)
-					(length 2.54)
-					(name "A"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 -5.08 0)
-					(length 2.54)
-					(name "BK"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 0 0)
-					(length 2.54)
-					(name "GK"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 5.08 0)
-					(length 2.54)
-					(name "RK"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -4032,7 +4268,7 @@
 		(uuid "3bec3df4-20b4-4781-b292-70db9f9fd666")
 	)
 	(junction
-		(at 46.99 53.34)
+		(at 50.8 46.99)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5d05eeaf-e101-484b-b5b6-231babb02672")
@@ -4317,7 +4553,7 @@
 	)
 	(wire
 		(pts
-			(xy 46.99 45.72) (xy 46.99 44.45)
+			(xy 50.8 54.61) (xy 50.8 55.88)
 		)
 		(stroke
 			(width 0)
@@ -4687,7 +4923,7 @@
 	)
 	(wire
 		(pts
-			(xy 57.15 53.34) (xy 60.96 53.34)
+			(xy 40.64 46.99) (xy 36.83 46.99)
 		)
 		(stroke
 			(width 0)
@@ -4707,7 +4943,7 @@
 	)
 	(wire
 		(pts
-			(xy 46.99 53.34) (xy 52.07 53.34)
+			(xy 50.8 46.99) (xy 45.72 46.99)
 		)
 		(stroke
 			(width 0)
@@ -4747,7 +4983,7 @@
 	)
 	(wire
 		(pts
-			(xy 44.45 53.34) (xy 46.99 53.34)
+			(xy 53.34 46.99) (xy 50.8 46.99)
 		)
 		(stroke
 			(width 0)
@@ -4807,7 +5043,7 @@
 	)
 	(wire
 		(pts
-			(xy 44.45 45.72) (xy 46.99 45.72)
+			(xy 53.34 54.61) (xy 50.8 54.61)
 		)
 		(stroke
 			(width 0)
@@ -4907,7 +5143,7 @@
 	)
 	(wire
 		(pts
-			(xy 46.99 53.34) (xy 46.99 57.15)
+			(xy 50.8 46.99) (xy 50.8 43.18)
 		)
 		(stroke
 			(width 0)
@@ -5298,6 +5534,28 @@
 			)
 		)
 	)
+	(global_label "LED_G"
+		(shape input)
+		(at 80.01 151.13 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "1b3cd867-5d2d-4619-a995-02efe9dbe825")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 88.6799 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "D+"
 		(shape bidirectional)
 		(at 34.29 125.73 180)
@@ -5532,28 +5790,6 @@
 			)
 		)
 	)
-	(global_label "LED_B"
-		(shape input)
-		(at 80.01 151.13 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "55c44f5e-1804-489e-87a0-1af819a9f625")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 88.0257 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "col4"
 		(shape input)
 		(at 80.01 168.91 0)
@@ -5682,6 +5918,28 @@
 			)
 		)
 	)
+	(global_label "LED_B"
+		(shape input)
+		(at 34.29 163.83 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "79ecd07a-c098-45f7-b85c-befae10cbb78")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 25.6201 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "col2"
 		(shape input)
 		(at 80.01 163.83 0)
@@ -5704,16 +5962,16 @@
 	)
 	(global_label "D-"
 		(shape bidirectional)
-		(at 44.45 50.8 0)
+		(at 53.34 49.53 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "7e44bae1-b594-436a-ad67-b78986c343f4")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 44.45 50.8 0)
+			(at 53.34 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5740,6 +5998,26 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "row0"
+		(shape input)
+		(at 34.29 146.05 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "835835ca-12a2-4c52-bd23-3a5cab064846")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at -12.7 15.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -5784,26 +6062,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "row1"
-		(shape input)
-		(at 34.29 151.13 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "9fca52f8-2be5-4154-875a-22988c4055b8")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at -33.02 20.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
 				(hide yes)
 			)
 		)
@@ -6041,16 +6299,16 @@
 	)
 	(global_label "D+"
 		(shape bidirectional)
-		(at 44.45 48.26 0)
+		(at 53.34 52.07 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "d7e2d2fd-a245-4019-8088-cb6481757486")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 44.45 48.26 0)
+			(at 53.34 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6075,28 +6333,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "LED_G"
-		(shape input)
-		(at 34.29 163.83 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "e1363731-fc09-4750-bcbc-c4906e98068b")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 25.6201 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
 				(hide yes)
 			)
 		)
@@ -6225,18 +6461,18 @@
 			)
 		)
 	)
-	(global_label "row0"
+	(global_label "row1"
 		(shape input)
-		(at 34.29 146.05 180)
+		(at 34.29 151.13 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right)
 		)
-		(uuid "f5ed5230-8d3c-44b7-947d-b61fea3b6498")
+		(uuid "faa8f1ef-0661-46a0-8800-a56c4768a620")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at -12.7 15.24 0)
+			(at -33.02 20.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6761,7 +6997,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 46.99 44.45 180)
+		(at 50.8 55.88 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6769,7 +7005,7 @@
 		(dnp no)
 		(uuid "1802b276-9212-4b86-a059-2037df700643")
 		(property "Reference" "#PWR03"
-			(at 46.99 38.1 0)
+			(at 50.8 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6778,7 +7014,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 46.863 40.0558 0)
+			(at 50.927 60.2742 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6786,7 +7022,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 46.99 44.45 0)
+			(at 50.8 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6795,7 +7031,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 46.99 44.45 0)
+			(at 50.8 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6804,7 +7040,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 46.99 44.45 0)
+			(at 50.8 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6904,7 +7140,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 255.27 228.6 0)
+		(at 226.06 91.44 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -6913,7 +7149,7 @@
 		(fields_autoplaced yes)
 		(uuid "1e0d850b-8999-44f6-8032-b1133fa03ff2")
 		(property "Reference" "H?"
-			(at 257.81 227.3299 0)
+			(at 228.6 90.1699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6923,7 +7159,7 @@
 			)
 		)
 		(property "Value" "Mounting_Keyboard_Stabilizer:2u"
-			(at 257.81 229.8699 0)
+			(at 228.6 92.7099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6932,7 +7168,7 @@
 			)
 		)
 		(property "Footprint" "Mounting_Keyboard_Stabilizer:Stabilizer_Cherry_MX_2u"
-			(at 255.27 228.6 0)
+			(at 226.06 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6941,7 +7177,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 255.27 228.6 0)
+			(at 226.06 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6950,7 +7186,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 255.27 228.6 0)
+			(at 226.06 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7181,82 +7417,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector_Generic:Conn_01x04")
-		(at 39.37 50.8 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "20d884c3-f5a9-4bd7-bb81-d45669f2632e")
-		(property "Reference" "J1"
-			(at 36.83 50.8001 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Conn_01x04"
-			(at 36.83 48.2601 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Connector_JST:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal"
-			(at 39.37 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 39.37 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 39.37 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "7ca50931-0d80-4ebf-974e-9140015a279e")
-		)
-		(pin "4"
-			(uuid "8e2fb629-c3f3-47ab-b0d9-b92051062e0b")
-		)
-		(pin "1"
-			(uuid "c8b6eeb9-120a-4dd3-90e9-ab6349cea8d8")
-		)
-		(pin "3"
-			(uuid "c46ceaa5-2b08-484f-ae08-3cdc9e253ae7")
-		)
-		(instances
-			(project "Hotp4ck60"
-				(path "/a57939d7-40ce-4436-8014-db245ef7f3c5"
-					(reference "J1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C_Small")
 		(at 215.9 49.53 0)
 		(unit 1)
@@ -7411,7 +7571,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 255.27 247.65 0)
+		(at 226.06 110.49 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -7420,7 +7580,7 @@
 		(fields_autoplaced yes)
 		(uuid "2b356c38-5427-461f-9bf8-48cf8cae6a02")
 		(property "Reference" "H?"
-			(at 257.81 246.3799 0)
+			(at 228.6 109.2199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7429,7 +7589,7 @@
 			)
 		)
 		(property "Value" "Mounting_Keyboard_Stabilizer:2u"
-			(at 257.81 248.9199 0)
+			(at 228.6 111.7599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7438,7 +7598,7 @@
 			)
 		)
 		(property "Footprint" "Mounting_Keyboard_Stabilizer:Stabilizer_Cherry_MX_2u"
-			(at 255.27 247.65 0)
+			(at 226.06 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7447,7 +7607,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 255.27 247.65 0)
+			(at 226.06 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7456,7 +7616,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 255.27 247.65 0)
+			(at 226.06 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7939,7 +8099,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-various:SW_T1A2QR"
+		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_XKB_TS-1187A"
 			(at 138.43 132.08 0)
 			(effects
 				(font
@@ -7966,7 +8126,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C100056"
+		(property "LCSC" " C318884"
 			(at 133.35 132.08 0)
 			(effects
 				(font
@@ -8198,7 +8358,7 @@
 	(symbol
 		(lib_name "MountingHole_1")
 		(lib_id "Mechanical:MountingHole")
-		(at 255.27 273.05 0)
+		(at 226.06 135.89 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -8207,7 +8367,7 @@
 		(fields_autoplaced yes)
 		(uuid "6f5bbabb-d374-4c4a-af8d-4eb81cc6bdfc")
 		(property "Reference" "H?"
-			(at 257.81 271.7799 0)
+			(at 228.6 134.6199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8216,7 +8376,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 257.81 274.3199 0)
+			(at 228.6 137.1599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8225,7 +8385,7 @@
 			)
 		)
 		(property "Footprint" "amtra5_outline:Hotp4ckOutline"
-			(at 255.27 273.05 0)
+			(at 226.06 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8234,7 +8394,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 255.27 273.05 0)
+			(at 226.06 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8243,7 +8403,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 255.27 273.05 0)
+			(at 226.06 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8643,7 +8803,7 @@
 	)
 	(symbol
 		(lib_id "power:VBUS")
-		(at 46.99 57.15 180)
+		(at 50.8 43.18 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8652,7 +8812,7 @@
 		(fields_autoplaced yes)
 		(uuid "7eef69a6-0f45-4129-8a10-47d3a71907db")
 		(property "Reference" "#PWR01"
-			(at 46.99 53.34 0)
+			(at 50.8 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8661,7 +8821,7 @@
 			)
 		)
 		(property "Value" "VBUS"
-			(at 46.99 62.23 0)
+			(at 50.8 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8669,7 +8829,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 46.99 57.15 0)
+			(at 50.8 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8678,7 +8838,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 46.99 57.15 0)
+			(at 50.8 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8687,7 +8847,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 46.99 57.15 0)
+			(at 50.8 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8873,7 +9033,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 255.27 234.95 0)
+		(at 226.06 97.79 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -8882,7 +9042,7 @@
 		(fields_autoplaced yes)
 		(uuid "880c66b4-494b-46ae-b26f-c073044c4e13")
 		(property "Reference" "H?"
-			(at 257.81 233.6799 0)
+			(at 228.6 96.5199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8891,7 +9051,7 @@
 			)
 		)
 		(property "Value" "Mounting_Keyboard_Stabilizer:2u"
-			(at 257.81 236.2199 0)
+			(at 228.6 99.0599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8900,7 +9060,7 @@
 			)
 		)
 		(property "Footprint" "Mounting_Keyboard_Stabilizer:Stabilizer_Cherry_MX_2u"
-			(at 255.27 234.95 0)
+			(at 226.06 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8909,7 +9069,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 255.27 234.95 0)
+			(at 226.06 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8918,7 +9078,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 255.27 234.95 0)
+			(at 226.06 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9102,7 +9262,7 @@
 	)
 	(symbol
 		(lib_id "Device:Polyfuse_Small")
-		(at 54.61 53.34 270)
+		(at 43.18 46.99 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9110,7 +9270,7 @@
 		(dnp no)
 		(uuid "9095b91a-7a8d-479a-bff2-2dd25d7b6310")
 		(property "Reference" "F1"
-			(at 54.61 48.133 90)
+			(at 43.18 52.197 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9118,7 +9278,7 @@
 			)
 		)
 		(property "Value" "500mA"
-			(at 54.61 50.4444 90)
+			(at 43.18 49.8856 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9126,7 +9286,7 @@
 			)
 		)
 		(property "Footprint" "Fuse:Fuse_0603_1608Metric"
-			(at 49.53 54.61 0)
+			(at 48.26 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9136,7 +9296,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 54.61 53.34 0)
+			(at 43.18 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9145,7 +9305,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 54.61 53.34 0)
+			(at 43.18 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9154,7 +9314,7 @@
 			)
 		)
 		(property "LCSC" "C883095"
-			(at 54.61 53.34 0)
+			(at 43.18 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9263,88 +9423,6 @@
 		)
 	)
 	(symbol
-		(lib_id "PCM_marbastlib-various:LED_MHT151RGBCT")
-		(at 177.8 129.54 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "9d21218f-92ff-4fb2-9225-87ed9932c936")
-		(property "Reference" "LED1"
-			(at 170.18 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "IND"
-			(at 170.18 125.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "PCM_marbastlib-various:LED_1206R"
-			(at 177.8 128.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2104121904_MEIHUA-MHT151RGBCT_C409782.pdf"
-			(at 177.8 128.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 177.8 129.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C2802677"
-			(at 177.8 129.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "8b98d167-32db-480f-a773-42f8652fc9f8")
-		)
-		(pin "4"
-			(uuid "69dbb7df-c334-47c3-abcf-b7b80f52e62e")
-		)
-		(pin "1"
-			(uuid "d1b795fd-4fab-4f98-ba08-9e8cb1d4d279")
-		)
-		(pin "2"
-			(uuid "0372158a-556e-403a-a61b-ffb85a1065ca")
-		)
-		(instances
-			(project "Hotp4ck60"
-				(path "/a57939d7-40ce-4436-8014-db245ef7f3c5"
-					(reference "LED1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+5V")
 		(at 34.29 120.65 90)
 		(unit 1)
@@ -9411,7 +9489,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 255.27 241.3 0)
+		(at 226.06 104.14 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -9420,7 +9498,7 @@
 		(fields_autoplaced yes)
 		(uuid "a8f14077-1c28-4fde-b48a-052ad4805f8e")
 		(property "Reference" "H?"
-			(at 257.81 240.0299 0)
+			(at 228.6 102.8699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9429,7 +9507,7 @@
 			)
 		)
 		(property "Value" "Mounting_Keyboard_Stabilizer:2u"
-			(at 257.81 242.5699 0)
+			(at 228.6 105.4099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9438,7 +9516,7 @@
 			)
 		)
 		(property "Footprint" "Mounting_Keyboard_Stabilizer:Stabilizer_Cherry_MX_2u"
-			(at 255.27 241.3 0)
+			(at 226.06 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9447,7 +9525,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 255.27 241.3 0)
+			(at 226.06 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9456,7 +9534,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 255.27 241.3 0)
+			(at 226.06 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9487,7 +9565,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 255.27 254 0)
+		(at 226.06 116.84 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -9496,7 +9574,7 @@
 		(fields_autoplaced yes)
 		(uuid "ade0bcdf-56ba-4a1a-98e4-a0ef90f2103c")
 		(property "Reference" "H?"
-			(at 257.81 252.7299 0)
+			(at 228.6 115.5699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9505,7 +9583,7 @@
 			)
 		)
 		(property "Value" "Mounting_Keyboard_Stabilizer:2u"
-			(at 257.81 255.2699 0)
+			(at 228.6 118.1099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9514,7 +9592,7 @@
 			)
 		)
 		(property "Footprint" "Mounting_Keyboard_Stabilizer:Stabilizer_Cherry_MX_2u"
-			(at 255.27 254 0)
+			(at 226.06 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9523,7 +9601,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 255.27 254 0)
+			(at 226.06 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9532,7 +9610,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 255.27 254 0)
+			(at 226.06 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9563,7 +9641,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 60.96 53.34 0)
+		(at 36.83 46.99 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9571,7 +9649,7 @@
 		(dnp no)
 		(uuid "b321e454-67cc-4388-b68d-d7e83b89cfd6")
 		(property "Reference" "#PWR04"
-			(at 60.96 57.15 0)
+			(at 36.83 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9580,7 +9658,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 61.341 48.9458 0)
+			(at 37.211 42.5958 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9588,7 +9666,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 60.96 53.34 0)
+			(at 36.83 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9597,7 +9675,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 60.96 53.34 0)
+			(at 36.83 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9606,7 +9684,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 60.96 53.34 0)
+			(at 36.83 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9780,7 +9858,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 255.27 260.35 0)
+		(at 226.06 123.19 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -9789,7 +9867,7 @@
 		(fields_autoplaced yes)
 		(uuid "b56d6a4a-7cbe-4815-836f-85e5b38da092")
 		(property "Reference" "H?"
-			(at 257.81 259.0799 0)
+			(at 228.6 121.9199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9798,7 +9876,7 @@
 			)
 		)
 		(property "Value" "Mounting_Keyboard_Stabilizer:2u"
-			(at 257.81 261.6199 0)
+			(at 228.6 124.4599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9807,7 +9885,7 @@
 			)
 		)
 		(property "Footprint" "Mounting_Keyboard_Stabilizer:Stabilizer_Cherry_MX_2u"
-			(at 255.27 260.35 0)
+			(at 226.06 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9816,7 +9894,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 255.27 260.35 0)
+			(at 226.06 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9825,7 +9903,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 255.27 260.35 0)
+			(at 226.06 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10009,7 +10087,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 255.27 266.7 0)
+		(at 226.06 129.54 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -10018,7 +10096,7 @@
 		(fields_autoplaced yes)
 		(uuid "bc48031e-b87f-405b-9412-4f8af1b6d69c")
 		(property "Reference" "H?"
-			(at 257.81 265.4299 0)
+			(at 228.6 128.2699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10027,7 +10105,7 @@
 			)
 		)
 		(property "Value" "Mounting_Keyboard_Stabilizer:6.25u"
-			(at 257.81 267.9699 0)
+			(at 228.6 130.8099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10036,7 +10114,7 @@
 			)
 		)
 		(property "Footprint" "Mounting_Keyboard_Stabilizer:Stabilizer_Cherry_MX_6.25u"
-			(at 255.27 266.7 0)
+			(at 226.06 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10045,7 +10123,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 255.27 266.7 0)
+			(at 226.06 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10054,7 +10132,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 255.27 266.7 0)
+			(at 226.06 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10078,6 +10156,224 @@
 			(project "designguide-schematic"
 				(path "/c2a65ddb-3915-4293-98a9-444287fe2a3d"
 					(reference "H?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic_MountingPin:Conn_01x04_MountingPin")
+		(at 58.42 49.53 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "bc59e652-1d0b-47cb-8264-23cc44879717")
+		(property "Reference" "J1"
+			(at 60.96 52.4257 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x04_MountingPin"
+			(at 60.96 49.8857 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Connector_JST:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal"
+			(at 58.42 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 58.42 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connectable mounting pin connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 58.42 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "4"
+			(uuid "7030b96b-8f58-4f8d-82e5-8b8b9cfff0e0")
+		)
+		(pin "1"
+			(uuid "cebf389b-5455-4a0e-8462-b1eba5a5fc97")
+		)
+		(pin "2"
+			(uuid "420250bc-3c81-432b-a1dc-9dc9d12cd654")
+		)
+		(pin "MP"
+			(uuid "1019da10-3aac-4f7f-9bc6-8d3cca605603")
+		)
+		(pin "3"
+			(uuid "7fd37d4c-abd7-436a-9e06-407daa5b657c")
+		)
+		(instances
+			(project "Hotp4ck60"
+				(path "/a57939d7-40ce-4436-8014-db245ef7f3c5"
+					(reference "J1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:LED_RAGB")
+		(at 177.8 129.54 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c1200af0-48b7-40f7-91bc-7bd8a9b29a94")
+		(property "Reference" "LED1"
+			(at 177.8 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LED_RAGB"
+			(at 177.8 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 177.8 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 177.8 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "RGB LED, red/anode/green/blue"
+			(at 177.8 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d5bb044b-f0d1-4f46-adc5-3a758fd0390f")
+		)
+		(pin "2"
+			(uuid "1425e1ca-8900-4ca3-a9df-a9c0ddb383c0")
+		)
+		(pin "4"
+			(uuid "ea8d2da8-756a-4a70-8a3a-6e1f97abf2b2")
+		)
+		(pin "3"
+			(uuid "f88084d0-d85f-4182-beeb-714459dafc23")
+		)
+		(instances
+			(project "Hotp4ck60"
+				(path "/a57939d7-40ce-4436-8014-db245ef7f3c5"
+					(reference "LED1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 58.42 59.69 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c158ddbf-947d-4ec2-984d-56a54a1a83c0")
+		(property "Reference" "#PWR07"
+			(at 58.42 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 58.547 64.0842 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 58.42 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 58.42 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 58.42 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0b2f5b65-7679-401f-8a5c-6b7bd9844667")
+		)
+		(instances
+			(project "Hotp4ck60"
+				(path "/a57939d7-40ce-4436-8014-db245ef7f3c5"
+					(reference "#PWR07")
 					(unit 1)
 				)
 			)
@@ -10854,7 +11150,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 255.27 276.86 0)
+		(at 226.06 139.7 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10862,7 +11158,7 @@
 		(dnp no)
 		(uuid "f3a7e1c6-54f3-463e-a179-a0f13c80d3e3")
 		(property "Reference" "#PWR?"
-			(at 255.27 283.21 0)
+			(at 226.06 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10871,7 +11167,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 259.08 276.86 0)
+			(at 229.87 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10879,7 +11175,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 255.27 276.86 0)
+			(at 226.06 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10888,7 +11184,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 255.27 276.86 0)
+			(at 226.06 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10897,7 +11193,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 255.27 276.86 0)
+			(at 226.06 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11325,8 +11621,8 @@
 		)
 	)
 	(sheet
-		(at 369.57 228.6)
-		(size 20.32 19.05)
+		(at 157.48 148.59)
+		(size 59.69 13.97)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -11337,7 +11633,7 @@
 		)
 		(uuid "17e88a0c-a769-4510-88e4-07b3d0306d6c")
 		(property "Sheetname" "Matrix"
-			(at 369.57 227.8884 0)
+			(at 157.48 147.8784 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11346,7 +11642,7 @@
 			)
 		)
 		(property "Sheetfile" "Hotpacky60_Matrix.kicad_sch"
-			(at 369.57 248.2346 0)
+			(at 157.48 163.1446 0)
 			(effects
 				(font
 					(size 1.27 1.27)

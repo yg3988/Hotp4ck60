@@ -1,7 +1,7 @@
 (sym_lib_table
   (version 7)
-  (lib (name "marbastlib-choc")(type "KiCad")(uri "C:/Users/yg398/Documents/keyboard/Hotp4ck60/lib/marbastlib/marbastlib-choc.kicad_sym")(options "")(descr ""))
-  (lib (name "marbastlib-mx")(type "KiCad")(uri "C:/Users/yg398/Documents/keyboard/Hotp4ck60/lib/marbastlib/marbastlib-mx.kicad_sym")(options "")(descr ""))
-  (lib (name "marbastlib-various")(type "KiCad")(uri "C:/Users/yg398/Documents/keyboard/Hotp4ck60/lib/marbastlib/marbastlib-various.kicad_sym")(options "")(descr ""))
-  (lib (name "Hotp4ckkicad_sym")(type "KiCad")(uri "C:/Users/yg398/Documents/keyboard/Hotp4ck60/lib/Hotp4ckkicad_sym.kicad_sym")(options "")(descr ""))
+  (lib (name "marbastlib-choc")(type "KiCad")(uri "C:/Users/yg398/Documents/Keyboard/[PCB]Keyboard/Hotp4ck60/lib/marbastlib/marbastlib-choc.kicad_sym")(options "")(descr ""))
+  (lib (name "marbastlib-mx")(type "KiCad")(uri "C:/Users/yg398/Documents/Keyboard/[PCB]Keyboard/Hotp4ck60/lib/marbastlib/marbastlib-mx.kicad_sym")(options "")(descr ""))
+  (lib (name "marbastlib-various")(type "KiCad")(uri "C:/Users/yg398/Documents/Keyboard/[PCB]Keyboard/Hotp4ck60/lib/marbastlib/marbastlib-various.kicad_sym")(options "")(descr ""))
+  (lib (name "Hotp4ckkicad_sym")(type "KiCad")(uri "C:/Users/yg398/Documents/Keyboard/[PCB]Keyboard/Hotp4ck60/lib/Hotp4ckkicad_sym.kicad_sym")(options "")(descr ""))
 )
