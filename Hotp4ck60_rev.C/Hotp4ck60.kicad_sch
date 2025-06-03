@@ -4511,7 +4511,7 @@
 		)
 		(uuid "39690b4c-c4d9-49ad-ab21-c0bd0fac750d")
 	)
-	(text "TMR: t (7200s) / (10 * 48 s/kOhme) = 15kOhm\n  * Charging time is approximately 1.5 to 2 times the capacity of the battery\n  * 1A * 1.5 <= t <= 1A * 2 1.5h -> 5400s <= t <= 2h = 7200s\nILIM: 1550 AOhm / 1500 Ohm = 1.03 A = 1030 mA\nISET: 890 AOhm / 910 Ohm = 0.978 A = 978 mA\nEN1: 1, EN2: 0 = Set by an external resistor from ILIM to VSS\nTS: 10 kOhm to GND = no OTP"
+	(text "TMR: t (3600s/hr * 9hr 6minute) / (10 * 48 s/kOhme) = 68kOhm\nILIM: 1550 AOhm / 1500 Ohm = 1.03 A = 1030 mA\nISET: 890 AOhm / 2200 Ohm = 0.404 A = 440 mA\nEN1: 1, EN2: 0 = 475 mA MAX\nTS: 10 kOhm to GND = no OTP"
 		(exclude_from_sim no)
 		(at 158.75 79.756 0)
 		(effects
@@ -7060,7 +7060,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "910"
+		(property "Value" "2k2"
 			(at 154.94 69.85 0)
 			(effects
 				(font
@@ -7096,7 +7096,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C44933"
+		(property "LCSC" "C25879"
 			(at 156.21 62.23 0)
 			(effects
 				(font
@@ -8845,7 +8845,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "15k"
+		(property "Value" "68k"
 			(at 144.78 69.85 0)
 			(effects
 				(font
@@ -8854,7 +8854,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 146.05 62.23 0)
 			(effects
 				(font
@@ -8881,7 +8881,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C25792"
+		(property "LCSC" "C17801"
 			(at 146.05 62.23 0)
 			(effects
 				(font

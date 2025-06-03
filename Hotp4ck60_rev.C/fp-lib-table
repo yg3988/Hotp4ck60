@@ -7,5 +7,5 @@
   (lib (name "marbastlib-mx")(type "KiCad")(uri "${KIPRJMOD}/lib/marbastlib/marbastlib-mx.pretty")(options "")(descr ""))
   (lib (name "marbastlib-various")(type "KiCad")(uri "${KIPRJMOD}/lib/marbastlib/marbastlib-various.pretty")(options "")(descr ""))
   (lib (name "parts")(type "KiCad")(uri "${KIPRJMOD}/lib/marbastlib/parts")(options "")(descr ""))
-  (lib (name "hotp4ck")(type "KiCad")(uri "${KIPRJMOD}/hotp4ck.pretty")(options "")(descr ""))
+  (lib (name "hotp4ck")(type "KiCad")(uri "${KIPRJMOD}/lib/Hotp4ck.pretty")(options "")(descr ""))
 )
