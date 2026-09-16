@@ -8991,6 +8991,16 @@
 	)
 	(wire
 		(pts
+			(xy 137.16 96.52) (xy 133.35 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "222c5f18-67d2-4dca-8171-f21facc984a9")
+	)
+	(wire
+		(pts
 			(xy 222.25 119.38) (xy 223.52 119.38)
 		)
 		(stroke
@@ -9748,6 +9758,16 @@
 			(type default)
 		)
 		(uuid "8cad5678-6763-4e14-b84a-8c9f9eeccb8f")
+	)
+	(wire
+		(pts
+			(xy 63.5 160.02) (xy 67.31 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8ce9665c-3259-4946-be66-c9b7f0848f91")
 	)
 	(wire
 		(pts
@@ -10569,6 +10589,16 @@
 		)
 		(uuid "368fe764-9848-412f-b377-5ae18c103a89")
 	)
+	(label "~{RST}"
+		(at 63.5 160.02 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "3731cacd-452b-479d-b0d3-98755e369ebe")
+	)
 	(label "~{CHG}"
 		(at 248.92 53.34 180)
 		(effects
@@ -10658,6 +10688,16 @@
 			(justify right bottom)
 		)
 		(uuid "9859d736-2b8b-4667-8635-e59ce233b025")
+	)
+	(label "~{RST}"
+		(at 137.16 96.52 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "9f4ed5b1-c561-4c0b-8219-d0e69731ae2b")
 	)
 	(label "XL1"
 		(at 137.16 53.34 180)
@@ -14765,7 +14805,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_DFN_QFN:VQFN-16-1EP_3x3mm_P0.5mm_EP1.6x1.6mm"
+		(property "Footprint" "lib:VQFN-16-1EP_3x3mm_P0.5mm_EP1.6x1.6mm"
 			(at 238.76 57.15 0)
 			(hide yes)
 			(show_name no)
